@@ -1,198 +1,198 @@
-| [CVE-2014-1829] python-requests: password disclosure on redirect
-| https://bugs.debian.org/733108
-| https://github.com/kennethreitz/requests/issues/1885
+[CVE-2014-1829] python-requests: password disclosure on redirect:
+ | https://bugs.debian.org/733108
+ | https://github.com/kennethreitz/requests/issues/1885
 
-| [CVE-2014-1402] jinja2: insecure use of /tmp
-| https://bugs.debian.org/734747
+[CVE-2014-1402] jinja2: insecure use of /tmp
+ | https://bugs.debian.org/734747
 
-| [CVE-2014-1604] RPLY: insecure use of /tmp
-| https://bugs.debian.org/735263
+[CVE-2014-1604] RPLY: insecure use of /tmp
+ | https://bugs.debian.org/735263
 
-| [CVE-2014-1624] pyxdg: insecure use of /tmp
-| https://bugs.debian.org/736247
+[CVE-2014-1624] pyxdg: insecure use of /tmp
+ | https://bugs.debian.org/736247
 
-| [CVE-2014-1831] Phusion Passenger: insecure use of /tmp
-| https://github.com/phusion/passenger/commit/34b1087870c2
-| https://bugs.debian.org/736958
+[CVE-2014-1831] Phusion Passenger: insecure use of /tmp
+ | https://github.com/phusion/passenger/commit/34b1087870c2
+ | https://bugs.debian.org/736958
 
-| [CVE-2014-1838] logilab-common: insecure use of /tmp
-| https://bugs.debian.org/737051
+[CVE-2014-1838] logilab-common: insecure use of /tmp
+ | https://bugs.debian.org/737051
 
-| [CVE-2014-1839] logilab-common: insecure use of /tmp
-| https://bugs.debian.org/737051
+[CVE-2014-1839] logilab-common: insecure use of /tmp
+ | https://bugs.debian.org/737051
 
-| [CVE-2014-1932] PIL: insecure use of /tmp
-| https://bugs.debian.org/737059
+[CVE-2014-1932] PIL: insecure use of /tmp
+ | https://bugs.debian.org/737059
 
-| [CVE-2014-1933] PIL: insecure use of /tmp
-| https://bugs.debian.org/737059
+[CVE-2014-1933] PIL: insecure use of /tmp
+ | https://bugs.debian.org/737059
 
-| [CVE-2014-1934] eyeD3: insecure use of /tmp
-| https://bugs.debian.org/737062
-| https://bitbucket.org/nicfit/eyed3/issue/65
+[CVE-2014-1934] eyeD3: insecure use of /tmp
+ | https://bugs.debian.org/737062
+ | https://bitbucket.org/nicfit/eyed3/issue/65
 
-| [CVE-2014-1936] Byron Rakitzis's rc: insecure use of /tmp in the test suite
-| https://bugs.debian.org/737125
+[CVE-2014-1936] Byron Rakitzis's rc: insecure use of /tmp in the test suite
+ | https://bugs.debian.org/737125
 
-| [CVE-2014-1833] devscripts: uupdate(1): symlink directory traversal
-| https://bugs.debian.org/737160
+[CVE-2014-1833] devscripts: uupdate(1): symlink directory traversal
+ | https://bugs.debian.org/737160
 
-| [CVE-2014-1935] Plan9 rc: insecure use of /tmp
-| https://bugs.debian.org/737206
+[CVE-2014-1935] Plan9 rc: insecure use of /tmp
+ | https://bugs.debian.org/737206
 
-| [CVE-2014-1937] Gamera: insecure use of /tmp
-| https://bugs.debian.org/737324
+[CVE-2014-1937] Gamera: insecure use of /tmp
+ | https://bugs.debian.org/737324
 
-| [CVE-2001-1593] a2ps: insecure use of /tmp (rediscovered)
-| https://bugs.debian.org/737385
+[CVE-2001-1593] a2ps: insecure use of /tmp (rediscovered)
+ | https://bugs.debian.org/737385
 
-| [CVE-2014-1876] OpenJDK: unpack200(1): insecure use of /tmp
-| https://bugs.debian.org/737562
+[CVE-2014-1876] OpenJDK: unpack200(1): insecure use of /tmp
+ | https://bugs.debian.org/737562
 
-| [CVE-2014-1938] RPLY: insecure use of /tmp (redux)
-| https://bugs.debian.org/737627
+[CVE-2014-1938] RPLY: insecure use of /tmp (redux)
+ | https://bugs.debian.org/737627
 
-| [CVE-2014-1858, CVE-2014-1859] NumPy: insecure use of /tmp
-| https://bugs.debian.org/737778
+[CVE-2014-1858, CVE-2014-1859] NumPy: insecure use of /tmp
+ | https://bugs.debian.org/737778
 
-| [CVE-2014-1875] Capture::Tiny: insecure use of /tmp
-| https://bugs.debian.org/737835
+[CVE-2014-1875] Capture::Tiny: insecure use of /tmp
+ | https://bugs.debian.org/737835
 
-| [CVE-2014-2093, CVE-2014-2094, CVE-2014-2095, CVE-2014-2096] Catfish: untrusted search path
-| https://bugs.debian.org/739958
+[CVE-2014-2093, CVE-2014-2094, CVE-2014-2095, CVE-2014-2096] Catfish: untrusted search path
+ | https://bugs.debian.org/739958
 
-| Perltidy: insecure use of /tmp
-| possibly CVE-2014-2277
-| https://bugs.debian.org/740670
+Perltidy: insecure use of /tmp
+ | possibly CVE-2014-2277
+ | https://bugs.debian.org/740670
 
-| mozilla-devscripts: xpi-repack(1): insecure use of /tmp
-| https://bugs.debian.org/740759
+mozilla-devscripts: xpi-repack(1): insecure use of /tmp
+ | https://bugs.debian.org/740759
 
-| listadmin: insecure use of /tmp
-| https://bugs.debian.org/740891
+listadmin: insecure use of /tmp
+ | https://bugs.debian.org/740891
 
-| ELinks: improper validation of certificate with host mismatch
-| https://bugs.debian.org/740981
+ELinks: improper validation of certificate with host mismatch
+ | https://bugs.debian.org/740981
 
-| ELinks: HTTP to file:// redirects
-| https://bugs.debian.org/744799
+ELinks: HTTP to file:// redirects
+ | https://bugs.debian.org/744799
 
-| [CVE-2014-2893] clang: scan-build(1): insecure use of /tmp
-| https://bugs.debian.org/744817
+[CVE-2014-2893] clang: scan-build(1): insecure use of /tmp
+ | https://bugs.debian.org/744817
 
-| LWP::Protocol::https: HTTPS_CA_DIR or HTTPS_CA_FILE disables certificate verification for IO::Socket::SSL
-| possibly CVE-2014-3230
-| https://bugs.debian.org/746579
+LWP::Protocol::https: HTTPS_CA_DIR or HTTPS_CA_FILE disables certificate verification for IO::Socket::SSL
+ | possibly CVE-2014-3230
+ | https://bugs.debian.org/746579
 
-| python-vtk6: untrusted RPATH
-| https://bugs.debian.org/748667
+python-vtk6: untrusted RPATH
+ | https://bugs.debian.org/748667
 
-| [CVE-2014-0478] APT: no authentication checks for source packages
-| https://bugs.debian.org/749795
+[CVE-2014-0478] APT: no authentication checks for source packages
+ | https://bugs.debian.org/749795
 
-| OpenSSL: insecure creation of ~/.rnd
-| https://bugs.debian.org/750103
+OpenSSL: insecure creation of ~/.rnd
+ | https://bugs.debian.org/750103
 
-| t-coffee: insecure permissions of ~/.t_coffee
-| https://bugs.debian.org/751579
+t-coffee: insecure permissions of ~/.t_coffee
+ | https://bugs.debian.org/751579
 
-| Debian package python-biopython: HOME=/tmp
-| https://bugs.debian.org/751586
+Debian package python-biopython: HOME=/tmp
+ | https://bugs.debian.org/751586
 
-| Ngraph-gtk: XDG_RUNTIME_DIR=/tmp
-| https://bugs.debian.org/751664
+Ngraph-gtk: XDG_RUNTIME_DIR=/tmp
+ | https://bugs.debian.org/751664
 
-| Debian package tox: HOME=/tmp
-| https://bugs.debian.org/751804
+Debian package tox: HOME=/tmp
+ | https://bugs.debian.org/751804
 
-| APT: "apt-get build-dep *pkgname*" insecure in untrusted directory
-| https://bugs.debian.org/754041
+APT: "apt-get build-dep *pkgname*" insecure in untrusted directory
+ | https://bugs.debian.org/754041
 
-| OpenJDK 7: untrusted RPATH
-| https://bugs.debian.org/754278
+OpenJDK 7: untrusted RPATH
+ | https://bugs.debian.org/754278
 
-| Noise: untrusted RPATH
-| https://bugs.debian.org/759868
+Noise: untrusted RPATH
+ | https://bugs.debian.org/759868
 
-| ledger: untrusted RPATH
-| https://bugs.debian.org/760110
+ledger: untrusted RPATH
+ | https://bugs.debian.org/760110
 
-| GNU Automake: install-sh(1): insecure use of /tmp
-| https://bugs.debian.org/760455
+GNU Automake: install-sh(1): insecure use of /tmp
+ | https://bugs.debian.org/760455
 
-| Debian package openssh: pam_env user_readenv=1 enabled in sshd.pam
-| https://bugs.debian.org/761600
-| see also: CVE-2010-4708
+Debian package openssh: pam_env user_readenv=1 enabled in sshd.pam
+ | https://bugs.debian.org/761600
+ | see also: CVE-2010-4708
 
-| OpenJDK 7: insecure use of /tmp/hsperfdata_*
-| https://bugs.debian.org/761683
+OpenJDK 7: insecure use of /tmp/hsperfdata_*
+ | https://bugs.debian.org/761683
 
-| Debian package lilypond: HOME=/tmp
-| https://bugs.debian.org/762230
+Debian package lilypond: HOME=/tmp
+ | https://bugs.debian.org/762230
 
-| Debian UDD: XSS in bts-usertags.cgi
-| https://bugs.debian.org/764199
+Debian UDD: XSS in bts-usertags.cgi
+ | https://bugs.debian.org/764199
 
-| gettext: msgunfmt(1): integer overflow
-| https://bugs.debian.org/769901
+gettext: msgunfmt(1): integer overflow
+ | https://bugs.debian.org/769901
 
-| procmail: formail(1): buffer overflow
-| https://bugs.debian.org/769937
+procmail: formail(1): buffer overflow
+ | https://bugs.debian.org/769937
 
-| procmail: null pointer dereference
-| https://bugs.debian.org/769938
+procmail: null pointer dereference
+ | https://bugs.debian.org/769938
 
-| [CVE-2014-9116] mutt: buffer overflow
-| https://bugs.debian.org/771125
-| http://dev.mutt.org/trac/ticket/3716
+[CVE-2014-9116] mutt: buffer overflow
+ | https://bugs.debian.org/771125
+ | http://dev.mutt.org/trac/ticket/3716
 
-| Debian package nvi: insecure use of /var/tmp
-| https://bugs.debian.org/771375
+Debian package nvi: insecure use of /var/tmp
+ | https://bugs.debian.org/771375
 
-| Debian package netenv: insecure use of /var/tmp
-| https://bugs.debian.org/771458
+Debian package netenv: insecure use of /var/tmp
+ | https://bugs.debian.org/771458
 
-| netenv: insecure use of /var/tmp
-| https://bugs.debian.org/771786
+netenv: insecure use of /var/tmp
+ | https://bugs.debian.org/771786
 
-| Debian package pcp: insecure use of /var/tmp
-| https://bugs.debian.org/771793
+Debian package pcp: insecure use of /var/tmp
+ | https://bugs.debian.org/771793
 
-| gettext: msgunfmt(1): buffer overflow
-| https://bugs.debian.org/772088
+gettext: msgunfmt(1): buffer overflow
+ | https://bugs.debian.org/772088
 
-| JSON-GLib: reachable assertion
-| https://bugs.debian.org/772585
+JSON-GLib: reachable assertion
+ | https://bugs.debian.org/772585
 
-| glibc: tzset(3): buffer overflow
-| https://bugs.debian.org/772705
-| https://sourceware.org/bugzilla/show_bug.cgi?id=17715
+glibc: tzset(3): buffer overflow
+ | https://bugs.debian.org/772705
+ | https://sourceware.org/bugzilla/show_bug.cgi?id=17715
 
-| procmail: improper environment sanitization (TZ)
-| https://bugs.debian.org/772706
+procmail: improper environment sanitization (TZ)
+ | https://bugs.debian.org/772706
 
-| sudo: improper environment sanitization (TZ)
-| https://bugs.debian.org/772707
+sudo: improper environment sanitization (TZ)
+ | https://bugs.debian.org/772707
 
-| t1disasm: infinite loop
-| https://bugs.debian.org/772774
+t1disasm: infinite loop
+ | https://bugs.debian.org/772774
 
-| cabextract: infinite loop
-| https://bugs.debian.org/772891
+cabextract: infinite loop
+ | https://bugs.debian.org/772891
 
-| libmspack: infinite loop
-| https://bugs.debian.org/773000
+libmspack: infinite loop
+ | https://bugs.debian.org/773000
 
-| dumpasn1.c: slowness
-| https://bugs.debian.org/773041
+dumpasn1.c: slowness
+ | https://bugs.debian.org/773041
 
-| qprint: infinite loop
-| https://bugs.debian.org/773186
+qprint: infinite loop
+ | https://bugs.debian.org/773186
 
-| HT: null pointer dereference
-| https://bugs.debian.org/773308
+HT: null pointer dereference
+ | https://bugs.debian.org/773308
 
-| cabextract: null pointer dereference
-| https://bugs.debian.org/773659
+cabextract: null pointer dereference
+ | https://bugs.debian.org/773659
 
 .. vim:ft=rst
