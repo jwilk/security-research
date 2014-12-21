@@ -1,4 +1,4 @@
-[CVE-2014-1829] python-requests: password disclosure on redirect:
+[CVE-2014-1829] python-requests: password disclosure on redirect
  | https://bugs.debian.org/733108
  | https://github.com/kennethreitz/requests/issues/1885
 
