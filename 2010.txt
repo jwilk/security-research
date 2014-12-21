@@ -1,0 +1,27 @@
+| [CVE-2010-3444] PyFriBidi: buffer overflow 
+| https://bugs.debian.org/570068
+
+| babiloo: insecure use of /tmp
+| https://bugs.debian.org/591995
+| possibly CVE-2010-3440
+
+| Babiloo: directory traversal on tarball unpacking
+| https://bugs.debian.org/591995
+| possibly CVE-2010-3440
+| see also CVE-2007-4559
+
+| [CVE-2010-4338] ocrodjvu: insecure use of /tmp
+| https://bugs.debian.org/598134
+
+| Debian package no-ip: insecure use of /dev/shm
+| https://bugs.debian.org/601229
+
+| [CVE-2010-4167] ImageMagick: untrusted search path
+| https://bugs.debian.org/601824
+
+| [CVE-2010-4337] GNU Gnash: insecure use of /tmp
+| https://bugs.debian.org/605419
+| https://bugs.debian.org/650555
+| https://bugs.python.org/issue13512
+
+.. vim:ft=rst

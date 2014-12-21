@@ -1,0 +1,18 @@
+| [CVE-2011-4944] Python: insecure creation of ~/.pypirc
+| https://bugs.debian.org/615118
+
+| [CVE-2011-0082] Iceweasel: improper certificate verification for pages loaded from cache
+| https://bugs.debian.org/627552
+| https://bugzilla.mozilla.org/show_bug.cgi?id=660749
+
+| [CVE-2011-5271] Pacemaker: insecure use of /tmp
+| https://bugs.debian.org/633964
+
+| theunarchiver: unar(1): directory traversal
+| https://bugs.debian.org/642028
+| https://code.google.com/p/theunarchiver/issues/detail?id=392
+
+| [CVE-2011-4606] Rocks'n'Diamonds: insecure permissions of ~/.rocksndiamonds/
+| https://bugs.debian.org/651620
+
+.. vim:ft=rst

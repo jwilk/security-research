@@ -1,0 +1,16 @@
+| rxvt-unicode: insecure use of /tmp in documentation
+| https://bugs.debian.org/654986
+
+| [CVE-2012-0842] surf: insecure cookie jar permissions
+| https://bugs.debian.org/659296
+
+| [CVE-2012-0844] NetSurf: insecure cookie jar permissions
+| https://bugs.debian.org/659376
+
+| [CVE-2012-0843] uzbl: insecure cookie jar permissions
+| https://bugs.debian.org/659379
+
+| Nuitka: insecure use of /tmp
+| https://bugs.debian.org/682145
+
+.. vim:ft=rst

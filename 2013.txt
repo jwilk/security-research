@@ -1,0 +1,19 @@
+| fetchmail: --sslfingerprint uses MD5
+| https://bugs.debian.org/700266
+
+| pyspread: insecure creation of ~/.pyspreadrc
+| https://bugs.debian.org/701650
+
+| colortest: insecure use of /tmp
+| https://bugs.debian.org/709282
+
+| [CVE-2013-6409] adequate: privilege escalation via tty hijacking
+| https://bugs.debian.org/730691
+
+| [CVE-2013-7050] devscripts: uscan(1): remote code execution
+| https://bugs.debian.org/731849
+
+| [CVE-2013-7085] devscripts: uscan(1): remote file deletion
+| https://bugs.debian.org/732006
+
+.. vim:ft=rst
