@@ -1,7 +1,7 @@
 [CVE-2010-3444] PyFriBidi: buffer overflow 
  | https://bugs.debian.org/570068
 
-babiloo: insecure use of /tmp
+Babiloo: insecure use of /tmp
  | https://bugs.debian.org/591995
  | possibly CVE-2010-3440
 
