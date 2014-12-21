@@ -1,5 +1,7 @@
 [CVE-2011-4944] Python: insecure creation of ~/.pypirc
  | https://bugs.debian.org/615118
+ | https://bugs.debian.org/650555
+ | https://bugs.python.org/issue13512
 
 [CVE-2011-0082] Iceweasel: improper certificate verification for pages loaded from cache
  | https://bugs.debian.org/627552

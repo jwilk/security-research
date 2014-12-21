@@ -21,7 +21,5 @@ Debian package no-ip: insecure use of /dev/shm
 
 [CVE-2010-4337] GNU Gnash: insecure use of /tmp
  | https://bugs.debian.org/605419
- | https://bugs.debian.org/650555
- | https://bugs.python.org/issue13512
 
 .. vim:ft=rst
