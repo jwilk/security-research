@@ -1,8 +1,14 @@
+.. 2010-02-06
+
 [CVE-2010-3444] PyFriBidi: buffer overflow 
  | https://bugs.debian.org/570068
 
+.. 2010-03-13
+
 [CVE-2010-0398] autokey: insecure use of /tmp
  | https://bugs.launchpad.net/ubuntu/+source/autokey/+bug/538471
+
+.. 2010-08-06
 
 Babiloo: insecure use of /tmp
  | https://bugs.debian.org/591995
@@ -13,17 +19,27 @@ Babiloo: directory traversal on tarball unpacking
  | possibly CVE-2010-3440
  | see also CVE-2007-4559
 
+.. 2010-09-26
+
 [CVE-2010-4338] ocrodjvu: insecure use of /tmp
  | https://bugs.debian.org/598134
+
+.. 2010-10-14
 
 Debian package no-ip: insecure use of /dev/shm
  | https://bugs.debian.org/601229
 
+.. 2010-10-01
+
 [CVE-2010-4167] ImageMagick: untrusted search path
  | https://bugs.debian.org/601824
 
+.. 2010-11-29
+
 [CVE-2010-4337] GNU Gnash: insecure use of /tmp
  | https://bugs.debian.org/605419
+
+.. 2010-12-29
 
 [CVE-2010-1679] dpkg-source(1): directory traversal
  | https://lists.gnu.org/archive/html/bug-patch/2010-12/msg00000.html
