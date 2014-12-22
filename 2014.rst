@@ -1,21 +1,33 @@
+.. 2014-01-09
+
 [CVE-2014-1402] jinja2: insecure use of /tmp
  | https://bugs.debian.org/734747
+
+.. 2014-01-14
 
 [CVE-2014-1604] RPLY: insecure use of /tmp
  | https://bugs.debian.org/735263
 
+.. 2014-01-21
+
 [CVE-2014-1624] pyxdg: insecure use of /tmp
  | https://bugs.debian.org/736247
+
+.. 2014-01-27
 
 [CVE-2014-1831] Phusion Passenger: insecure use of /tmp
  | https://github.com/phusion/passenger/commit/34b1087870c2
  | https://bugs.debian.org/736958
+
+.. 2014-01-29
 
 [CVE-2014-1838] logilab-common: insecure use of /tmp
  | https://bugs.debian.org/737051
 
 [CVE-2014-1839] logilab-common: insecure use of /tmp
  | https://bugs.debian.org/737051
+
+.. 2014-01-29
 
 [CVE-2014-1932] PIL: insecure use of /tmp
  | https://bugs.debian.org/737059
@@ -24,65 +36,105 @@
 [CVE-2014-1933] PIL: insecure use of /tmp
  | https://bugs.debian.org/737059
 
+.. 2014-01-29
+
 [CVE-2014-1934] eyeD3: insecure use of /tmp
  | https://bugs.debian.org/737062
  | https://bitbucket.org/nicfit/eyed3/issue/65
 
+.. 2014-01-30
+
 [CVE-2014-1936] Byron Rakitzis's rc: insecure use of /tmp in the test suite
  | https://bugs.debian.org/737125
+
+.. 2014-01-30
 
 Python: doctest: insecure use of /tmp
  | https://bugs.python.org/issue20447
 
+.. 2014-01-30
+
 [CVE-2014-1833] devscripts: uupdate(1): symlink directory traversal
  | https://bugs.debian.org/737160
+
+.. 2014-01-31
 
 [CVE-2014-1935] Plan9 rc: insecure use of /tmp
  | https://bugs.debian.org/737206
 
+.. 2014-02-01
+
 [CVE-2014-1937] Gamera: insecure use of /tmp
  | https://bugs.debian.org/737324
+
+.. 2014-02-02
 
 [CVE-2001-1593] a2ps: insecure use of /tmp (rediscovered)
  | https://bugs.debian.org/737385
 
+.. 2014-02-03
+
 [CVE-2014-1876] OpenJDK: unpack200(1): insecure use of /tmp
  | https://bugs.debian.org/737562
+
+.. 2014-02-04
 
 [CVE-2014-1938] RPLY: insecure use of /tmp (redux)
  | https://bugs.debian.org/737627
 
+.. 2014-02-05
+
 [CVE-2014-1858, CVE-2014-1859] NumPy: insecure use of /tmp
  | https://bugs.debian.org/737778
 
+.. 2014-02-06
+
 [CVE-2014-1875] Capture::Tiny: insecure use of /tmp
  | https://bugs.debian.org/737835
+
+.. 2014-02-23
 
 Python: missing documentation for tar unpacking security
  | https://bugs.python.org/issue20749
  | see also CVE-2007-4559
 
+.. 2014-02-24
+
 [CVE-2014-2093, CVE-2014-2094, CVE-2014-2095, CVE-2014-2096] Catfish: untrusted search path
  | https://bugs.debian.org/739958
+
+.. 2014-03-03
 
 Perltidy: insecure use of /tmp
  | possibly CVE-2014-2277
  | https://bugs.debian.org/740670
 
+.. 2014-03-04
+
 mozilla-devscripts: xpi-repack(1): insecure use of /tmp
  | https://bugs.debian.org/740759
+
+.. 2014-03-05
 
 listadmin: insecure use of /tmp
  | https://bugs.debian.org/740891
 
+.. 2014-03-06
+
 ELinks: improper validation of certificate with host mismatch
  | https://bugs.debian.org/740981
+
+.. 2014-04-14
 
 ELinks: HTTP to file:// redirects
  | https://bugs.debian.org/744799
 
+.. 2014-04-15
+
 [CVE-2014-2893] clang: scan-build(1): insecure use of /tmp
  | https://bugs.debian.org/744817
+
+.. 2014-04-13
 
 [CVE-2014-0471] dpkg-source(1): directory traversal
  | see also CVE-2014-3127
@@ -90,108 +142,176 @@ ELinks: HTTP to file:// redirects
  | see also CVE-2014-3864
  | see also CVE-2014-3865
 
+.. 2014-05-01
+
 LWP::Protocol::https: HTTPS_CA_DIR or HTTPS_CA_FILE disables certificate verification for IO::Socket::SSL
  | possibly CVE-2014-3230
  | https://bugs.debian.org/746579
 
+.. 2014-05-19
+
 python-vtk6: untrusted RPATH
  | https://bugs.debian.org/748667
+
+.. 2014-05-29
 
 [CVE-2014-0478] APT: no authentication checks for source packages
  | https://bugs.debian.org/749795
 
+.. 2014-06-01
+
 OpenSSL: insecure creation of ~/.rnd
  | https://bugs.debian.org/750103
+
+.. 2014-06-14
 
 t-coffee: insecure permissions of ~/.t_coffee
  | https://bugs.debian.org/751579
 
+.. 2014-06-14
+
 Debian package python-biopython: HOME=/tmp
  | https://bugs.debian.org/751586
+
+.. 2014-06-15
 
 Ngraph-gtk: XDG_RUNTIME_DIR=/tmp
  | https://bugs.debian.org/751664
 
+.. 2014-06-16
+
 Debian package tox: HOME=/tmp
  | https://bugs.debian.org/751804
+
+.. 2014-07-06
 
 APT: "apt-get build-dep *pkgname*" insecure in untrusted directory
  | https://bugs.debian.org/754041
 
+.. 2014-07-09
+
 OpenJDK 7: untrusted RPATH
  | https://bugs.debian.org/754278
+
+.. 2014-07-24
 
 [CVE-2014-0479] reportbug: remote code execution
  |
 
+.. 2014-08-12
+
 Python: commands.mkarg(): command injection
  | https://bugs.python.org/issue22187
+
+.. 2014-08-30
 
 Noise: untrusted RPATH
  | https://bugs.debian.org/759868
 
+.. 2014-08-31
+
 ledger: untrusted RPATH
  | https://bugs.debian.org/760110
 
+.. 2014-09-04
+
 GNU Automake: install-sh(1): insecure use of /tmp
  | https://bugs.debian.org/760455
+
+.. 2014-09-14
 
 Debian package openssh: pam_env user_readenv=1 enabled in sshd.pam
  | https://bugs.debian.org/761600
  | see also CVE-2010-4708
 
+.. 2014-09-15
+
 OpenJDK 7: insecure use of /tmp/hsperfdata_*
  | https://bugs.debian.org/761683
+
+.. 2014-09-19
 
 Debian package lilypond: HOME=/tmp
  | https://bugs.debian.org/762230
 
+.. 2014-10-06
+
 Debian UDD: XSS in bts-usertags.cgi
  | https://bugs.debian.org/764199
+
+.. 2014-11-17
 
 gettext: msgunfmt(1): integer overflow
  | https://bugs.debian.org/769901
 
+.. 2014-11-17
+
 procmail: formail(1): buffer overflow
  | https://bugs.debian.org/769937
 
+.. 2014-11-17
+
 procmail: null pointer dereference
  | https://bugs.debian.org/769938
+
+.. 2014-11-27
 
 [CVE-2014-9116] mutt: buffer overflow
  | https://bugs.debian.org/771125
  | http://dev.mutt.org/trac/ticket/3716
 
+.. 2014-11-28
+
 Debian package nvi: insecure use of /var/tmp
  | https://bugs.debian.org/771375
+
+.. 2014-11-29
 
 Debian package netenv: insecure use of /var/tmp
  | https://bugs.debian.org/771458
 
+.. 2014-11-29
+
 netenv: insecure use of /var/tmp
  | https://bugs.debian.org/771786
+
+.. 2014-12-02
 
 Debian package pcp: insecure use of /var/tmp
  | https://bugs.debian.org/771793
 
+.. 2014-12-04
+
 gettext: msgunfmt(1): buffer overflow
  | https://bugs.debian.org/772088
 
+.. 2014-12-08
+
 JSON-GLib: reachable assertion
  | https://bugs.debian.org/772585
+
+.. 2014-12-10
 
 glibc: tzset(3): buffer overflow
  | https://bugs.debian.org/772705
  | https://sourceware.org/bugzilla/show_bug.cgi?id=17715
 
+.. 2014-10-16
+
 procmail: improper environment sanitization (TZ)
  | https://bugs.debian.org/772706
+
+.. 2014-10-16
 
 sudo: improper environment sanitization (TZ)
  | https://bugs.debian.org/772707
 
+.. 2014-12-10
+
 t1disasm: infinite loop
  | https://bugs.debian.org/772774
+
+.. 2014-12-11
 
 cabextract: infinite loop
  | https://bugs.debian.org/772891
@@ -199,14 +319,22 @@ cabextract: infinite loop
 libmspack: infinite loop
  | https://bugs.debian.org/773000
 
+.. 2014-12-12
+
 dumpasn1.c: excessive iteration
  | https://bugs.debian.org/773041
+
+.. 2014-12-15
 
 qprint: infinite loop
  | https://bugs.debian.org/773186
 
+.. 2014-12-16
+
 HT: null pointer dereference
  | https://bugs.debian.org/773308
+
+.. 2014-12-21
 
 cabextract: null pointer dereference
  | https://bugs.debian.org/773659
