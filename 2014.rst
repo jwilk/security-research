@@ -215,5 +215,3 @@ HT: null pointer dereference
 
 cabextract: null pointer dereference
  | https://bugs.debian.org/773659
-
-.. vim:ft=rst

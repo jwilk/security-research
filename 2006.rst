@@ -1,5 +1,3 @@
 .. 2006-07-29
 [CVE-2008-7224] ELinks: buffer overflow
  | https://bugs.debian.org/380347
-
-.. vim:ft=rst

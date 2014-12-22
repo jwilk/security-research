@@ -12,5 +12,3 @@ rxvt-unicode: insecure use of /tmp in documentation
 
 Nuitka: insecure use of /tmp
  | https://bugs.debian.org/682145
-
-.. vim:ft=rst

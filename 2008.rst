@@ -1,5 +1,3 @@
 .. 2008-06-25
 [CVE-2008-2942] Mercurial: directory traversal
  | https://bugs.debian.org/488628
-
-.. vim:ft=rst

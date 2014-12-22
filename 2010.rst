@@ -30,5 +30,3 @@ Debian package no-ip: insecure use of /dev/shm
 
 [CVE-2010-4651] GNU patch: directory traversal
  | https://lists.gnu.org/archive/html/bug-patch/2010-12/msg00000.html
-
-.. vim:ft=rst

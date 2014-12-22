@@ -10,5 +10,3 @@ Python: email.header.Header allows embedding raw newlines into message
 
 Python: ElementTree doesn't prevent creation of ill-formed XML (rediscovered)
  https://bugs.python.org/issue7599
-
-.. vim:ft=rst
