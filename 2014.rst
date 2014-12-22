@@ -154,6 +154,7 @@ ELinks: HTTP to file:// redirects
 LWP::Protocol::https: HTTPS_CA_DIR or HTTPS_CA_FILE disables certificate verification for IO::Socket::SSL
  | possibly CVE-2014-3230
  | https://bugs.debian.org/746579
+ | https://github.com/libwww-perl/lwp-protocol-https/pull/14
 
 .. 2014-05-19
 
