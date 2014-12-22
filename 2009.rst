@@ -11,6 +11,11 @@ Python: email.header.Header allows embedding raw newlines into message
 [CVE-2009-5042] Docutils: rst.el: insecure use of /tmp
  | https://bugs.debian.org/560755
 
+.. 2009-07-08
+lxml: doesn't prevent creation of ill-formed XML
+ | https://bugs.debian.org/536273
+ | https://bugs.launchpad.net/lxml/+bug/502967
+
 .. 2009-12-30
 Python: ElementTree doesn't prevent creation of ill-formed XML (rediscovered)
  https://bugs.python.org/issue7599
