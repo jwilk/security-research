@@ -37,3 +37,10 @@ Python: gettext: DoS via crafted Plural-Forms
 
 [CVE-2013-7325] devscripts: uscan(1): insecure tar extraction
  | https://anonscm.debian.org/cgit/collab-maint/devscripts.git/commit/?id=4b7e58ee6000
+
+.. 2013-12-25
+
+[CVE-2014-1829] python-requests: password disclosure on redirect
+ | https://bugs.debian.org/733108
+ | https://github.com/kennethreitz/requests/issues/1885
+ | see also CVE-2014-1830
