@@ -242,6 +242,15 @@ OpenJDK 7: insecure use of /tmp/hsperfdata_*
 Debian package lilypond: HOME=/tmp
  | https://bugs.debian.org/762230
 
+.. 2014-09-28
+
+Lynx: improper handling of overlong UTF-8 sequences
+ | https://bugs.debian.org/763268
+
+Vim: improper handling of overlong UTF-8 sequences
+ | (no bug filed, because this appears to deliberate)
+ | http://vimdoc.sourceforge.net/htmldoc/mbyte.html#mbyte-combining
+
 .. 2014-10-06
 
 Ultimate Debian Database: bts-usertags.cgi: XSS
