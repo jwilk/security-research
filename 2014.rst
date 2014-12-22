@@ -125,7 +125,7 @@ OpenJDK 7: untrusted RPATH
  |
 
 Python: commands.mkarg(): command injection
- | https://bugs.debian.org/772088
+ | https://bugs.python.org/issue22187
 
 Noise: untrusted RPATH
  | https://bugs.debian.org/759868
