@@ -133,6 +133,7 @@ ELinks: improper validation of certificate with host mismatch
 .. 2014-04-13
 
 [CVE-2014-0471] dpkg-source(1): directory traversal
+ | https://www.debian.org/security/2014/dsa-2915
  | see also CVE-2014-3127
  | see also CVE-2014-3227
  | see also CVE-2014-3864
@@ -202,7 +203,7 @@ OpenJDK 7: untrusted RPATH
 .. 2014-07-24
 
 [CVE-2014-0479] reportbug: remote code execution
- |
+ | https://www.debian.org/security/2014/dsa-2997
 
 .. 2014-08-12
 
