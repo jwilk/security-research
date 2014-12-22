@@ -92,6 +92,12 @@ Python: doctest: insecure use of /tmp
 [CVE-2014-1875] Capture::Tiny: insecure use of /tmp
  | https://bugs.debian.org/737835
 
+.. 2014-02-13
+
+Online Python Tutor: sandbox bypass
+ | https://lists.debian.org/20140409121133.GA2826@jwilk.net
+ | https://github.com/pgbovine/OnlinePythonTutor/commit/eab7cb1c717a
+
 .. 2014-02-23
 
 Python: missing documentation for tar unpacking security
