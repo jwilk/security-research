@@ -8,6 +8,12 @@
 [CVE-2010-0398] autokey: insecure use of /tmp
  | https://bugs.launchpad.net/ubuntu/+source/autokey/+bug/538471
 
+.. 2010-07-04
+
+Pylint: code execution
+ | https://bugs.debian.org/591676
+ | https://bitbucket.org/logilab/pylint/issue/347
+
 .. 2010-08-06
 
 Babiloo: insecure use of /tmp
