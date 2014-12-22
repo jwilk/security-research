@@ -132,7 +132,7 @@ GNU Automake: install-sh(1): insecure use of /tmp
 
 Debian package openssh: pam_env user_readenv=1 enabled in sshd.pam
  | https://bugs.debian.org/761600
- | see also: CVE-2010-4708
+ | see also CVE-2010-4708
 
 OpenJDK 7: insecure use of /tmp/hsperfdata_*
  | https://bugs.debian.org/761683
