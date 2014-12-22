@@ -82,7 +82,7 @@ ELinks: HTTP to file:// redirects
 [CVE-2014-2893] clang: scan-build(1): insecure use of /tmp
  | https://bugs.debian.org/744817
 
-[CVE-2014-0471] dpkg: dpkg-source(1): directory traversal
+[CVE-2014-0471] dpkg-source(1): directory traversal
  | see also CVE-2014-3127
  | see also CVE-2014-3227
  | see also CVE-2014-3864

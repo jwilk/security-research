@@ -25,7 +25,7 @@ Debian package no-ip: insecure use of /dev/shm
 [CVE-2010-4337] GNU Gnash: insecure use of /tmp
  | https://bugs.debian.org/605419
 
-[CVE-2010-1679] dpkg: dpkg-source(1): directory traversal
+[CVE-2010-1679] dpkg-source(1): directory traversal
  | https://lists.gnu.org/archive/html/bug-patch/2010-12/msg00000.html
 
 [CVE-2010-4651] GNU patch: directory traversal
