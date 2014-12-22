@@ -248,7 +248,7 @@ Lynx: improper handling of overlong UTF-8 sequences
  | https://bugs.debian.org/763268
 
 Vim: improper handling of overlong UTF-8 sequences
- | (no bug filed, because this appears to deliberate)
+ | (no bug filed, because this appears to be deliberate)
  | http://vimdoc.sourceforge.net/htmldoc/mbyte.html#mbyte-combining
 
 .. 2014-10-06
