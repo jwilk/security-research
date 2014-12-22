@@ -239,6 +239,11 @@ Debian package lilypond: HOME=/tmp
 Debian UDD: XSS in bts-usertags.cgi
  | https://bugs.debian.org/764199
 
+.. 2014-10-06
+
+bashcheck: insecure use of /tmp
+ | https://github.com/hannob/bashcheck/issues/27
+
 .. 2014-10-16
 
 procmail: improper environment sanitization (TZ)
