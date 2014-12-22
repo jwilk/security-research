@@ -24,15 +24,15 @@ Babiloo: directory traversal on tarball unpacking
 [CVE-2010-4338] ocrodjvu: insecure use of /tmp
  | https://bugs.debian.org/598134
 
-.. 2010-10-14
-
-Debian package no-ip: insecure use of /dev/shm
- | https://bugs.debian.org/601229
-
 .. 2010-10-01
 
 [CVE-2010-4167] ImageMagick: untrusted search path
  | https://bugs.debian.org/601824
+
+.. 2010-10-14
+
+Debian package no-ip: insecure use of /dev/shm
+ | https://bugs.debian.org/601229
 
 .. 2010-11-29
 

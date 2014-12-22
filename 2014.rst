@@ -124,6 +124,14 @@ listadmin: insecure use of /tmp
 ELinks: improper validation of certificate with host mismatch
  | https://bugs.debian.org/740981
 
+.. 2014-04-13
+
+[CVE-2014-0471] dpkg-source(1): directory traversal
+ | see also CVE-2014-3127
+ | see also CVE-2014-3227
+ | see also CVE-2014-3864
+ | see also CVE-2014-3865
+
 .. 2014-04-14
 
 ELinks: HTTP to file:// redirects
@@ -133,14 +141,6 @@ ELinks: HTTP to file:// redirects
 
 [CVE-2014-2893] clang: scan-build(1): insecure use of /tmp
  | https://bugs.debian.org/744817
-
-.. 2014-04-13
-
-[CVE-2014-0471] dpkg-source(1): directory traversal
- | see also CVE-2014-3127
- | see also CVE-2014-3227
- | see also CVE-2014-3864
- | see also CVE-2014-3865
 
 .. 2014-05-01
 
@@ -239,6 +239,16 @@ Debian package lilypond: HOME=/tmp
 Debian UDD: XSS in bts-usertags.cgi
  | https://bugs.debian.org/764199
 
+.. 2014-10-16
+
+procmail: improper environment sanitization (TZ)
+ | https://bugs.debian.org/772706
+
+.. 2014-10-16
+
+sudo: improper environment sanitization (TZ)
+ | https://bugs.debian.org/772707
+
 .. 2014-11-17
 
 gettext: msgunfmt(1): integer overflow
@@ -295,16 +305,6 @@ JSON-GLib: reachable assertion
 glibc: tzset(3): buffer overflow
  | https://bugs.debian.org/772705
  | https://sourceware.org/bugzilla/show_bug.cgi?id=17715
-
-.. 2014-10-16
-
-procmail: improper environment sanitization (TZ)
- | https://bugs.debian.org/772706
-
-.. 2014-10-16
-
-sudo: improper environment sanitization (TZ)
- | https://bugs.debian.org/772707
 
 .. 2014-12-10
 
