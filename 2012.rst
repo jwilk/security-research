@@ -1,5 +1,9 @@
+.. 2012-01-07
+
 rxvt-unicode: insecure use of /tmp in documentation
  | https://bugs.debian.org/654986
+
+.. 2012-02-10
 
 [CVE-2012-0842] surf: insecure cookie jar permissions
  | https://bugs.debian.org/659296
@@ -9,6 +13,8 @@ rxvt-unicode: insecure use of /tmp in documentation
 
 [CVE-2012-0843] uzbl: insecure cookie jar permissions
  | https://bugs.debian.org/659379
+
+.. 2012-07-19
 
 Nuitka: insecure use of /tmp
  | https://bugs.debian.org/682145
