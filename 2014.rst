@@ -264,11 +264,13 @@ bashcheck: insecure use of /tmp
 .. 2014-10-16
 
 procmail: improper environment sanitization (TZ)
+ | http://www.openwall.com/lists/oss-security/2014/10/15/24
  | https://bugs.debian.org/772706
 
 .. 2014-10-16
 
 sudo: improper environment sanitization (TZ)
+ | http://www.openwall.com/lists/oss-security/2014/10/15/24
  | https://bugs.debian.org/772707
 
 .. 2014-10-27
