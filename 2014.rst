@@ -193,7 +193,7 @@ cabextract: infinite loop
 libmspack: infinite loop
  | https://bugs.debian.org/773000
 
-dumpasn1.c: slowness
+dumpasn1.c: excessive iteration
  | https://bugs.debian.org/773041
 
 qprint: infinite loop
