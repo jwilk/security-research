@@ -7,6 +7,9 @@ pyspread: insecure creation of ~/.pyspreadrc
 colortest: insecure use of /tmp
  | https://bugs.debian.org/709282
 
+Python: gettext: DoS via crafted Plural-Forms
+ | https://bugs.python.org/issue18317
+
 [CVE-2013-6409] adequate: privilege escalation via tty hijacking
  | https://bugs.debian.org/730691
 

@@ -1,7 +1,14 @@
+Python: email.header.Header allows embedding raw newlines into message
+ | https://bugs.python.org/issue5871
+ | https://bugs.debian.org/545191
+
 [CVE-2009-3938] Poppler: buffer overflow
  | https://bugs.debian.org/534680
 
 [CVE-2009-5042] Docutils: rst.el: insecure use of /tmp
  | https://bugs.debian.org/560755
+
+Python: ElementTree doesn't prevent creation of ill-formed XML (rediscovered)
+ https://bugs.python.org/issue7599
 
 .. vim:ft=rst
