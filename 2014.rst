@@ -244,7 +244,7 @@ Debian package lilypond: HOME=/tmp
 
 .. 2014-10-06
 
-Debian UDD: XSS in bts-usertags.cgi
+Ultimate Debian Database: bts-usertags.cgi: XSS
  | https://bugs.debian.org/764199
 
 .. 2014-10-06
