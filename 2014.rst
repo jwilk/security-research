@@ -367,3 +367,8 @@ HT: null pointer dereference
 
 cabextract: null pointer dereference
  | https://bugs.debian.org/773659
+
+.. 2014-12-22
+
+pgpdump: infinite loop
+ | https://bugs.debian.org/773747
