@@ -23,6 +23,7 @@
 
 [CVE-2014-1932] PIL: insecure use of /tmp
  | https://bugs.debian.org/737059
+ | see also CVE-2014-3007
 
 [CVE-2014-1933] PIL: insecure use of /tmp
  | https://bugs.debian.org/737059
@@ -80,6 +81,12 @@ ELinks: HTTP to file:// redirects
 [CVE-2014-2893] clang: scan-build(1): insecure use of /tmp
  | https://bugs.debian.org/744817
 
+[CVE-2014-0471] dpkg: dpkg-source(1): directory traversal
+ | see also CVE-2014-3127
+ | see also CVE-2014-3227
+ | see also CVE-2014-3864
+ | see also CVE-2014-3865
+
 LWP::Protocol::https: HTTPS_CA_DIR or HTTPS_CA_FILE disables certificate verification for IO::Socket::SSL
  | possibly CVE-2014-3230
  | https://bugs.debian.org/746579
@@ -110,6 +117,9 @@ APT: "apt-get build-dep *pkgname*" insecure in untrusted directory
 
 OpenJDK 7: untrusted RPATH
  | https://bugs.debian.org/754278
+
+[CVE-2014-0479] reportbug: remote code execution
+ |
 
 Noise: untrusted RPATH
  | https://bugs.debian.org/759868

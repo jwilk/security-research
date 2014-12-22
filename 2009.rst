@@ -1,3 +1,6 @@
+[CVE-2009-3938] Poppler: buffer overflow
+ | https://bugs.debian.org/534680
+
 [CVE-2009-5042] Docutils: rst.el: insecure use of /tmp
  | https://bugs.debian.org/560755
 

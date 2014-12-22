@@ -16,4 +16,7 @@ colortest: insecure use of /tmp
 [CVE-2013-7085] devscripts: uscan(1): remote file deletion
  | https://bugs.debian.org/732006
 
+[CVE-2013-7325] devscripts: uscan(1): insecure tar extraction
+ | https://anonscm.debian.org/cgit/collab-maint/devscripts.git/commit/?id=4b7e58ee6000
+
 .. vim:ft=rst

@@ -1,6 +1,9 @@
 [CVE-2010-3444] PyFriBidi: buffer overflow 
  | https://bugs.debian.org/570068
 
+[CVE-2010-0398] autokey: insecure use of /tmp
+ | https://bugs.launchpad.net/ubuntu/+source/autokey/+bug/538471
+
 Babiloo: insecure use of /tmp
  | https://bugs.debian.org/591995
  | possibly CVE-2010-3440
@@ -21,5 +24,11 @@ Debian package no-ip: insecure use of /dev/shm
 
 [CVE-2010-4337] GNU Gnash: insecure use of /tmp
  | https://bugs.debian.org/605419
+
+[CVE-2010-1679] dpkg: dpkg-source(1): directory traversal
+ | https://lists.gnu.org/archive/html/bug-patch/2010-12/msg00000.html
+
+[CVE-2010-4651] GNU patch: directory traversal
+ | https://lists.gnu.org/archive/html/bug-patch/2010-12/msg00000.html
 
 .. vim:ft=rst
