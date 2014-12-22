@@ -20,7 +20,8 @@ lxml: doesn't prevent creation of ill-formed XML
  | https://bugs.debian.org/536273
  | https://bugs.launchpad.net/lxml/+bug/502967
 
-.. 2009-12-30
+.. 2009-07-08
 
 Python: ElementTree doesn't prevent creation of ill-formed XML (rediscovered)
- https://bugs.python.org/issue7599
+ | https://bugs.debian.org/536278
+ | https://bugs.python.org/issue7599
