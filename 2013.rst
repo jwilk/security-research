@@ -1,23 +1,39 @@
+.. 2013-02-10
+
 fetchmail: --sslfingerprint uses MD5
  | https://bugs.debian.org/700266
+
+.. 2013-02-25
 
 pyspread: insecure creation of ~/.pyspreadrc
  | https://bugs.debian.org/701650
 
+.. 2013-05-22
+
 colortest: insecure use of /tmp
  | https://bugs.debian.org/709282
+
+.. 2013-06-28
 
 Python: gettext: DoS via crafted Plural-Forms
  | https://bugs.python.org/issue18317
 
+.. 2013-11-28
+
 [CVE-2013-6409] adequate: privilege escalation via tty hijacking
  | https://bugs.debian.org/730691
+
+.. 2013-12-10
 
 [CVE-2013-7050] devscripts: uscan(1): remote code execution
  | https://bugs.debian.org/731849
 
+.. 2013-12-12
+
 [CVE-2013-7085] devscripts: uscan(1): remote file deletion
  | https://bugs.debian.org/732006
+
+.. 2013-12-18
 
 [CVE-2013-7325] devscripts: uscan(1): insecure tar extraction
  | https://anonscm.debian.org/cgit/collab-maint/devscripts.git/commit/?id=4b7e58ee6000
