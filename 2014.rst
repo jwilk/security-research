@@ -206,6 +206,11 @@ OpenJDK 7: untrusted RPATH
 [CVE-2014-0479] reportbug: remote code execution
  | https://www.debian.org/security/2014/dsa-2997
 
+.. 2014-08-07
+
+APT: design error of /etc/apt/auth.conf
+ | https://lists.debian.org/deity/2014/08/msg00020.html
+
 .. 2014-08-12
 
 Python: commands.mkarg(): command injection
