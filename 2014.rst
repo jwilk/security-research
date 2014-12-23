@@ -372,3 +372,8 @@ cabextract: null pointer dereference
 
 pgpdump: infinite loop
  | https://bugs.debian.org/773747
+
+.. 2014-12-23
+
+e2fsprogs: fsck.ext2(1): buffer overflow
+ | https://bugs.debian.org/773795
