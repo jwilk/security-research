@@ -5,6 +5,11 @@
  | https://bugs.debian.org/650555
  | https://bugs.python.org/issue13512
 
+.. 2011-04-09
+
+libxml2: quadratic complexity
+ | https://bugzilla.gnome.org/show_bug.cgi?id=647312
+
 .. 2011-05-25
 
 [CVE-2011-0082] Iceweasel: improper certificate verification for pages loaded from cache
