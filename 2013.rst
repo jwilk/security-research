@@ -18,6 +18,11 @@ colortest: insecure use of /tmp
 Python: gettext: DoS via crafted Plural-Forms
  | https://bugs.python.org/issue18317
 
+.. 2013-11-04
+
+security threats of ~/.netrc support
+  | http://jwilk.net/blog/20131104-netrc-security
+
 .. 2013-11-28
 
 [CVE-2013-6409] adequate: privilege escalation via tty hijacking
