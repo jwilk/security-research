@@ -201,6 +201,11 @@ APT: "apt-get build-dep *pkgname*" insecure in untrusted directory
 OpenJDK 7: untrusted RPATH
  | https://bugs.debian.org/754278
 
+.. 2014-07-11
+
+mbank-cli: untrusted search path
+ | https://bitbucket.org/jwilk/mbank-cli/src/1.2/doc/SECURITY#cl-4
+
 .. 2014-07-24
 
 [CVE-2014-0479] reportbug: remote code execution

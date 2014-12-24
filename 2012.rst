@@ -14,6 +14,11 @@ rxvt-unicode: insecure use of /tmp in documentation
 [CVE-2012-0843] uzbl: insecure cookie jar permissions
  | https://bugs.debian.org/659379
 
+.. 2012-02-15
+
+mbank-cli: insecure cookie jar permissions
+ | https://bitbucket.org/jwilk/mbank-cli/src/1.2/doc/SECURITY#cl-68
+
 .. 2012-07-19
 
 Nuitka: insecure use of /tmp

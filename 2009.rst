@@ -21,6 +21,12 @@ Python: ElementTree doesn't prevent creation of ill-formed XML (rediscovered)
  | https://bugs.debian.org/536278
  | https://bugs.python.org/issue7599
 
+.. 2009-12-08
+
+mbank-cli: improper certificate validation
+ | https://bitbucket.org/jwilk/mbank-cli/src/1.2/doc/SECURITY#cl-91
+ | see also CVE-2011-0633
+
 .. 2009-12-10
 
 [CVE-2009-5042] Docutils: rst.el: insecure use of /tmp
