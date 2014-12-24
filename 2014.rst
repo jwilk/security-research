@@ -382,3 +382,8 @@ pgpdump: infinite loop
 
 e2fsprogs: fsck.ext2(1): buffer overflow
  | https://bugs.debian.org/773795
+
+.. 2014-12-24
+
+dosfstools: fsck.fat(1): buffer overlofw
+ | https://bugs.debian.org/773885
