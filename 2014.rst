@@ -387,3 +387,6 @@ e2fsprogs: fsck.ext2(1): buffer overflow
 
 dosfstools: fsck.fat(1): buffer overlofw
  | https://bugs.debian.org/773885
+
+util-linux: fsck.minix(1): crash
+ | https://bugs.debian.org/773892
