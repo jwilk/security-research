@@ -40,6 +40,88 @@ Babiloo: directory traversal on tarball unpacking
 Debian package no-ip: insecure use of /dev/shm
  | https://bugs.debian.org/601229
 
+.. 2010-11-07
+
+Apple's Calendar and Contacts Server: untrusted PYTHONPATH
+ | https://bugs.debian.org/605157
+
+distcc: untrusted PYTHONPATH
+ | https://bugs.debian.org/605168
+
+Gnome Schedule: untrusted PYTHONPATH
+ | https://bugs.debian.org/605167
+
+GNUmed client: untrusted PYTHONPATH
+ | https://bugs.debian.org/605159
+
+gquilt: untrusted PYTHONPATH
+ | https://bugs.debian.org/605152
+
+Guake: untrusted PYTHONPATH
+ | https://bugs.debian.org/605163
+
+IronPython: untrusted IRONPYTHONPATH
+ | https://bugs.debian.org/605158
+
+mMass: untrusted PYTHONPATH
+ | https://bugs.debian.org/605150
+
+OpenDNSSEC: untrusted PYTHONPATH
+ | https://bugs.debian.org/605161
+
+pybliographer: untrusted PYTHONPATH
+ | https://bugs.debian.org/605153
+
+PyMca: untrusted PYTHONPATH
+ | https://bugs.debian.org/605160
+
+salome: untrusted PYTHONPATH
+ | https://bugs.debian.org/605154
+
+SnapPea: untrusted PYTHONPATH
+ | https://bugs.debian.org/605151
+
+ibus-anthy: untrusted PYTHONPATH
+ | https://bugs.debian.org/605171
+
+ibus-skk: untrusted PYTHONPATH
+ | https://bugs.debian.org/605173
+
+ibus-xkbc: untrusted PYTHONPATH
+ | https://bugs.debian.org/605176
+
+Divmod Axiom: untrusted PYTHONPATH
+ | https://bugs.debian.org/605170
+
+Epsilon: untrusted PYTHONPATH
+ | https://bugs.debian.org/605175
+
+matplotlib: untrusted PYTHONPATH in documentation
+ | https://bugs.debian.org/605179
+
+omniORB: untrusted PYTHONPATH in documentation
+ | https://bugs.debian.org/605188
+
+SQLObject: untrusted PYTHONPATH in documentation
+ | https://bugs.debian.org/605183
+
+VPython: untrusted PYTHONPATH in documentation
+ | https://bugs.debian.org/605189
+
+PyTables: untrusted PYTHONPATH in documentation
+ | https://bugs.debian.org/605180
+
+Python-UNO: untrusted PYTHONPATH in documentation
+ | https://bugs.debian.org/605178
+
+Python: untrusted PYTHONPATH in documentation
+ | https://bugs.debian.org/605182
+ | https://bugs.debian.org/605184
+ | https://bugs.debian.org/605187
+
+Twisted: untrusted PYTHONPATH in documentation
+ | https://bugs.debian.org/605190
+
 .. 2010-11-29
 
 [CVE-2010-4337] GNU Gnash: insecure use of /tmp
