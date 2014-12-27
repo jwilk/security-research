@@ -43,6 +43,11 @@ security threats of ~/.netrc support
 [CVE-2013-7325] devscripts: uscan(1): insecure tar extraction
  | https://anonscm.debian.org/cgit/collab-maint/devscripts.git/commit/?id=4b7e58ee6000
 
+.. 2013-12-20
+
+uwsgi: untrusted RPATH
+ | https://bugs.debian.org/732674
+
 .. 2013-12-25
 
 [CVE-2014-1829] python-requests: password disclosure on redirect
