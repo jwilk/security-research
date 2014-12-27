@@ -418,3 +418,8 @@ uwsgi: untrusted RPATH
 
 zoo: crash
  | https://bugs.debian.org/774032
+
+.. 2014-12-27
+
+rzip: crash
+ | https://bugs.debian.org/774037
