@@ -390,7 +390,7 @@ e2fsprogs: fsck.ext2(1): buffer overflow
 
 .. 2014-12-24
 
-dosfstools: fsck.fat(1): buffer overlofw
+dosfstools: fsck.fat(1): buffer overflow
  | https://bugs.debian.org/773885
 
 .. 2014-12-24
