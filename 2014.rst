@@ -395,3 +395,9 @@ dosfstools: fsck.fat(1): buffer overlofw
 
 util-linux: fsck.minix(1): crash
  | https://bugs.debian.org/773892
+
+arj: crash
+ | https://bugs.debian.org/774015
+
+theunarchiver: unar(1): crash
+ | https://bugs.debian.org/774016
