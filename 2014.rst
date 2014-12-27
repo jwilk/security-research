@@ -393,11 +393,17 @@ e2fsprogs: fsck.ext2(1): buffer overflow
 dosfstools: fsck.fat(1): buffer overlofw
  | https://bugs.debian.org/773885
 
+.. 2014-12-24
+
 util-linux: fsck.minix(1): crash
  | https://bugs.debian.org/773892
 
+.. 2014-12-27
+
 arj: crash
  | https://bugs.debian.org/774015
+
+.. 2014-12-27
 
 theunarchiver: unar(1): crash
  | https://bugs.debian.org/774016
