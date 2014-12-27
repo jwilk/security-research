@@ -423,3 +423,8 @@ zoo: crash
 
 rzip: crash
  | https://bugs.debian.org/774037
+
+.. 2014-12-27
+
+lrzip: crash
+ | https://bugs.debian.org/774040
