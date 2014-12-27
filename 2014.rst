@@ -408,6 +408,8 @@ arj: crash
 theunarchiver: unar(1): crash
  | https://bugs.debian.org/774016
 
+.. 2014-12-27
+
 uwsgi: untrusted RPATH
  | https://bugs.debian.org/774026
  | https://bugs.debian.org/774027
