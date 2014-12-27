@@ -413,3 +413,8 @@ theunarchiver: unar(1): crash
 uwsgi: untrusted RPATH
  | https://bugs.debian.org/774026
  | https://bugs.debian.org/774027
+
+.. 2014-12-27
+
+zoo: crash
+ | https://bugs.debian.org/774032
