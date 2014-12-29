@@ -438,3 +438,11 @@ libisofs: null pointer dereference
 
 elinks: excessive iteration
  | https://bugs.debian.org/774159
+
+.. 2014-12-29
+
+UNRAR: directory traversal
+ | https://bugs.debian.org/774171
+
+RAR: directory traversal
+ | https://bugs.debian.org/774172
