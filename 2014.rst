@@ -428,3 +428,8 @@ rzip: crash
 
 lrzip: crash
  | https://bugs.debian.org/774040
+
+.. 2014-12-29
+
+libisofs: null pointer dereference
+ | https://bugs.debian.org/774152
