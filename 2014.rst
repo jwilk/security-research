@@ -433,3 +433,8 @@ lrzip: crash
 
 libisofs: null pointer dereference
  | https://bugs.debian.org/774152
+
+.. 2014-12-29
+
+elinks: excessive iteration
+ | https://bugs.debian.org/774159
