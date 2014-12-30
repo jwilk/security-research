@@ -436,7 +436,7 @@ libisofs: null pointer dereference
 
 .. 2014-12-29
 
-elinks: excessive iteration
+ELinks: excessive iteration
  | https://bugs.debian.org/774159
 
 .. 2014-12-29
