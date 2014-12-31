@@ -446,3 +446,8 @@ UNRAR: directory traversal
 
 RAR: directory traversal
  | https://bugs.debian.org/774172
+
+.. 2014-12-31
+
+libiso9660: crash
+ | https://bugs.debian.org/774267
