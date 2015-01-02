@@ -1,4 +1,5 @@
 This repository documents security research of a *certain individual*.
+
 Here, threshold for what is considered a security issue is intentionally very low.
 
 Security-related tools are hosted separately:
