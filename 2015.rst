@@ -22,3 +22,8 @@ ARC: buffer over-read
  | https://bugs.debian.org/774439
 
 .. 2015-01-02
+
+Zoo: directory traversal
+ | https://bugs.debian.org/774453
+
+.. 2015-01-02
