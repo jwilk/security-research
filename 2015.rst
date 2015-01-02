@@ -17,3 +17,8 @@ ARJ: directory traversal
  | https://bugs.debian.org/774435
 
 .. 2015-01-02
+
+ARC: buffer over-read
+ | https://bugs.debian.org/774439
+
+.. 2015-01-02
