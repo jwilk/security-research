@@ -416,7 +416,7 @@ uwsgi: untrusted RPATH
 
 .. 2014-12-27
 
-zoo: crash
+Zoo: crash
  | https://bugs.debian.org/774032
 
 .. 2014-12-27
