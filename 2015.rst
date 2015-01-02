@@ -25,5 +25,3 @@ ARC: buffer over-read
 
 Zoo: directory traversal
  | https://bugs.debian.org/774453
-
-.. 2015-01-02
