@@ -7,3 +7,13 @@ Python: UTF-7 decoder accepts lone surrogates
 Python: JSON decoder accepts lone surrogates
  | (no bug filed, because this appears to be deliberate)
  | https://docs.python.org/3/library/json.html#character-encodings
+
+.. 2015-01-02
+
+ARJ: directory traversal
+ | https://bugs.debian.org/774434
+
+ARJ: directory traversal
+ | https://bugs.debian.org/774435
+
+.. 2015-01-02
