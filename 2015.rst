@@ -30,3 +30,8 @@ Zoo: directory traversal
 
 vorbis-tools: null pointer dereference
  | https://bugs.debian.org/774516
+
+.. 2015-01-03
+
+arc: directory traversal
+ | https://bugs.debian.org/774527
