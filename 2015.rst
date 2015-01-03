@@ -25,3 +25,8 @@ ARC: buffer over-read
 
 Zoo: directory traversal
  | https://bugs.debian.org/774453
+
+.. 2015-01-03
+
+vorbis-tools: null pointer dereference
+ | https://bugs.debian.org/774516
