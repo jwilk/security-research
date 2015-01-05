@@ -40,6 +40,11 @@ Babiloo: directory traversal on tarball unpacking
 Debian package no-ip: insecure use of /dev/shm
  | https://bugs.debian.org/601229
 
+.. 2010-10-15
+
+Tesseract: XSS
+ | https://code.google.com/p/tesseract-ocr/issues/detail?id=376
+
 .. 2010-11-07
 
 Apple's Calendar and Contacts Server: untrusted PYTHONPATH
