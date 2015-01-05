@@ -10,10 +10,10 @@ Python: JSON decoder accepts lone surrogates
 
 .. 2015-01-02
 
-ARJ: directory traversal
+[CVE-2015-0556] ARJ: directory traversal
  | https://bugs.debian.org/774434
 
-ARJ: directory traversal
+[CVE-2015-0557] ARJ: directory traversal
  | https://bugs.debian.org/774435
 
 .. 2015-01-02
