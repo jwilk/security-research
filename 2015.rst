@@ -38,5 +38,5 @@ arc: directory traversal
 
 .. 2015-01-04
 
-gcab(1): directory travesal
+[CVE-2015-0552] gcab(1): directory travesal
  | https://bugs.debian.org/774580
