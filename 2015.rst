@@ -40,3 +40,11 @@ arc: directory traversal
 
 [CVE-2015-0552] gcab(1): directory travesal
  | https://bugs.debian.org/774580
+
+.. 2015-01-06
+
+libmspack: CHM decompression: division by zero
+ | https://bugs.debian.org/774725
+
+libmspack: CHM decompression: pointer arithmetic overflow
+ | https://bugs.debian.org/774726
