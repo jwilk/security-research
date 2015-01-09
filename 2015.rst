@@ -58,3 +58,8 @@ theunarchiver: lsar(1): null pointer dereference
 
 star: directory traversal
  | http://www.openwall.com/lists/oss-security/2015/01/09/10
+
+.. 2015-01-09
+
+unace: buffer overflow
+ | https://bugs.debian.org/775003
