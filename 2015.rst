@@ -53,3 +53,8 @@ libmspack: CHM decompression: pointer arithmetic overflow
 
 theunarchiver: lsar(1): null pointer dereference
  | https://bugs.debian.org/774961
+
+.. 2015-01-09
+
+star: directory traversal
+ | http://www.openwall.com/lists/oss-security/2015/01/09/10
