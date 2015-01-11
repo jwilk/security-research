@@ -69,3 +69,8 @@ unace: buffer overflow
 
 unace-nonfree: stack corruption
  | https://bugs.debian.org/775134
+
+.. 2015-01-11
+
+TeXLive: mktexlsr(1): insecure use of /tmp
+ | https://bugs.debian.org/775139
