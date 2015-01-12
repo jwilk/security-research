@@ -74,3 +74,8 @@ unace-nonfree: stack corruption
 
 TeXLive: mktexlsr(1): insecure use of /tmp
  | https://bugs.debian.org/775139
+
+.. 2015-01-12
+
+DjVuLibre: djvudigital(1): insecure use of /tmp
+ | https://bugs.debian.org/775193
