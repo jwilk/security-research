@@ -79,3 +79,8 @@ TeXLive: mktexlsr(1): insecure use of /tmp
 
 DjVuLibre: djvudigital(1): insecure use of /tmp
  | https://bugs.debian.org/775193
+
+.. 2015-01-12
+
+mutt: smime_keys(1): insecure use of /tmp
+ | https://bugs.debian.org/775199
