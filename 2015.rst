@@ -72,7 +72,7 @@ unace-nonfree: stack corruption
 
 .. 2015-01-11
 
-TeXLive: mktexlsr(1): insecure use of /tmp
+TeX Live: mktexlsr(1): insecure use of /tmp
  | https://bugs.debian.org/775139
 
 .. 2015-01-12
