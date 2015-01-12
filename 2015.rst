@@ -89,3 +89,8 @@ mutt: smime_keys(1): insecure use of /tmp
 
 GNU patch: directory traversal
  | https://bugs.debian.org/775227
+
+.. 2015-01-12
+
+unalz: unexpected disk access
+ | https://bugs.debian.org/775233
