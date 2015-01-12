@@ -84,3 +84,8 @@ DjVuLibre: djvudigital(1): insecure use of /tmp
 
 mutt: smime_keys(1): insecure use of /tmp
  | https://bugs.debian.org/775199
+
+.. 2015-01-12
+
+GNU patch: directory traversal
+ | https://bugs.debian.org/775227
