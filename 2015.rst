@@ -94,3 +94,8 @@ GNU patch: directory traversal
 
 unalz: unexpected disk access
  | https://bugs.debian.org/775233
+
+.. 2015-01-12
+
+unalz: buffer overflow
+ | https://bugs.debian.org/775237
