@@ -99,3 +99,8 @@ unalz: unexpected disk access
 
 unalz: buffer overflow
  | https://bugs.debian.org/775237
+
+.. 2015-01-13
+
+pax-utils: scanelf(1): buffer over-read
+ | https://bugs.debian.org/775270
