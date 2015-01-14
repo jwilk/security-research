@@ -109,3 +109,8 @@ pax-utils: scanelf(1): buffer over-read
 
 catdvi: null pointer dereference
  | https://bugs.debian.org/775348
+
+.. 2015-01-14
+
+util-linux: blkid(1): buffer over-read
+ | https://bugs.debian.org/775374
