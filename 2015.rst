@@ -114,3 +114,8 @@ catdvi: null pointer dereference
 
 util-linux: blkid(1): buffer over-read
  | https://bugs.debian.org/775374
+
+.. 2015-01-15
+
+UPX: reachable assertion
+ | https://bugs.debian.org/775451
