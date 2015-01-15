@@ -119,3 +119,8 @@ util-linux: blkid(1): buffer over-read
 
 UPX: reachable assertion
  | https://bugs.debian.org/775451
+
+.. 2015-01-15
+
+UPX: crash
+ | https://bugs.debian.org/775455
