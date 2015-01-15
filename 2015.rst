@@ -124,3 +124,13 @@ UPX: reachable assertion
 
 UPX: crash
  | https://bugs.debian.org/775455
+
+.. 2015-01-15
+
+wxPython: wx.tools.img2py: insecure use of /tmp
+ | https://bugs.debian.org/775461
+
+.. 2015-01-15
+
+wxPython: wx.build.config: insecure use of /tmp
+ | https://bugs.debian.org/775462
