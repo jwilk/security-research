@@ -18,7 +18,7 @@ Python: JSON decoder accepts lone surrogates
 
 .. 2015-01-02
 
-ARC: buffer over-read
+ARC: out-of-bounds read
  | https://bugs.debian.org/774439
 
 .. 2015-01-02
@@ -102,7 +102,7 @@ unalz: buffer overflow
 
 .. 2015-01-13
 
-pax-utils: scanelf(1): buffer over-read
+pax-utils: scanelf(1): out-of-bounds read
  | https://bugs.debian.org/775270
 
 .. 2015-01-14
@@ -112,7 +112,7 @@ catdvi: null pointer dereference
 
 .. 2015-01-14
 
-util-linux: blkid(1): buffer over-read
+util-linux: blkid(1): out-of-bounds read
  | https://bugs.debian.org/775374
 
 .. 2015-01-15
