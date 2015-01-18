@@ -64,7 +64,6 @@ star: directory traversal
 unace: buffer overflow
  | https://bugs.debian.org/775003
 
-
 .. 2015-01-11
 
 unace-nonfree: stack corruption
