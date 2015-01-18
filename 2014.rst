@@ -352,7 +352,7 @@ t1disasm: infinite loop
 
 .. 2014-12-11
 
-cabextract: infinite loop
+[CVE-2014-9556] cabextract: infinite loop
  | https://bugs.debian.org/772891
 
 .. 2014-12-12
