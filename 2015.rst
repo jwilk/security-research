@@ -87,7 +87,7 @@ mutt: smime_keys(1): insecure use of /tmp
 
 .. 2015-01-12
 
-GNU patch: directory traversal
+[CVE-2015-1196] GNU patch: directory traversal
  | https://bugs.debian.org/775227
 
 .. 2015-01-12
