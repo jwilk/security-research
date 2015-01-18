@@ -144,3 +144,8 @@ libmspack: out-of-bounds read
 
 libmspack: out-of-bounds read
  | https://bugs.debian.org/775499
+
+.. 2015-01-18
+
+libmspack: CHM decompression: pointer arithmetic overflow
+ | https://bugs.debian.org/775687
