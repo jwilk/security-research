@@ -137,12 +137,12 @@ wxPython: wx.build.config: insecure use of /tmp
 
 .. 2015-01-16
 
-libmspack: out-of-bounds read
+libmspack: CAB decompression: out-of-bounds read
  | https://bugs.debian.org/775498
 
 .. 2015-01-16
 
-libmspack: out-of-bounds read
+libmspack: CAB decompression: out-of-bounds read
  | https://bugs.debian.org/775499
 
 .. 2015-01-18

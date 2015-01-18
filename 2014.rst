@@ -355,9 +355,6 @@ t1disasm: infinite loop
 cabextract: infinite loop
  | https://bugs.debian.org/772891
 
-libmspack: infinite loop
- | https://bugs.debian.org/773000
-
 .. 2014-12-12
 
 dumpasn1.c: excessive iteration
