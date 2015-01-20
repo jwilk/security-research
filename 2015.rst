@@ -153,3 +153,8 @@ libmspack: CHM decompression: pointer arithmetic overflow
 
 binutils: readelf(1): out-of-bounds read
  | https://bugs.debian.org/775688
+
+.. 2015-01-20
+
+GNU patch: directory traversal
+ | https://bugs.debian.org/775873
