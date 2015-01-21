@@ -163,3 +163,8 @@ GNU patch: directory traversal
 
 GNU patch: directory traversal
  | https://bugs.debian.org/775901
+
+.. 2015-01-21
+
+splint: memory corruption
+ | https://bugs.debian.org/775917
