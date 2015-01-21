@@ -168,3 +168,8 @@ GNU patch: directory traversal
 
 splint: memory corruption
  | https://bugs.debian.org/775917
+
+.. 2015-01-21
+
+gcab: null pointer dereference
+ | https://bugs.debian.org/775941
