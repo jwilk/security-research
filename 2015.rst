@@ -173,3 +173,8 @@ splint: memory corruption
 
 gcab: null pointer dereference
  | https://bugs.debian.org/775941
+
+.. 2015-01-22
+
+LAME: crash
+ | https://bugs.debian.org/775959
