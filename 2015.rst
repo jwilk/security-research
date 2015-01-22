@@ -183,3 +183,8 @@ LAME: crash
 
 CHMLIB: modulo by zero
  | https://bugs.debian.org/775984
+
+.. 2015-01-22
+
+TCC: null pointer dereference
+ | https://bugs.debian.org/775992
