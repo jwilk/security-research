@@ -178,3 +178,8 @@ gcab: null pointer dereference
 
 LAME: crash
  | https://bugs.debian.org/775959
+
+.. 2015-01-22
+
+CHMLIB: modulo by zero
+ | https://bugs.debian.org/775984
