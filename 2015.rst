@@ -188,3 +188,8 @@ CHMLIB: modulo by zero
 
 TCC: null pointer dereference
  | https://bugs.debian.org/775992
+
+.. 2015-01-24
+
+QEMU: stack overflow
+ | https://bugs.debian.org/776161
