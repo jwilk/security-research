@@ -193,3 +193,8 @@ TCC: null pointer dereference
 
 QEMU: stack overflow
  | https://bugs.debian.org/776161
+
+.. 2015-01-24
+
+arCHMage: directory traversal
+ | https://bugs.debian.org/776164
