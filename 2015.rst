@@ -198,3 +198,8 @@ QEMU: stack overflow
 
 arCHMage: directory traversal
  | https://bugs.debian.org/776164
+
+.. 2015-01-25
+
+Unshield: directory traversal
+ | https://bugs.debian.org/776193
