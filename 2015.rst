@@ -203,3 +203,11 @@ arCHMage: directory traversal
 
 Unshield: directory traversal
  | https://bugs.debian.org/776193
+
+.. 2015-01-26
+
+Unshield: reachable assertion
+ | https://bugs.debian.org/776238
+
+Unshield: out-of-bounds read
+ | https://bugs.debian.org/776239
