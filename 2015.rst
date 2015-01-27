@@ -221,3 +221,8 @@ ZPAQ: out-of-bounds read
 
 Iceweasel: OOM + crash
  | https://bugs.debian.org/776423
+
+.. 2015-01-28
+
+Iceweasel: site identity spoofing
+ | https://bugs.debian.org/776439
