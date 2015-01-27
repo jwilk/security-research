@@ -216,3 +216,8 @@ Unshield: out-of-bounds read
 
 ZPAQ: out-of-bounds read
  | https://bugs.debian.org/776379
+
+.. 2015-01-27
+
+Iceweasel: OOM + crash
+ | https://bugs.debian.org/776423
