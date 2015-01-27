@@ -211,3 +211,8 @@ Unshield: reachable assertion
 
 Unshield: out-of-bounds read
  | https://bugs.debian.org/776239
+
+.. 2015-01-27
+
+ZPAQ: out-of-bounds read
+ | https://bugs.debian.org/776379
