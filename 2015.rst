@@ -201,7 +201,7 @@ arCHMage: directory traversal
 
 .. 2015-01-25
 
-Unshield: directory traversal
+[CVE-2015-1386] Unshield: directory traversal
  | https://bugs.debian.org/776193
 
 .. 2015-01-26
