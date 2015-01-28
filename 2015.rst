@@ -156,12 +156,12 @@ binutils: readelf(1): out-of-bounds read
 
 .. 2015-01-20
 
-GNU patch: directory traversal
+[CVE-2015-1395] GNU patch: directory traversal
  | https://bugs.debian.org/775873
 
 .. 2015-01-21
 
-GNU patch: directory traversal
+[CVE-2015-1396] GNU patch: directory traversal
  | https://bugs.debian.org/775901
 
 .. 2015-01-21
