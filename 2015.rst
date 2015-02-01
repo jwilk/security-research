@@ -226,3 +226,8 @@ Iceweasel: OOM + crash
 
 Iceweasel: site identity spoofing
  | https://bugs.debian.org/776439
+
+.. 2015-02-01
+
+Git: directory traversal
+ | https://bugs.debian.org/776779
