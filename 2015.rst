@@ -231,3 +231,8 @@ Iceweasel: site identity spoofing
 
 Git: directory traversal
  | https://bugs.debian.org/776779
+
+.. 2015-02-02
+
+miniunzip(1): directory traversal
+ | https://bugs.debian.org/776831
