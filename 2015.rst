@@ -236,3 +236,8 @@ Git: directory traversal
 
 miniunzip(1): directory traversal
  | https://bugs.debian.org/776831
+
+..  2015-02-08
+
+DjVuLibre: null pointer dereference
+ | https://bugs.debian.org/777404
