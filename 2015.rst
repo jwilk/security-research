@@ -196,7 +196,7 @@ QEMU: stack overflow
 
 .. 2015-01-24
 
-arCHMage: directory traversal
+[CVE-2015-1589] arCHMage: directory traversal
  | https://bugs.debian.org/776164
 
 .. 2015-01-25
