@@ -244,16 +244,16 @@ DjVuLibre: null pointer dereference
 
 .. 2015-02-08
 
-netpbm: winicontoppm(1): buffer over-read + null pointer dereference
+netpbm: winicontoppm(1): out-of-bounds read + null pointer dereference
  | https://bugs.debian.org/777495
 
 netpbm: icontopbm(1): buffer overflow
  | https://bugs.debian.org/777489
 
-netpbm: bmptopnm(1): buffer over-read
+netpbm: bmptopnm(1): out-of-bounds read
  | https://bugs.debian.org/777485
 
-netpbm: giftopnm(1): buffer over-read
+netpbm: giftopnm(1): out-of-bounds read
  | https://bugs.debian.org/777480
 
 .. 2015-02-09
