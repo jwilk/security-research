@@ -263,3 +263,8 @@ netpbm: pnmtofits(1): buffer overflow
 
 netpbm: pnmtofiasco(1): buffer overflow (rediscovered)
  | https://bugs.debian.org/692186
+
+.. 2015-02-15
+
+imlib2: null pointer dereference (rediscovered)
+ | https://bugs.debian.org/773967
