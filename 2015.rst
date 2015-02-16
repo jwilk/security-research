@@ -268,3 +268,8 @@ netpbm: pnmtofiasco(1): buffer overflow (rediscovered)
 
 imlib2: null pointer dereference (rediscovered)
  | https://bugs.debian.org/773967
+
+.. 2015-02-16
+
+dvipng: null pointer dereference
+ | https://bugs.debian.org/778524
