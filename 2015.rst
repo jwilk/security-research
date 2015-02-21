@@ -273,3 +273,8 @@ imlib2: null pointer dereference (rediscovered)
 
 dvipng: null pointer dereference
  | https://bugs.debian.org/778524
+
+.. 2015-02-21
+
+cppcheck: crash
+ | https://bugs.debian.org/778926
