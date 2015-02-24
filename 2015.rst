@@ -278,3 +278,8 @@ dvipng: null pointer dereference
 
 cppcheck: crash
  | https://bugs.debian.org/778926
+
+.. 2015-02-24
+
+bsdtar: buffer overflow
+ | https://bugs.debian.org/779158
