@@ -61,7 +61,7 @@ star: directory traversal
 
 .. 2015-01-09
 
-unace: buffer overflow
+[CVE-2015-2063] unace: buffer overflow
  | https://bugs.debian.org/775003
 
 .. 2015-01-11
