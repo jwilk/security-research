@@ -283,3 +283,8 @@ cppcheck: crash
 
 bsdtar: buffer overflow
  | https://bugs.debian.org/779158
+
+.. 2015-02-26
+
+t1utils: t1disasm(1): buffer overflow
+ | https://bugs.debian.org/779274
