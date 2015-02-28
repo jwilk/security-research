@@ -288,3 +288,8 @@ bsdtar: buffer overflow
 
 t1utils: t1disasm(1): buffer overflow
  | https://bugs.debian.org/779274
+
+.. 2015-02-28
+
+glibc: regexec(3): reachable assertion
+ | https://bugs.debian.org/779392
