@@ -298,3 +298,8 @@ glibc: regexec(3): reachable assertion
 
 P7ZIP: out-of-bounds read
  | https://bugs.debian.org/779723
+
+.. 2015-03-04
+
+mpv: memory corruption
+ | https://bugs.debian.org/779789
