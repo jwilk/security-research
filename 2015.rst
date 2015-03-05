@@ -303,3 +303,8 @@ P7ZIP: out-of-bounds read
 
 mpv: memory corruption
  | https://bugs.debian.org/779789
+
+.. 2015-03-05
+
+jbig2dec: buffer overflow
+ | https://bugs.debian.org/779849
