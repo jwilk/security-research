@@ -308,3 +308,11 @@ mpv: memory corruption
 
 jbig2dec: buffer overflow
  | https://bugs.debian.org/779849
+
+.. 2015-03-09
+
+TinyXML: reachable assertion
+ | https://bugs.debian.org/780147
+
+TinyXML: infinite loop
+ | https://bugs.debian.org/780149
