@@ -316,3 +316,6 @@ TinyXML: reachable assertion
 
 TinyXML: infinite loop
  | https://bugs.debian.org/780149
+
+TinyXML-2: null pointer dereference
+ | https://bugs.debian.org/780153
