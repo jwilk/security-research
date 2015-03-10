@@ -319,3 +319,8 @@ TinyXML: infinite loop
 
 TinyXML-2: null pointer dereference
  | https://bugs.debian.org/780153
+
+.. 2015-03-10
+
+dvbsnoop: out-of-bounds read
+ | https://bugs.debian.org/780222
