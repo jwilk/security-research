@@ -324,3 +324,8 @@ TinyXML-2: null pointer dereference
 
 dvbsnoop: out-of-bounds read
  | https://bugs.debian.org/780222
+
+.. 2015-03-11
+
+rpm2cpio: null pointer deference
+ | https://bugs.debian.org/780309
