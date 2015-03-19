@@ -329,3 +329,8 @@ dvbsnoop: out-of-bounds read
 
 rpm2cpio: null pointer deference
  | https://bugs.debian.org/780309
+
+.. 2015-03-19
+
+Iceweasel: null pointer dereference in SSLServerCertVerification.cpp
+ | https://bugs.debian.org/780801
