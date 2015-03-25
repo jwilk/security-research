@@ -334,3 +334,8 @@ rpm2cpio: null pointer deference
 
 Iceweasel: null pointer dereference in SSLServerCertVerification.cpp
  | https://bugs.debian.org/780801
+
+.. 2015-03-25
+
+Exiv2: buffer overflow in RIFF video parser
+ | https://bugs.debian.org/781123
