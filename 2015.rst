@@ -339,3 +339,8 @@ Iceweasel: null pointer dereference in SSLServerCertVerification.cpp
 
 Exiv2: buffer overflow in RIFF video parser
  | https://bugs.debian.org/781123
+
+.. 2015-03-26
+
+DjVuLibre: crash in JB2Codec
+ | https://bugs.debian.org/781255
