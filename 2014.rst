@@ -397,7 +397,7 @@ util-linux: fsck.minix(1): crash
 
 .. 2014-12-27
 
-[CVE-2015-2782] arj: buffer overflow
+[CVE-2015-2782] ARJ: buffer overflow
  | https://bugs.debian.org/774015
 
 .. 2014-12-27
