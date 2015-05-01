@@ -344,3 +344,8 @@ Exiv2: buffer overflow in RIFF video parser
 
 DjVuLibre: crash in JB2Codec
  | https://bugs.debian.org/781255
+
+.. 2015-05-01
+
+ARJ: out-of-bounds read
+ | https://bugs.debian.org/783948
