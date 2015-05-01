@@ -13,7 +13,7 @@ Some security-related stuff is hosted separately:
    https://bitbucket.org/jwilk/longutf8
 
 .. _python-afl:
-   https://bitbucket.org/jwilk/python-afl
+   http://jwilk.net/software/python-afl
 
 .. _American fuzzy lop:
    http://lcamtuf.coredump.cx/afl/
