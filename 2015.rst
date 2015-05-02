@@ -349,3 +349,8 @@ DjVuLibre: crash in JB2Codec
 
 ARJ: out-of-bounds read
  | https://bugs.debian.org/783948
+
+.. 2015-05-01
+
+mkvtoolnix: reachable assertion
+ | https://bugs.debian.org/783984
