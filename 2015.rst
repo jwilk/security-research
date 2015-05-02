@@ -354,3 +354,8 @@ ARJ: out-of-bounds read
 
 mkvtoolnix: reachable assertion
  | https://bugs.debian.org/783984
+
+.. 2015-05-02
+
+libe-book: PDB parser: null pointer deference
+ | https://bugs.debian.org/0.1.2-2
