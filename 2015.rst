@@ -359,3 +359,8 @@ mkvtoolnix: reachable assertion
 
 libe-book: PDB parser: null pointer deference
  | https://bugs.debian.org/0.1.2-2
+
+.. 2015-05-05
+
+pdfium: reachable assertion
+ | https://code.google.com/p/pdfium/issues/detail?id=15
