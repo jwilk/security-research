@@ -364,3 +364,8 @@ libe-book: PDB parser: null pointer deference
 
 pdfium: reachable assertion
  | https://code.google.com/p/pdfium/issues/detail?id=15
+
+.. 2015-05-07
+
+Exempi: out-of-bounds read
+ | https://bugs.debian.org/784631
