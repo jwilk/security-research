@@ -369,3 +369,6 @@ pdfium: reachable assertion
 
 Exempi: out-of-bounds read
  | https://bugs.debian.org/784631
+
+Exempi: out-of-bounds read
+ | https://bugs.debian.org/784632
