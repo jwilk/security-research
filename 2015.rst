@@ -377,3 +377,8 @@ Exempi: out-of-bounds read
 
 DjVuLibre: insufficient input sanitization in the INCL chunk handling
  | https://bugs.debian.org/784785
+
+.. 2015-05-09
+
+Gamera: TIFF plugin: out-of-bounds read
+ | https://bugs.debian.org/784795
