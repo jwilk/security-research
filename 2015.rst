@@ -390,3 +390,8 @@ didjvu: insecure use of /tmp
 
 pdf2djvu: insecure use of /tmp
  | https://bitbucket.org/jwilk/pdf2djvu/issue/103
+
+.. 2015-05-10
+
+DjVuLibre: integer overflow
+ | https://bugs.debian.org/784919
