@@ -403,3 +403,8 @@ imlib2: GIF loader: out-of-bounds read
 
 imlib2: BMP loader: infinite loop (rediscovered)
  | https://bugs.debian.org/773968
+
+.. 2015-05-15
+
+unace v1.2: out-of-bounds read
+ | https://bugs.debian.org/785377
