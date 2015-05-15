@@ -61,12 +61,12 @@ star: directory traversal
 
 .. 2015-01-09
 
-[CVE-2015-2063] unace: buffer overflow
+[CVE-2015-2063] unace v1.2: buffer overflow
  | https://bugs.debian.org/775003
 
 .. 2015-01-11
 
-unace-nonfree: stack corruption
+unace v2.5: stack corruption
  | https://bugs.debian.org/775134
 
 .. 2015-01-11
