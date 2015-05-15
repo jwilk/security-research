@@ -395,3 +395,11 @@ pdf2djvu: insecure use of /tmp
 
 DjVuLibre: integer overflow
  | https://bugs.debian.org/784919
+
+.. 2015-05-15
+
+imlib2: GIF loader: out-of-bounds read
+ | https://bugs.debian.org/785369
+
+imlib2: BMP loader: infinite loop (rediscovered)
+ | https://bugs.debian.org/773968
