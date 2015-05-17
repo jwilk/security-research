@@ -408,3 +408,8 @@ imlib2: BMP loader: infinite loop (rediscovered)
 
 unace v1.2: out-of-bounds read
  | https://bugs.debian.org/785377
+
+.. 2015-05-17
+
+Gamera: heap-based buffer overflow
+ | https://bugs.debian.org/785548
