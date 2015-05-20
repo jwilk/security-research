@@ -413,3 +413,8 @@ unace v1.2: out-of-bounds read
 
 Gamera: heap-based buffer overflow
  | https://bugs.debian.org/785548
+
+.. 2015-05-20
+
+woff-tools: out-of-bounds read
+ | https://bugs.debian.org/785795
