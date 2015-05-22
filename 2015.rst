@@ -286,7 +286,7 @@ bsdtar: buffer overflow
 
 .. 2015-02-26
 
-t1utils: t1disasm(1): buffer overflow
+[CVE-2015-3905] t1utils: t1disasm(1): buffer overflow
  | https://bugs.debian.org/779274
 
 .. 2015-02-28
