@@ -418,3 +418,8 @@ Gamera: heap-based buffer overflow
 
 woff-tools: out-of-bounds read
  | https://bugs.debian.org/785795
+
+.. 2015-06-03
+
+OptiPNG: reachable assertion
+ | https://bugs.debian.org/787647
