@@ -372,7 +372,7 @@ HT: null pointer dereference
 
 .. 2014-12-21
 
-cabextract: null pointer dereference
+[CVE-2014-9732] cabextract: null pointer dereference
  | https://bugs.debian.org/773659
 
 .. 2014-12-22

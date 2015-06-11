@@ -43,10 +43,10 @@ arc: directory traversal
 
 .. 2015-01-06
 
-libmspack: CHM decompression: division by zero
+[CVE-2015-4467] libmspack: CHM decompression: division by zero
  | https://bugs.debian.org/774725
 
-libmspack: CHM decompression: pointer arithmetic overflow
+[CVE-2015-4468 CVE-2015-4469] libmspack: CHM decompression: pointer arithmetic overflow
  | https://bugs.debian.org/774726
 
 .. 2015-01-09
@@ -136,17 +136,17 @@ wxPython: wx.build.config: insecure use of /tmp
 
 .. 2015-01-16
 
-libmspack: CAB decompression: out-of-bounds read
+[CVE-2015-4470] libmspack: CAB decompression: out-of-bounds read
  | https://bugs.debian.org/775498
 
 .. 2015-01-16
 
-libmspack: CAB decompression: out-of-bounds read
+[CVE-2015-4471] libmspack: CAB decompression: out-of-bounds read
  | https://bugs.debian.org/775499
 
 .. 2015-01-18
 
-libmspack: CHM decompression: pointer arithmetic overflow
+[CVE-2015-4472] libmspack: CHM decompression: pointer arithmetic overflow
  | https://bugs.debian.org/775687
 
 .. 2015-01-18
