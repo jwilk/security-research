@@ -423,3 +423,11 @@ woff-tools: out-of-bounds read
 
 OptiPNG: reachable assertion
  | https://bugs.debian.org/787647
+
+.. 2015-06-20
+
+pbuilder: /tmp exposed to users when bootstrapping
+ | https://bugs.debian.org/789401
+
+pbuilder: insecure use of /tmp
+ | https://bugs.debian.org/789404
