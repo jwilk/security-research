@@ -1,6 +1,6 @@
 .. 2010-02-06
 
-[CVE-2010-3444] PyFriBidi: buffer overflow 
+[CVE-2010-3444] PyFriBidi: buffer overflow
  | https://bugs.debian.org/570068
 
 .. 2010-03-13

@@ -7,7 +7,7 @@ Some security-related stuff is hosted separately:
 * longutf8_, an overlong UTF-8 sequence generator
 * python-afl_, which enables `American fuzzy lop`_ instrumentation of Python code
 * `directory traversal samples`_
-* `fuzzing goodies`_  
+* `fuzzing goodies`_
 
 .. _longutf8:
    https://bitbucket.org/jwilk/longutf8
