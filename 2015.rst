@@ -71,7 +71,7 @@ unace v2.5: stack corruption
 
 .. 2015-01-11
 
-TeX Live: mktexlsr(1): insecure use of /tmp
+[CVE-2015-5700] TeX Live: mktexlsr(1): insecure use of /tmp
  | https://bugs.debian.org/775139
 
 .. 2015-01-12
