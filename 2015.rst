@@ -431,3 +431,8 @@ pbuilder: /tmp exposed to users when bootstrapping
 
 pbuilder: insecure use of /tmp
  | https://bugs.debian.org/789404
+
+.. 2015-08-15
+
+APT: insecure use of /tmp
+ | https://bugs.debian.org/795600
