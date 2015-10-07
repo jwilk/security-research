@@ -53,7 +53,7 @@ Apple's Calendar and Contacts Server: untrusted PYTHONPATH
 distcc: untrusted PYTHONPATH
  | https://bugs.debian.org/605168
 
-Gnome Schedule: untrusted PYTHONPATH
+GNOME Schedule: untrusted PYTHONPATH
  | https://bugs.debian.org/605167
 
 GNUmed client: untrusted PYTHONPATH
