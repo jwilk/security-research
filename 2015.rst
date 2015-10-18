@@ -436,3 +436,8 @@ pbuilder: insecure use of /tmp
 
 APT: insecure use of /tmp
  | https://bugs.debian.org/795600
+
+.. 2015-10-18
+
+jq: heap-based buffer overflow
+ | https://bugs.debian.org/802231
