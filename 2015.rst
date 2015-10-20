@@ -441,3 +441,8 @@ APT: insecure use of /tmp
 
 jq: heap-based buffer overflow
  | https://bugs.debian.org/802231
+
+.. 2015-10-20
+
+Lintian: spellintian: untrusted search path
+ | https://bugs.debian.org/802476
