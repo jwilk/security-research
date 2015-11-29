@@ -446,3 +446,8 @@ jq: heap-based buffer overflow
 
 Lintian: spellintian: untrusted search path
  | https://bugs.debian.org/802476
+
+..  2015-11-29
+
+mitmproxy: improper validation of certificate with host mismatch
+ | https://bugs.debian.org/806637
