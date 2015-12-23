@@ -173,7 +173,7 @@ OpenSSL: insecure creation of ~/.rnd
 
 .. 2014-06-14
 
-t-coffee: insecure permissions of ~/.t_coffee
+[CVE-2015-8621] t-coffee: insecure permissions of ~/.t_coffee
  | https://bugs.debian.org/751579
 
 .. 2014-06-14
