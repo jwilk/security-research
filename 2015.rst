@@ -358,7 +358,7 @@ mkvtoolnix: reachable assertion
 .. 2015-05-02
 
 libe-book: PDB parser: null pointer deference
- | https://bugs.debian.org/0.1.2-2
+ | https://bugs.debian.org/784080
 
 .. 2015-05-05
 
