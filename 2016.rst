@@ -2,3 +2,8 @@
 
 Plan9 sha1sum: buffer overflow
  | https://bugs.debian.org/814792
+
+.. 2016-02-26
+
+Wine: insecure use of /tmp
+ | https://bugs.debian.org/816034
