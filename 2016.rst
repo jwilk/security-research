@@ -7,3 +7,8 @@ Plan9 sha1sum: buffer overflow
 
 Wine: insecure use of /tmp
  | https://bugs.debian.org/816034
+
+.. 2016-04-20
+
+Mutt: unfaithful pager
+ | https://bugs.debian.org/821951
