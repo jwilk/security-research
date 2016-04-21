@@ -17,3 +17,11 @@ libdebug: buffer overflow
 
 Mutt: unfaithful pager
  | https://bugs.debian.org/821951
+
+.. 2016-04-22
+
+git: unfaithful pager
+ | http://www.openwall.com/lists/oss-security/2016/04/21/9
+
+less: unfaithful pager
+ | http://www.openwall.com/lists/oss-security/2016/04/21/9
