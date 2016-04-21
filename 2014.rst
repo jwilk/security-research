@@ -377,7 +377,7 @@ HT: null pointer dereference
 
 .. 2014-12-22
 
-pgpdump: infinite loop
+[CVE-2016-4021] pgpdump: infinite loop
  | https://bugs.debian.org/773747
 
 .. 2014-12-23
