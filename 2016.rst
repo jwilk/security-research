@@ -8,6 +8,11 @@ Plan9 sha1sum: buffer overflow
 Wine: insecure use of /tmp
  | https://bugs.debian.org/816034
 
+.. 2016-03-20
+
+libdebug: buffer overflow
+ | https://gitlab.com/libdebug/libdebug/commit/ec25924ea597
+
 .. 2016-04-20
 
 Mutt: unfaithful pager
