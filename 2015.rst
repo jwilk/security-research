@@ -439,7 +439,7 @@ APT: insecure use of /tmp
 
 .. 2015-10-18
 
-jq: heap-based buffer overflow
+[CVE-2015-8863] jq: heap-based buffer overflow
  | https://bugs.debian.org/802231
 
 .. 2015-10-20
