@@ -25,3 +25,8 @@ git: unfaithful pager
 
 less: unfaithful pager
  | http://www.openwall.com/lists/oss-security/2016/04/21/9
+
+.. 2016-05-24
+
+check-all-the-things: code execution via pylint
+ | https://anonscm.debian.org/cgit/collab-maint/check-all-the-things.git/commit/?id=9c8437c049b
