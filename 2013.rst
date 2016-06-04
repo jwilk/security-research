@@ -1,3 +1,8 @@
+.. 2013-01-03
+
+OpenGrm-NGram: insecure use of /tmp
+ | https://lists.debian.org/20130103155531.GA6408@jwilk.net
+
 .. 2013-02-10
 
 fetchmail: --sslfingerprint uses MD5
