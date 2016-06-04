@@ -7,7 +7,7 @@ stamp_files = $(rst_files:.rst=.stamp)
 check: $(stamp_files)
 
 %.stamp: %.rst
-	rst2pseudoxml $(<) > /dev/null
+	rst2xml $(<) > /dev/null
 	grep -E '^[.][.] [0-9]{4}-[0-9]{2}-[0-9]{2}' $(<) \
 	| sort -c
 	touch $(@)
