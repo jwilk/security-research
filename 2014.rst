@@ -307,7 +307,7 @@ procmail: null pointer dereference
 
 [CVE-2014-9116] mutt: buffer overflow
  | https://bugs.debian.org/771125
- | http://dev.mutt.org/trac/ticket/3716
+ | https://dev.mutt.org/trac/ticket/3716
 
 .. 2014-11-28
 
