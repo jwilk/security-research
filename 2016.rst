@@ -30,3 +30,8 @@ less: unfaithful pager
 
 check-all-the-things: code execution via pylint
  | https://anonscm.debian.org/cgit/collab-maint/check-all-the-things.git/commit/?id=9c8437c049b
+
+.. 2016-06-26
+
+pylint: untrusted search path
+ | https://github.com/PyCQA/pylint/issues/959
