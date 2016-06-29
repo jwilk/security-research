@@ -35,3 +35,13 @@ check-all-the-things: code execution via pylint
 
 pylint: untrusted search path
  | https://github.com/PyCQA/pylint/issues/959
+
+.. 2016-06-27
+
+check-all-the-things: code execution via uscan
+ | https://anonscm.debian.org/cgit/collab-maint/check-all-the-things.git/commit/?id=a9f96092970c8b63e80bd414f8a5c51107959ca9
+
+.. 2016-06-29
+
+check-all-the-things: code execution via Lintian
+ | https://anonscm.debian.org/cgit/collab-maint/check-all-the-things.git/commit/?id=6fb6c41b930957365b3d448e7599a6fcf1b29a95
