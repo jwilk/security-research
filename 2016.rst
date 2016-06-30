@@ -45,3 +45,8 @@ check-all-the-things: code execution via uscan
 
 check-all-the-things: code execution via Lintian
  | https://anonscm.debian.org/cgit/collab-maint/check-all-the-things.git/commit/?id=6fb6c41b9309
+
+.. 2016-06-30
+
+List::MoreUtils: untrusted search path
+ | https://bugs.debian.org/829138
