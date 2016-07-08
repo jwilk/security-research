@@ -50,3 +50,4 @@ check-all-the-things: code execution via Lintian
 
 List::MoreUtils: untrusted search path
  | https://bugs.debian.org/829138
+ | see also CVE-2016-6185
