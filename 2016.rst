@@ -51,3 +51,8 @@ check-all-the-things: code execution via Lintian
 List::MoreUtils: untrusted search path
  | https://bugs.debian.org/829138
  | see also CVE-2016-6185
+
+.. 2016-08-03
+
+python.org website: 32-bit OpenPGP key IDs
+ | https://github.com/python/pythondotorg/issues/978
