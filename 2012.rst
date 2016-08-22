@@ -17,7 +17,7 @@ rxvt-unicode: insecure use of /tmp in documentation
 .. 2012-02-15
 
 mbank-cli: insecure cookie jar permissions
- | https://bitbucket.org/jwilk/mbank-cli/src/1.2/doc/SECURITY#cl-68
+ | https://github.com/jwilk/mbank-cli/blob/1.6/doc/SECURITY.rst#user-content-2012-02-15-insecure-file-permissions
 
 .. 2012-07-19
 

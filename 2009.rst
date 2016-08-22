@@ -24,7 +24,7 @@ Python: ElementTree doesn't prevent creation of ill-formed XML (rediscovered)
 .. 2009-12-08
 
 mbank-cli: improper certificate validation
- | https://bitbucket.org/jwilk/mbank-cli/src/1.2/doc/SECURITY#cl-91
+ | https://github.com/jwilk/mbank-cli/blob/1.6/doc/SECURITY.rst#user-content-2009-12-08-insufficient-certificate-validation
  | see also CVE-2011-0633
 
 .. 2009-12-10

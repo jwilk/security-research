@@ -204,7 +204,7 @@ OpenJDK 7: untrusted RPATH
 .. 2014-07-11
 
 mbank-cli: untrusted search path
- | https://bitbucket.org/jwilk/mbank-cli/src/1.2/doc/SECURITY#cl-4
+ | https://github.com/jwilk/mbank-cli/blob/1.6/doc/SECURITY.rst#user-content-2014-07-11-insecure-module-search-path
 
 .. 2014-07-24
 
