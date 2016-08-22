@@ -363,7 +363,7 @@ libe-book: PDB parser: null pointer deference
 .. 2015-05-05
 
 pdfium: reachable assertion
- | https://code.google.com/p/pdfium/issues/detail?id=15
+ | https://bugs.chromium.org/p/pdfium/issues/detail?id=152
 
 .. 2015-05-07
 
