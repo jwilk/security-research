@@ -40,7 +40,7 @@
 
 [CVE-2014-1934] eyeD3: insecure use of /tmp
  | https://bugs.debian.org/737062
- | https://bitbucket.org/nicfit/eyed3/issue/65
+ | https://bitbucket.org/nicfit/eyed3/issues/65
 
 .. 2014-01-30
 
