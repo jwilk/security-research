@@ -56,3 +56,8 @@ List::MoreUtils: untrusted search path
 
 python.org website: 32-bit OpenPGP key IDs
  | https://github.com/python/pythondotorg/issues/978
+
+.. 2016-09-06
+
+git-hub: missing data sanitization
+ | https://github.com/sociomantic-tsunami/git-hub/issues/197
