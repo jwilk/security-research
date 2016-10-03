@@ -22,6 +22,6 @@ Some security-related stuff is hosted separately:
    https://bitbucket.org/jwilk/path-traversal-samples
 
 .. _fuzzing goodies:
-   https://bitbucket.org/jwilk/fuzzing
+   https://github.com/jwilk/fuzzing
 
 .. vim:ts=3 sts=3 sw=3 et
