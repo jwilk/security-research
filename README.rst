@@ -19,7 +19,7 @@ Some security-related stuff is hosted separately:
    http://lcamtuf.coredump.cx/afl/
 
 .. _directory traversal samples:
-   https://bitbucket.org/jwilk/path-traversal-samples
+   https://github.com/jwilk/path-traversal-samples
 
 .. _fuzzing goodies:
    https://github.com/jwilk/fuzzing
