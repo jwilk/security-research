@@ -10,7 +10,7 @@ Some security-related stuff is hosted separately:
 * `fuzzing goodies`_
 
 .. _longutf8:
-   https://bitbucket.org/jwilk/longutf8
+   https://github.com/jwilk/longutf8
 
 .. _python-afl:
    http://jwilk.net/software/python-afl
