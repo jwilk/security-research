@@ -61,3 +61,8 @@ python.org website: 32-bit OpenPGP key IDs
 
 [CVE-2016-7793, CVE-2016-7794] git-hub: missing data sanitization
  | https://github.com/sociomantic-tsunami/git-hub/issues/197
+
+.. 2016-10-07
+
+webcheckout: missing URL sanitization
+ | https://bugs.debian.org/840014
