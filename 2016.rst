@@ -66,3 +66,8 @@ python.org website: 32-bit OpenPGP key IDs
 
 webcheckout: missing URL sanitization
  | https://bugs.debian.org/840014
+
+.. 2016-10-12
+
+pipelight: broken signature validation
+ | https://bugs.launchpad.net/pipelight/+bug/1632502
