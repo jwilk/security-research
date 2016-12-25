@@ -71,3 +71,8 @@ webcheckout: missing URL sanitization
 
 pipelight: broken signature validation
  | https://bugs.launchpad.net/pipelight/+bug/1632502
+
+.. 2016-12-25
+
+tqdm: insecure use of git
+ | https://github.com/tqdm/tqdm/issues/328
