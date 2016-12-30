@@ -386,7 +386,7 @@ Gamera: TIFF plugin: out-of-bounds read
 .. 2015-05-09
 
 didjvu: insecure use of /tmp
- | https://bitbucket.org/jwilk/didjvu/issues/8
+ | https://github.com/jwilk/didjvu/issues/8
 
 pdf2djvu: insecure use of /tmp
  | https://bitbucket.org/jwilk/pdf2djvu/issues/103
