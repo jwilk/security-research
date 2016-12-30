@@ -74,5 +74,5 @@ pipelight: broken signature validation
 
 .. 2016-12-25
 
-tqdm: insecure use of git
+[CVE-2016-10075] tqdm: insecure use of git
  | https://github.com/tqdm/tqdm/issues/328
