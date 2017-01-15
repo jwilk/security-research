@@ -1,0 +1,4 @@
+.. 2017-01-14
+
+check-all-the-things: code execution via ``python -m``
+ | https://anonscm.debian.org/cgit/collab-maint/check-all-the-things.git/commit/?id=0b35c329585c6b93747c06184e1bb23ae6ca5cbe
