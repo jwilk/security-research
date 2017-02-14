@@ -291,7 +291,7 @@ bsdtar: buffer overflow
 
 .. 2015-02-28
 
-glibc: regexec(3): reachable assertion
+[CVE-2015-8985] glibc: regexec(3): reachable assertion
  | https://bugs.debian.org/779392
 
 .. 2015-03-04
