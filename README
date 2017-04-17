@@ -24,4 +24,4 @@ Some security-related stuff is hosted separately:
 .. _fuzzing goodies:
    https://github.com/jwilk/fuzzing
 
-.. vim:ts=3 sts=3 sw=3 et
+.. vim:ts=3 sts=3 sw=3 et ft=rst
