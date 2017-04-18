@@ -1,6 +1,6 @@
 export LC_ALL=C
 
-rst_files = $(wildcard [0-9][0-9][0-9][0-9])
+rst_files = $(wildcard [0-9][0-9][0-9][0-9] README)
 stamp_files = $(addprefix stamp/,$(rst_files))
 
 .PHONY: check
