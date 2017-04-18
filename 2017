@@ -7,3 +7,5 @@ check-all-the-things: code execution via ``python -m``
 
 git-spindle: missing data sanitization
  | https://github.com/seveas/git-spindle/issues/154
+
+.. vim:ft=rst

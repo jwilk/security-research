@@ -31,3 +31,5 @@ mbank-cli: improper certificate validation
 
 [CVE-2009-5042] Docutils: rst.el: insecure use of /tmp
  | https://bugs.debian.org/560755
+
+.. vim:ft=rst

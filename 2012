@@ -23,3 +23,5 @@ mbank-cli: insecure cookie jar permissions
 
 Nuitka: insecure use of /tmp
  | https://bugs.debian.org/682145
+
+.. vim:ft=rst

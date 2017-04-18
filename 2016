@@ -76,3 +76,5 @@ pipelight: broken signature validation
 
 [CVE-2016-10075] tqdm: insecure use of git
  | https://github.com/tqdm/tqdm/issues/328
+
+.. vim:ft=rst

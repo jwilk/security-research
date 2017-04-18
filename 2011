@@ -31,3 +31,5 @@ theunarchiver: unar(1): directory traversal
 
 [CVE-2011-4606] Rocks'n'Diamonds: insecure permissions of ~/.rocksndiamonds/
  | https://bugs.debian.org/651620
+
+.. vim:ft=rst

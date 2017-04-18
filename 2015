@@ -451,3 +451,5 @@ Lintian: spellintian: untrusted search path
 
 mitmproxy: improper validation of certificate with host mismatch
  | https://bugs.debian.org/806637
+
+.. vim:ft=rst

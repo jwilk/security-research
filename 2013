@@ -59,3 +59,5 @@ uwsgi: untrusted RPATH
  | https://bugs.debian.org/733108
  | https://github.com/kennethreitz/requests/issues/1885
  | see also CVE-2014-1830
+
+.. vim:ft=rst
