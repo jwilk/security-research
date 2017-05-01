@@ -13,4 +13,9 @@ git-spindle: missing data sanitization
 check-all-the-things: code execution via perlcritic
  | https://anonscm.debian.org/cgit/collab-maint/check-all-the-things.git/commit/?id=96105db0540493ef37d8f10354464b265c960772
 
+.. 2017-05-01
+
+RuboCop: insecure use of /tmp
+ | https://github.com/bbatsov/rubocop/issues/4336
+
 .. vim:ft=rst
