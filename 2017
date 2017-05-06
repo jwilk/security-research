@@ -8,7 +8,7 @@ check-all-the-things: code execution via ``python -m``
 git-spindle: missing data sanitization
  | https://github.com/seveas/git-spindle/issues/154
 
-..  2017-04-27
+.. 2017-04-27
 
 check-all-the-things: code execution via perlcritic
  | https://anonscm.debian.org/cgit/collab-maint/check-all-the-things.git/commit/?id=96105db0540493ef37d8f10354464b265c960772
