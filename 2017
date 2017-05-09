@@ -20,7 +20,7 @@ RuboCop: insecure use of /tmp
 
 .. 2017-05-06
 
-Lintian: insecure YAML validation
+[CVE-2017-8829] Lintian: insecure YAML validation
  | https://bugs.debian.org/861958
 
 .. vim:ft=rst
