@@ -13,6 +13,14 @@ git-spindle: missing data sanitization
 check-all-the-things: code execution via perlcritic
  | https://anonscm.debian.org/cgit/collab-maint/check-all-the-things.git/commit/?id=96105db0540493ef37d8f10354464b265c960772
 
+.. 2017-04-29
+
+[CVE-2017-0373] Config::Model: untrusted search path
+ | https://github.com/dod38fr/config-model/commit/8f78baf997d1175e6c0efebb89ec7a0dd9203705
+
+[CVE-2017-0374] Config::Model: untrusted search path
+ | https://github.com/dod38fr/config-model/commit/9bd64d9ec6c0939166a2216a37d58dd19a725951
+
 .. 2017-05-01
 
 [CVE-2017-8418] RuboCop: insecure use of /tmp
