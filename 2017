@@ -25,7 +25,7 @@ check-all-the-things: code execution via perlcritic
 
 .. 2017-05-14
 
-perlcritic: arbitrary file overwrite via Perl::Tidy
+[CVE-2016-10374] perlcritic: arbitrary file overwrite via Perl::Tidy
  | https://bugs.debian.org/834213
 
 .. vim:ft=rst
