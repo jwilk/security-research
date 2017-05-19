@@ -8,6 +8,7 @@ Some security-related stuff is hosted separately:
 * python-afl_, which enables `American fuzzy lop`_ instrumentation of Python code
 * `directory traversal samples`_
 * `fuzzing goodies`_
+* `TIOCSTI ioctl tester`_
 
 .. _longutf8:
    https://github.com/jwilk/longutf8
@@ -23,5 +24,8 @@ Some security-related stuff is hosted separately:
 
 .. _fuzzing goodies:
    https://github.com/jwilk/fuzzing
+
+.. _TIOCSTI ioctl tester:
+   https://github.com/jwilk/tiocsti-test
 
 .. vim:ts=3 sts=3 sw=3 et ft=rst
