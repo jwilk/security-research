@@ -44,6 +44,9 @@ check-all-the-things: code execution via luacheck
 
 ocaml-lintian: shell injection via pathnames
 
+check-all-the-things: code execution via puppet-lint
+ | https://anonscm.debian.org/cgit/collab-maint/check-all-the-things.git/commit/?id=519eb948839611933e06de49ce0d470ed8a9fb02
+
 .. 2017-05-14
 
 perlcritic: arbitrary file overwrite via Perl::Tidy
