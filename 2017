@@ -40,6 +40,10 @@ check-all-the-things: code execution via rpmlint
 check-all-the-things: code execution via luacheck
  | https://anonscm.debian.org/cgit/collab-maint/check-all-the-things.git/commit/?id=912717f04dcbe500e50183bfd1f246b5b2c15b29
 
+.. 2017-05-07
+
+ocaml-lintian: shell injection via pathnames
+
 .. 2017-05-14
 
 perlcritic: arbitrary file overwrite via Perl::Tidy
