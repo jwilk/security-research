@@ -42,8 +42,8 @@ check-all-the-things: code execution via luacheck
 
 .. 2017-05-07
 
-ocaml-lintian: shell injection via pathnames
- (TBD)
+check-all-the-things: code execution via ocaml-lintian
+ | https://anonscm.debian.org/cgit/collab-maint/check-all-the-things.git/commit/?id=1bb455634056
 
 check-all-the-things: code execution via puppet-lint
  | https://anonscm.debian.org/cgit/collab-maint/check-all-the-things.git/commit/?id=519eb9488396
