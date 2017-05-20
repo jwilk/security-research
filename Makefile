@@ -6,11 +6,14 @@ stamp_files = $(addprefix stamp/,$(rst_files))
 .PHONY: check
 check: $(stamp_files)
 
-stamp/%: %
+stamp/.directory:
+	mkdir -p $(dir $@)
+	touch $(@)
+
+stamp/%: % stamp/.directory
 	rst2xml --input-encoding=UTF-8 --strict $(<) > /dev/null
 	grep -E '^[.][.] [0-9]{4}-[0-9]{2}-[0-9]{2}' $(<) \
 	| sort -c
-	mkdir -p $(dir $@)
 	touch $(@)
 
 .PHONY: clean
