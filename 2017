@@ -37,6 +37,9 @@ check-all-the-things: code execution via complexity
 check-all-the-things: code execution via rpmlint
  | https://anonscm.debian.org/cgit/collab-maint/check-all-the-things.git/commit/?id=aa3fb92382ccfed9e0efe739b1a5410cb1059727
 
+check-all-the-things: code execution via luacheck
+ | https://anonscm.debian.org/cgit/collab-maint/check-all-the-things.git/commit/?id=912717f04dcbe500e50183bfd1f246b5b2c15b29
+
 .. 2017-05-14
 
 perlcritic: arbitrary file overwrite via Perl::Tidy
