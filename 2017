@@ -43,6 +43,7 @@ check-all-the-things: code execution via luacheck
 .. 2017-05-07
 
 ocaml-lintian: shell injection via pathnames
+ (TBD)
 
 check-all-the-things: code execution via puppet-lint
  | https://anonscm.debian.org/cgit/collab-maint/check-all-the-things.git/commit/?id=519eb948839611933e06de49ce0d470ed8a9fb02
@@ -53,6 +54,7 @@ check-all-the-things: code execution via erl_tidy
  | https://anonscm.debian.org/cgit/collab-maint/check-all-the-things.git/commit/?id=f7726abc83325ec0be5dd3059b49e8d861d37a88
 
 OpenJDK: java.util.ResourceBundle: untrusted search path
+ (TBD)
 
 .. 2017-05-14
 
