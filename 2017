@@ -65,6 +65,6 @@ perlcritic: arbitrary file overwrite via Perl::Tidy
 .. 2017-05-25
 
 APT: replay attack
- (TBD)
+ | https://bugs.debian.org/863317
 
 .. vim:ft=rst
