@@ -62,4 +62,9 @@ perlcritic: arbitrary file overwrite via Perl::Tidy
  | https://bugs.debian.org/834213
  | see also CVE-2016-10374
 
+.. 2017-05-25
+
+APT: replay attack
+ (TBD)
+
 .. vim:ft=rst
