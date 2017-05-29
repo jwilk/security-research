@@ -67,4 +67,9 @@ perlcritic: arbitrary file overwrite via Perl::Tidy
 APT: replay attack
  | https://bugs.debian.org/863317
 
+.. 2017-05-29
+
+Astropy: untrusted file read
+ | https://github.com/astropy/astropy/issues/6126
+
 .. vim:ft=rst
