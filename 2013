@@ -57,7 +57,7 @@ uwsgi: untrusted RPATH
 
 [CVE-2014-1829] python-requests: password disclosure on redirect
  | https://bugs.debian.org/733108
- | https://github.com/kennethreitz/requests/issues/1885
+ | https://github.com/requests/requests/issues/1885
  | see also CVE-2014-1830
 
 .. vim:ft=rst
