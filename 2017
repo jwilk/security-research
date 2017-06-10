@@ -72,4 +72,9 @@ APT: replay attack
 Astropy: untrusted file read
  | https://github.com/astropy/astropy/issues/6126
 
+.. 2017-06-11
+
+Berkeley DB: untrusted file read
+ | http://www.openwall.com/lists/oss-security/2017/06/10/1
+
 .. vim:ft=rst
