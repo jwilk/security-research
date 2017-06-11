@@ -77,4 +77,9 @@ Astropy: untrusted file read
 Berkeley DB: untrusted file read
  | http://www.openwall.com/lists/oss-security/2017/06/10/1
 
+.. 2017-06-11
+
+Debian package camo: hardcoded secret key
+ | https://bugs.debian.org/864620
+
 .. vim:ft=rst
