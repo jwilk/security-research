@@ -4,20 +4,20 @@ Here, threshold for what is considered a security issue is intentionally very lo
 
 Some security-related stuff is hosted separately:
 
-* longutf8_, an overlong UTF-8 sequence generator
 * python-afl_, which enables `American fuzzy lop`_ instrumentation of Python code
+* longutf8_, an overlong UTF-8 sequence generator
 * `directory traversal samples`_
 * `fuzzing goodies`_
 * `TIOCSTI ioctl tester`_
-
-.. _longutf8:
-   https://github.com/jwilk/longutf8
 
 .. _python-afl:
    http://jwilk.net/software/python-afl
 
 .. _American fuzzy lop:
    http://lcamtuf.coredump.cx/afl/
+
+.. _longutf8:
+   https://github.com/jwilk/longutf8
 
 .. _directory traversal samples:
    https://github.com/jwilk/path-traversal-samples
