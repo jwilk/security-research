@@ -244,7 +244,7 @@ Debian package openssh: pam_env user_readenv=1 enabled in sshd.pam
 
 .. 2014-09-15
 
-OpenJDK 7: insecure use of /tmp/hsperfdata_*
+[CVE-2015-0383] OpenJDK 7: insecure use of /tmp/hsperfdata_* (rediscovered)
  | https://bugs.debian.org/761683
 
 .. 2014-09-19
