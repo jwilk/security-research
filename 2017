@@ -53,8 +53,8 @@ check-all-the-things: code execution via puppet-lint
 check-all-the-things: code execution via erl_tidy
  | https://anonscm.debian.org/cgit/collab-maint/check-all-the-things.git/commit/?id=f7726abc8332
 
-OpenJDK: java.util.ResourceBundle: untrusted search path
- (TBD)
+OpenJDK: java(1): untrusted search path
+ http://www.openwall.com/lists/oss-security/2017/06/13/7
 
 .. 2017-05-14
 
