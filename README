@@ -9,6 +9,7 @@ Some security-related stuff is hosted separately:
 * `directory traversal samples`_
 * `fuzzing goodies`_
 * `TIOCSTI ioctl tester`_
+* getenvy_, an LD_PRELOAD library to snoop on ``getenv()`` calls
 
 .. _python-afl:
    http://jwilk.net/software/python-afl
@@ -27,5 +28,8 @@ Some security-related stuff is hosted separately:
 
 .. _TIOCSTI ioctl tester:
    https://github.com/jwilk/tiocsti-test
+
+.. _getenvy:
+   https://github.com/jwilk/getenvy
 
 .. vim:ts=3 sts=3 sw=3 et ft=rst
