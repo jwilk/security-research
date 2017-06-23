@@ -82,4 +82,9 @@ Berkeley DB: untrusted file read
 Debian package camo: hardcoded secret key
  | https://bugs.debian.org/864620
 
+.. 2017-06-23
+
+glib: information disclosure via pkexec
+ | http://www.openwall.com/lists/oss-security/2017/06/23/8
+
 .. vim:ft=rst
