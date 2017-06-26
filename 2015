@@ -176,7 +176,7 @@ gcab: null pointer dereference
 
 .. 2015-01-22
 
-LAME: crash
+[CVE-2015-9099] LAME: crash
  | https://bugs.debian.org/775959
 
 .. 2015-01-22
