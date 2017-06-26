@@ -87,4 +87,9 @@ Debian package camo: hardcoded secret key
 glib: information disclosure via pkexec
  | http://www.openwall.com/lists/oss-security/2017/06/23/8
 
+.. 2017-06-26
+
+Limba: runapp: double free
+ | https://bugs.debian.org/866040
+
 .. vim:ft=rst
