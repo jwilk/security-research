@@ -97,4 +97,9 @@ glib: information disclosure via pkexec
 Limba: runapp: double free
  | https://bugs.debian.org/866040
 
+.. 2017-06-27
+
+UnRAR: out-of-bounds read in Unpack::MakeDecodeTables
+ (TBD)
+
 .. vim:ft=rst
