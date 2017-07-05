@@ -3,6 +3,11 @@
 check-all-the-things: code execution via ``python -m``
  | https://anonscm.debian.org/cgit/collab-maint/check-all-the-things.git/commit/?id=0b35c329585c
 
+.. 2017-02-04
+
+mitmproxy is open proxy by default (rediscovered)
+ | https://github.com/mitmproxy/mitmproxy/issues/1293
+
 .. 2017-02-16
 
 git-spindle: missing data sanitization
