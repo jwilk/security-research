@@ -438,7 +438,7 @@ ELinks: excessive iteration
 
 .. 2014-12-29
 
-UNRAR: directory traversal
+UnRAR: directory traversal
  | https://bugs.debian.org/774171
 
 [CVE-2014-9983] RAR: directory traversal
