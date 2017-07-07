@@ -102,4 +102,9 @@ Limba: runapp: double free
 UnRAR: out-of-bounds read in Unpack::MakeDecodeTables
  (TBD)
 
+.. 2017-07-06
+
+ARJ: directory traversal
+ | https://bugs.debian.org/867520
+
 .. vim:ft=rst
