@@ -112,4 +112,9 @@ ARJ: directory traversal
 ARJ: out-of-bounds read
  | https://bugs.debian.org/867696
 
+.. 2017-07-09
+
+cppcheck: crash
+ | https://bugs.debian.org/867726
+
 .. vim:ft=rst
