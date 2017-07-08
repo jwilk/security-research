@@ -107,4 +107,9 @@ UnRAR: out-of-bounds read in Unpack::MakeDecodeTables
 ARJ: directory traversal
  | https://bugs.debian.org/867520
 
+.. 2017-07-08
+
+ARJ: out-of-bounds read
+ | https://bugs.debian.org/867696
+
 .. vim:ft=rst
