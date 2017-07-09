@@ -117,4 +117,12 @@ ARJ: out-of-bounds read
 cppcheck: crash
  | https://bugs.debian.org/867726
 
+.. 2017-07-09
+
+TCC: null pointer dereference
+ | https://bugs.debian.org/867769
+
+TCC: null pointer dereference
+ | https://bugs.debian.org/867770
+
 .. vim:ft=rst
