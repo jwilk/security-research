@@ -125,4 +125,9 @@ TCC: null pointer dereference
 TCC: null pointer dereference
  | https://bugs.debian.org/867770
 
+.. 2017-07-11
+
+dosfstools: integer overflow
+ | https://github.com/dosfstools/dosfstools/pull/57
+
 .. vim:ft=rst
