@@ -138,6 +138,6 @@ t1utils: t1disasm(1): out-of-bounds read
 .. 2017-07-12
 
 imlib2: uninitialized memory read
- | https://bugs.debian.org/
+ | https://bugs.debian.org/868151
 
 .. vim:ft=rst
