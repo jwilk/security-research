@@ -347,7 +347,7 @@ glibc: tzset(3): buffer overflow
 
 .. 2014-12-10
 
-t1disasm: infinite loop
+t1utils: t1disasm(1): infinite loop
  | https://bugs.debian.org/772774
 
 .. 2014-12-11
