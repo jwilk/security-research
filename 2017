@@ -130,4 +130,9 @@ TCC: null pointer dereference
 dosfstools: integer overflow
  | https://github.com/dosfstools/dosfstools/pull/57
 
+.. 2017-07-12
+
+t1utils: t1disasm(1): out-of-bounds read
+ | https://bugs.debian.org/868134
+
 .. vim:ft=rst
