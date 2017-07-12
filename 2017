@@ -135,4 +135,9 @@ dosfstools: integer overflow
 t1utils: t1disasm(1): out-of-bounds read
  | https://bugs.debian.org/868134
 
+.. 2017-07-12
+
+imlib2: uninitialized memory read
+ | https://bugs.debian.org/
+
 .. vim:ft=rst
