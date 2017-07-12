@@ -140,4 +140,7 @@ t1utils: t1disasm(1): out-of-bounds read
 imlib2: uninitialized memory read
  | https://bugs.debian.org/868151
 
+imlib2: PNM loader: buffer overflow
+ | https://bugs.debian.org/868174
+
 .. vim:ft=rst
