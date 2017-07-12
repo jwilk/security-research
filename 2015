@@ -266,7 +266,7 @@ netpbm: pnmtofiasco(1): buffer overflow (rediscovered)
 
 .. 2015-02-15
 
-imlib2: null pointer dereference (rediscovered)
+imlib2: GIF loader: null pointer dereference (rediscovered)
  | https://bugs.debian.org/773967
 
 .. 2015-02-16
