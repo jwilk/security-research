@@ -143,4 +143,7 @@ imlib2: XPM loader: uninitialized memory read
 imlib2: PNM loader: buffer overflow
  | https://bugs.debian.org/868174
 
+imlib2: ARGB loader: invalid free()
+ | https://bugs.debian.org/868177
+
 .. vim:ft=rst
