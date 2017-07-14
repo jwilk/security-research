@@ -151,4 +151,9 @@ imlib2: ARGB loader: invalid free()
 imlib2: XPM loader: out-of-bounds read
  | https://bugs.debian.org/868310
 
+.. 2017-07-14
+
+dpkg: integer overflow
+ | https://bugs.debian.org/868356
+
 .. vim:ft=rst
