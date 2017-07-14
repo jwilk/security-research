@@ -146,4 +146,9 @@ imlib2: PNM loader: buffer overflow
 imlib2: ARGB loader: invalid free()
  | https://bugs.debian.org/868177
 
+.. 2017-07-14
+
+imlib2: XPM loader: out-of-bounds read
+ | https://bugs.debian.org/868310
+
 .. vim:ft=rst
