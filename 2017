@@ -161,4 +161,7 @@ dpkg: integer overflow
 e2fsprogs: e2fsck(1): null pointer dereference
  | https://bugs.debian.org/868476
 
+e2fsprogs: e2fsck(1): division error
+ | https://bugs.debian.org/868489
+
 .. vim:ft=rst
