@@ -382,7 +382,7 @@ HT: null pointer dereference
 
 .. 2014-12-23
 
-e2fsprogs: fsck.ext2(1): buffer overflow
+e2fsprogs: e2fsck(1): buffer overflow
  | https://bugs.debian.org/773795
 
 .. 2014-12-24
