@@ -170,4 +170,7 @@ pev: null pointer dereference
  | https://bugs.debian.org/868554
  | https://github.com/merces/pev/pull/110
 
+pev: pehash(1): crash
+ | https://github.com/merces/pev/issues/112
+
 .. vim:ft=rst
