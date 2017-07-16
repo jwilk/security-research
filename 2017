@@ -166,7 +166,8 @@ e2fsprogs: e2fsck(1): division error
 
 .. 2017-07-16
 
-pev: pehash(1): segmentation fault
+pev: null pointer dereference
  | https://bugs.debian.org/868554
+ | https://github.com/merces/pev/pull/110
 
 .. vim:ft=rst
