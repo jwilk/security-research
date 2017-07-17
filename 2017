@@ -170,7 +170,24 @@ pev: null pointer dereference
  | https://bugs.debian.org/868554
  | https://github.com/merces/pev/pull/110
 
-pev: pehash(1): crash
- | https://github.com/merces/pev/issues/112
+pev: uninitialized memory read
+ | https://github.com/merces/pev/issues/111
+
+.. 2017-07-17
+
+pev: pehash(1): buffer overflow
+ | https://github.com/merces/pev/pull/113
+
+pev: pehash(1): misuse of sprintf()
+ | https://github.com/merces/pev/pull/114
+
+pev: pehash(1): buffer underwrite
+ | https://github.com/merces/pev/pull/115
+
+pev: pehash(1): buffer overflow
+ | https://github.com/merces/pev/pull/116
+
+libpe: pointer arithmetic overflow
+ | https://github.com/merces/libpe/pull/16
 
 .. vim:ft=rst
