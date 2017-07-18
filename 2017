@@ -192,4 +192,10 @@ libpe: pointer arithmetic overflow
 
 pev: pehash(1): buffer overflow
  | https://github.com/merces/pev/pull/118
+
+.. 2017-07-18
+
+msitools: msiinfo(1): double free
+ | https://bugs.debian.org/868554
+
 .. vim:ft=rst
