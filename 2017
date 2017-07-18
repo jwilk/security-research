@@ -190,4 +190,6 @@ pev: pehash(1): buffer overflow
 libpe: pointer arithmetic overflow
  | https://github.com/merces/libpe/pull/16
 
+pev: pehash(1): buffer overflow
+ | https://github.com/merces/pev/pull/118
 .. vim:ft=rst
