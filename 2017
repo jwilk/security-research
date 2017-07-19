@@ -198,4 +198,12 @@ pev: pehash(1): buffer overflow
 msitools: msiinfo(1): double free
  | https://bugs.debian.org/868554
 
+.. 2017-07-19
+
+mupdf: mutool(1): null pointer dereference
+ | https://bugs.debian.org/868822
+
+mupdf: mutool(1): buffer overflow
+ | https://bugs.debian.org/868821
+
 .. vim:ft=rst
