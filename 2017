@@ -206,4 +206,9 @@ mupdf: mutool(1): null pointer dereference
 mupdf: mutool(1): buffer overflow
  | https://bugs.debian.org/868821
 
+.. 2017-07-19
+
+icoutils: wrestool: out-of-bounds read
+ | https://bugs.debian.org/868879
+
 .. vim:ft=rst
