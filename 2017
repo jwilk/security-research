@@ -211,4 +211,9 @@ mupdf: mutool(1): buffer overflow
 icoutils: wrestool: out-of-bounds read
  | https://bugs.debian.org/868879
 
+.. 2017-07-20
+
+msitools: msiinfo(1): invalid free
+ | https://bugs.debian.org/869082
+
 .. vim:ft=rst
