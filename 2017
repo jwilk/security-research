@@ -216,4 +216,12 @@ icoutils: wrestool: out-of-bounds read
 msitools: msiinfo(1): invalid free
  | https://bugs.debian.org/869082
 
+.. 2017-07-24
+
+DjVuLibre: division by zero
+ | https://bugs.debian.org/869527
+
+DjVuLibre: null pointer dereference
+ | https://bugs.debian.org/869524
+
 .. vim:ft=rst
