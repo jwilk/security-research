@@ -370,9 +370,6 @@ pdfium: reachable assertion
 Exempi: out-of-bounds read
  | https://bugs.debian.org/784631
 
-Exempi: out-of-bounds read
- | https://bugs.debian.org/784632
-
 .. 2015-05-08
 
 DjVuLibre: insufficient input sanitization in the INCL chunk handling
