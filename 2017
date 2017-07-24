@@ -224,4 +224,9 @@ DjVuLibre: division by zero
 DjVuLibre: null pointer dereference
  | https://bugs.debian.org/869524
 
+.. 2017-07-24
+
+Exempi: use-after-free (rediscovered)
+ | https://bugs.freedesktop.org/show_bug.cgi?id=100397
+
 .. vim:ft=rst
