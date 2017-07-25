@@ -229,4 +229,12 @@ DjVuLibre: null pointer dereference
 Exempi: use-after-free (rediscovered)
  | https://bugs.freedesktop.org/show_bug.cgi?id=100397
 
+.. 2017-07-25
+
+Exempi: reachable assertion
+ | https://bugs.freedesktop.org/show_bug.cgi?id=101913
+
+Exempi: invalid pointer dereference
+ | https://bugs.freedesktop.org/show_bug.cgi?id=101914
+
 .. vim:ft=rst
