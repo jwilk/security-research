@@ -242,4 +242,9 @@ Exempi: invalid pointer dereference
 GMime: infinite loop
  | https://bugs.debian.org/869736
 
+.. 2017-07-26
+
+t1utils: t1disasm(1): integer overflow
+ | https://bugs.debian.org/869797
+
 .. vim:ft=rst
