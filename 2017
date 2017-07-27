@@ -247,4 +247,9 @@ GMime: infinite loop
 t1utils: t1disasm(1): integer overflow
  | https://bugs.debian.org/869797
 
+.. 2017-07-27
+
+pgpdump: infinite loop
+ | https://bugs.debian.org/869891:
+
 .. vim:ft=rst
