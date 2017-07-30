@@ -252,4 +252,9 @@ t1utils: t1disasm(1): integer overflow
 pgpdump: infinite loop
  | https://bugs.debian.org/869891:
 
+.. 2017-07-31
+
+GMime: out-of-bounds read
+ | https://github.com/jstedfast/gmime/pull/9
+
 .. vim:ft=rst
