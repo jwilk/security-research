@@ -260,4 +260,9 @@ GMime: out-of-bounds read
 GMime: integer overflow
  | https://github.com/jstedfast/gmime/pull/10
 
+.. 2017-07-31
+
+Python: posixpath.realpath(): infinite recursion
+ (TBD)
+
 .. vim:ft=rst
