@@ -257,4 +257,7 @@ pgpdump: infinite loop
 GMime: out-of-bounds read
  | https://github.com/jstedfast/gmime/pull/9
 
+GMime: integer overflow
+ | https://github.com/jstedfast/gmime/pull/10
+
 .. vim:ft=rst
