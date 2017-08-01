@@ -196,7 +196,7 @@ pev: pehash(1): buffer overflow
 .. 2017-07-18
 
 msitools: msiinfo(1): double free
- | https://bugs.debian.org/868554
+ | https://bugs.debian.org/868795
 
 .. 2017-07-19
 
