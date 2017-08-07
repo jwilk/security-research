@@ -265,4 +265,9 @@ GMime: integer overflow
 Python: posixpath.realpath(): infinite recursion
  (TBD)
 
+.. 2017-08-07
+
+HT: buffer overflow
+ | https://bugs.debian.org/871219
+
 .. vim:ft=rst
