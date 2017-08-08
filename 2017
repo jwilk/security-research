@@ -270,4 +270,15 @@ Python: posixpath.realpath(): infinite recursion
 HT: buffer overflow
  | https://bugs.debian.org/871219
 
+.. 2017-07-18
+
+msitools: msiinfo(1): buffer overflow
+ | https://bugs.debian.org/871503
+
+msitools: msiinfo(1): null pointer dereference
+ | https://bugs.debian.org/871504
+
+msitools: msiinfo(1): integer overflow
+ | https://bugs.debian.org/871529
+
 .. vim:ft=rst
