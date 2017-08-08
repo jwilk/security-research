@@ -281,4 +281,12 @@ msitools: msiinfo(1): null pointer dereference
 msitools: msiinfo(1): integer overflow
  | https://bugs.debian.org/871529
 
+.. 2017-08-09
+
+e2fsprogs: e2fsck(1): buffer underwrite
+ | https://bugs.debian.org/871539
+
+e2fsprogs: e2fsck(1): out-of-bounds read
+ | https://bugs.debian.org/871540
+
 .. vim:ft=rst
