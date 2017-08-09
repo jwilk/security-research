@@ -294,4 +294,9 @@ e2fsprogs: e2fsck(1): out-of-bounds read
 msitools: msiinfo(1): invalid pointer dereference
  | https://bugs.debian.org/871571
 
+.. 2017-08-10
+
+Exempi: out-of-bounds read (rediscovered)
+ | https://cgit.freedesktop.org/exempi/diff/XMPFiles/source/FileHandlers/PostScript_Handler.cpp?id=6071af09b5e263b63e57b28ab8a78484bc65e3fe
+
 .. vim:ft=rst
