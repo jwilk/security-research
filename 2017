@@ -127,6 +127,19 @@ ARJ: out-of-bounds read
 
 .. 2017-07-09
 
+cppcheck: crash
+ | https://bugs.debian.org/867726
+
+.. 2017-07-09
+
+TCC: null pointer dereference
+ | https://bugs.debian.org/867769
+
+TCC: null pointer dereference
+ | https://bugs.debian.org/867770
+
+.. 2017-07-09
+
 UnRAR: left shift of negative value in Unpack::DecodeAudio
  (TBD)
 
@@ -146,19 +159,6 @@ UnRAR: shifting too much in RawRead::GetV
 
 UnRAR: buffer overflow in Unpack::LongLZ
  (TBD)
-
-.. 2017-07-09
-
-cppcheck: crash
- | https://bugs.debian.org/867726
-
-.. 2017-07-09
-
-TCC: null pointer dereference
- | https://bugs.debian.org/867769
-
-TCC: null pointer dereference
- | https://bugs.debian.org/867770
 
 .. 2017-07-11
 
