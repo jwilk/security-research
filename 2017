@@ -334,4 +334,9 @@ msitools: msiinfo(1): invalid pointer dereference
 Exempi: out-of-bounds read (rediscovered)
  | https://cgit.freedesktop.org/exempi/diff/XMPFiles/source/FileHandlers/PostScript_Handler.cpp?id=6071af09b5e263b63e57b28ab8a78484bc65e3fe
 
+.. 2017-08-10
+
+unalz: null pointer dereference
+ | https://bugs.debian.org/871722
+
 .. vim:ft=rst
