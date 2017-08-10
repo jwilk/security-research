@@ -102,6 +102,19 @@ Limba: runapp: double free
 UnRAR: out-of-bounds read in Unpack::MakeDecodeTables
  (TBD)
 
+.. 2017-07-04
+
+UnRAR: out-of-bounds read in Unpack::Unpack20
+ (TBD)
+
+UnRAR: out-of-bounds read in EncodeFileName::Decode (rediscovered)
+ (TBD)
+
+.. 2017-07-06
+
+UnRAR: directory traversal
+ (TBD)
+
 .. 2017-07-06
 
 ARJ: directory traversal
@@ -111,6 +124,28 @@ ARJ: directory traversal
 
 ARJ: out-of-bounds read
  | https://bugs.debian.org/867696
+
+.. 2017-07-09
+
+UnRAR: left shift of negative value in Unpack::DecodeAudio
+ (TBD)
+
+UnRAR: signed integer overflow in atoilw
+ (TBD)
+
+.. 2017-07-10
+
+UnRAR: memmove with null argument in RarVM::SetMemory
+ (TBD)
+
+UnRAR: null pointer dereference in Archive::GetComment
+ (TBD)
+
+UnRAR: shifting too much in RawRead::GetV
+ (TBD)
+
+UnRAR: buffer overflow in Unpack::LongLZ
+ (TBD)
 
 .. 2017-07-09
 
