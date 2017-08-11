@@ -339,4 +339,9 @@ Exempi: out-of-bounds read (rediscovered)
 unalz: null pointer dereference
  | https://bugs.debian.org/871722
 
+.. 2017-08-11
+
+Exempi: infinite loop
+ | https://bugs.freedesktop.org/show_bug.cgi?id=102151
+
 .. vim:ft=rst
