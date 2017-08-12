@@ -344,4 +344,9 @@ unalz: null pointer dereference
 Exempi: infinite loop
  | https://bugs.freedesktop.org/show_bug.cgi?id=102151
 
+.. 2017-08-12
+
+mkvtoolnix: null pointer dereference
+ | https://bugs.debian.org/871941
+
 .. vim:ft=rst
