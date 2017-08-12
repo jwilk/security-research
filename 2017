@@ -79,7 +79,7 @@ Astropy: untrusted file read
 
 .. 2017-06-11
 
-Berkeley DB: untrusted file read
+[CVE-2017-10140] Berkeley DB: untrusted file read
  | http://www.openwall.com/lists/oss-security/2017/06/10/1
 
 .. 2017-06-11
