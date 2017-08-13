@@ -349,4 +349,9 @@ Exempi: infinite loop
 mkvtoolnix: null pointer dereference
  | https://bugs.debian.org/871941
 
+.. 2017-08-13
+
+Exempi: invalid free()
+ | https://bugs.freedesktop.org/show_bug.cgi?id=102197
+
 .. vim:ft=rst
