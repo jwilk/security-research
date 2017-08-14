@@ -105,15 +105,15 @@ UnRAR: out-of-bounds read in Unpack::MakeDecodeTables
 .. 2017-07-04
 
 UnRAR: out-of-bounds read in Unpack::Unpack20
- (TBD)
+ | http://www.openwall.com/lists/oss-security/2017/08/14/3
 
 UnRAR: out-of-bounds read in EncodeFileName::Decode (rediscovered)
- (TBD)
+ | http://www.openwall.com/lists/oss-security/2017/08/14/3
 
 .. 2017-07-06
 
 UnRAR: directory traversal
- (TBD)
+ | http://www.openwall.com/lists/oss-security/2017/08/14/3
 
 .. 2017-07-06
 
@@ -158,7 +158,7 @@ UnRAR: shifting too much in RawRead::GetV
  (TBD)
 
 UnRAR: buffer overflow in Unpack::LongLZ
- (TBD)
+ | http://www.openwall.com/lists/oss-security/2017/08/14/3
 
 .. 2017-07-11
 
