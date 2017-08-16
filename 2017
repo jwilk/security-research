@@ -354,4 +354,9 @@ mkvtoolnix: null pointer dereference
 Exempi: invalid free()
  | https://bugs.freedesktop.org/show_bug.cgi?id=102197
 
+.. 2017-08-16
+
+libisofs: null pointer dereference
+ | https://bugs.debian.org/872372
+
 .. vim:ft=rst
