@@ -359,4 +359,9 @@ Exempi: invalid free()
 libisofs: null pointer dereference
  | https://bugs.debian.org/872372
 
+.. 2017-08-17
+
+libisofs: buffer under-read
+ | https://bugs.debian.org/872475
+
 .. vim:ft=rst
