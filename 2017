@@ -364,4 +364,9 @@ libisofs: null pointer dereference
 libisofs: buffer under-read
  | https://bugs.debian.org/872475
 
+.. 2017-08-18
+
+libisofs: heap-based buffer overflow
+ | https://bugs.debian.org/872545
+
 .. vim:ft=rst
