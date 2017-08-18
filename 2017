@@ -104,15 +104,15 @@ UnRAR: out-of-bounds read in Unpack::MakeDecodeTables
 
 .. 2017-07-04
 
-UnRAR: out-of-bounds read in Unpack::Unpack20
+[CVE-2017-12941] UnRAR: out-of-bounds read in Unpack::Unpack20
  | http://www.openwall.com/lists/oss-security/2017/08/14/3
 
-UnRAR: out-of-bounds read in EncodeFileName::Decode (rediscovered)
+[CVE-2017-12940] UnRAR: out-of-bounds read in EncodeFileName::Decode (rediscovered)
  | http://www.openwall.com/lists/oss-security/2017/08/14/3
 
 .. 2017-07-06
 
-UnRAR: directory traversal
+[CVE-2017-12938] UnRAR: directory traversal
  | http://www.openwall.com/lists/oss-security/2017/08/14/3
 
 .. 2017-07-06
@@ -157,7 +157,7 @@ UnRAR: null pointer dereference in Archive::GetComment
 UnRAR: shifting too much in RawRead::GetV
  (TBD)
 
-UnRAR: buffer overflow in Unpack::LongLZ
+[CVE-2017-12942] UnRAR: buffer overflow in Unpack::LongLZ
  | http://www.openwall.com/lists/oss-security/2017/08/14/3
 
 .. 2017-07-11
