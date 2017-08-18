@@ -369,4 +369,7 @@ libisofs: buffer under-read
 libisofs: heap-based buffer overflow
  | https://bugs.debian.org/872545
 
+libisofs: integer overflow
+ | https://bugs.debian.org/872590
+
 .. vim:ft=rst
