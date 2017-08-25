@@ -377,4 +377,9 @@ libisofs: integer overflow
 libisofs: stack overflow
  | https://bugs.debian.org/872761
 
+.. 2017-08-25
+
+UPX: crash
+ | https://bugs.debian.org/873260
+
 .. vim:ft=rst
