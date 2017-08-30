@@ -390,4 +390,9 @@ Exempi: infinite loop
 Exempi: infinite loop
  https://bugs.freedesktop.org/show_bug.cgi?id=102484
 
+.. 2017-08-30
+
+e2fsprogs: e2fsck(1): buffer overflow
+ https://bugs.debian.org/873757
+
 .. vim:ft=rst
