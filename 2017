@@ -87,6 +87,16 @@ Astropy: untrusted file read
 Debian package camo: hardcoded secret key
  | https://bugs.debian.org/864620
 
+.. 2017-06-16
+
+[CVE-2017-12837] Perl: heap-based buffer overflow
+ | https://rt.perl.org/Ticket/Display.html?id=131582
+
+.. 2017-06-18
+
+[CVE-2017-12883] Perl: out-of-bounds read
+ | https://rt.perl.org/Ticket/Display.html?id=131598
+
 .. 2017-06-23
 
 glib: information disclosure via pkexec
