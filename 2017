@@ -405,4 +405,12 @@ Exempi: infinite loop
 e2fsprogs: e2fsck(1): buffer overflow
  | https://bugs.debian.org/873757
 
+.. 2017-09-16
+
+libarchive: out-of-bounds read
+ | https://bugs.debian.org/875960
+
+libarchive: out-of-bounds read
+ | https://bugs.debian.org/875966
+
 .. vim:ft=rst
