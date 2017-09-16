@@ -413,4 +413,7 @@ libarchive: out-of-bounds read
 libarchive: out-of-bounds read
  | https://bugs.debian.org/875966
 
+libarchive: out-of-bounds read (rediscovered)
+ | https://bugs.debian.org/875974
+
 .. vim:ft=rst
