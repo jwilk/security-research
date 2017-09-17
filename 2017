@@ -407,10 +407,10 @@ e2fsprogs: e2fsck(1): buffer overflow
 
 .. 2017-09-16
 
-libarchive: out-of-bounds read
+[CVE-2017-14503] libarchive: out-of-bounds read
  | https://bugs.debian.org/875960
 
-libarchive: out-of-bounds read
+[CVE-2017-14501] libarchive: out-of-bounds read
  | https://bugs.debian.org/875966
 
 libarchive: out-of-bounds read (rediscovered)
