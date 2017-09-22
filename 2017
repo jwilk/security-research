@@ -416,4 +416,9 @@ e2fsprogs: e2fsck(1): buffer overflow
 libarchive: out-of-bounds read (rediscovered)
  | https://bugs.debian.org/875974
 
+.. 2017-09-22
+
+gettext: msgunfmt(1): heap corruption
+ | https://bugs.debian.org/876498
+
 .. vim:ft=rst
