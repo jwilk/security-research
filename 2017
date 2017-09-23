@@ -426,4 +426,9 @@ gettext: msgunfmt(1): heap corruption
 procmail: formail(1): heap-based buffer overflow
  | https://bugs.debian.org/876511
 
+.. 2017-09-23
+
+NeoMutt: buffer overflow
+ | https://github.com/neomutt/neomutt/pull/775
+
 .. vim:ft=rst
