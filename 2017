@@ -421,4 +421,9 @@ libarchive: out-of-bounds read (rediscovered)
 gettext: msgunfmt(1): heap corruption
  | https://bugs.debian.org/876498
 
+.. 2017-09-23
+
+procmail: formail(1): heap-based buffer overflow
+ | https://bugs.debian.org/876511
+
 .. vim:ft=rst
