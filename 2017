@@ -436,4 +436,7 @@ NeoMutt: buffer overflow
 NeoMutt: null pointer dereference
  | https://github.com/neomutt/neomutt/issues/778
 
+NeoMutt: null pointer dereference
+ | https://github.com/neomutt/neomutt/issues/780
+
 .. vim:ft=rst
