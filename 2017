@@ -431,4 +431,9 @@ procmail: formail(1): heap-based buffer overflow
 NeoMutt: buffer overflow
  | https://github.com/neomutt/neomutt/pull/775
 
+.. 2017-09-24
+
+NeoMutt: null pointer dereference
+ | https://github.com/neomutt/neomutt/issues/778
+
 .. vim:ft=rst
