@@ -439,4 +439,9 @@ NeoMutt: null pointer dereference
 NeoMutt: null pointer dereference
  | https://github.com/neomutt/neomutt/issues/780
 
+.. 2017-09-25
+
+NeoMutt: out-of-bounds read
+ | https://github.com/neomutt/neomutt/issues/784
+
 .. vim:ft=rst
