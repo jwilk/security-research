@@ -449,4 +449,9 @@ NeoMutt: out-of-bounds read
 procmail: formail(1): out-of-bounds read
  | https://bugs.debian.org/876992
 
+.. 2017-09-27
+
+NeoMutt: integer overflow
+ | https://github.com/neomutt/neomutt/issues/794
+
 .. vim:ft=rst
