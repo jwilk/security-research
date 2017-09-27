@@ -444,4 +444,9 @@ NeoMutt: null pointer dereference
 NeoMutt: out-of-bounds read
  | https://github.com/neomutt/neomutt/issues/784
 
+.. 2017-09-27
+
+procmail: formail(1): out-of-bounds read
+ | https://bugs.debian.org/876992
+
 .. vim:ft=rst
