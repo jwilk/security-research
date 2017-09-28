@@ -459,4 +459,9 @@ NeoMutt: integer overflow
 MuPDF: mutool(1): heap-based buffer overflow
  | https://bugs.debian.org/877062
 
+.. 2017-09-28
+
+maildrop: reformail(1): use-after-free
+ | https://bugs.debian.org/877108
+
 .. vim:ft=rst
