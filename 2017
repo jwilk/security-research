@@ -454,4 +454,9 @@ procmail: formail(1): out-of-bounds read
 NeoMutt: integer overflow
  | https://github.com/neomutt/neomutt/issues/794
 
+.. 2017-09-28
+
+MuPDF: mutool(1): heap-based buffer overflow
+ | https://bugs.debian.org/877062
+
 .. vim:ft=rst
