@@ -464,4 +464,9 @@ MuPDF: mutool(1): heap-based buffer overflow
 maildrop: reformail(1): use-after-free
  | https://bugs.debian.org/877108
 
+.. 2017-09-30
+
+gettext: out-of-bounds read
+ | https://lists.gnu.org/archive/html/bug-gettext/2017-09/msg00014.html
+
 .. vim:ft=rst
