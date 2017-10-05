@@ -474,4 +474,9 @@ gettext: out-of-bounds read
 NeoMutt: integer overflow
  | https://github.com/neomutt/neomutt/issues/819
 
+.. 2017-10-05
+
+maildrop: mailbot(1): null pointer dereference
+ | https://bugs.debian.org/877793
+
 .. vim:ft=rst
