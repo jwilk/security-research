@@ -479,4 +479,9 @@ NeoMutt: integer overflow
 maildrop: mailbot(1): null pointer dereference
  | https://bugs.debian.org/877793
 
+.. 2017-10-05
+
+NeoMutt: integer overflow
+ | https://github.com/neomutt/neomutt/issues/820
+
 .. vim:ft=rst
