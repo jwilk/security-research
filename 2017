@@ -489,4 +489,7 @@ NeoMutt: integer overflow
 GMime: stack overflow
  | https://github.com/jstedfast/gmime/issues/15
 
+GMime: out-of-bounds read
+ | https://github.com/jstedfast/gmime/pull/16
+
 .. vim:ft=rst
