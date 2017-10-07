@@ -484,4 +484,9 @@ maildrop: mailbot(1): null pointer dereference
 NeoMutt: integer overflow
  | https://github.com/neomutt/neomutt/issues/820
 
+.. 2017-10-07
+
+GMime: stack overflow
+ | https://github.com/jstedfast/gmime/issues/15
+
 .. vim:ft=rst
