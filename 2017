@@ -492,6 +492,9 @@ GMime: stack overflow
 GMime: out-of-bounds read
  | https://github.com/jstedfast/gmime/pull/16
 
+GMime: integer overflow
+ | https://github.com/jstedfast/gmime/pull/17
+
 .. 2017-10-08
 
 GNOME Nautilus: directory traversal
