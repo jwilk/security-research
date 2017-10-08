@@ -492,4 +492,9 @@ GMime: stack overflow
 GMime: out-of-bounds read
  | https://github.com/jstedfast/gmime/pull/16
 
+.. 2017-10-08
+
+GNOME Nautilus: directory traversal
+ | https://bugs.debian.org/878012
+
 .. vim:ft=rst
