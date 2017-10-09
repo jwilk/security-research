@@ -500,4 +500,9 @@ GMime: integer overflow
 GNOME Nautilus: directory traversal
  | https://bugs.debian.org/878012
 
+.. 2017-10-09
+
+e2fsprogs: debugfs(8): out-of-bounds read
+ | https://bugs.debian.org/878104
+
 .. vim:ft=rst
