@@ -505,4 +505,9 @@ GNOME Nautilus: directory traversal
 e2fsprogs: debugfs(8): out-of-bounds read
  | https://bugs.debian.org/878104
 
+.. 2017-10-10
+
+glibc: posix_memalign(): crash
+ | https://bugs.debian.org/878159
+
 .. vim:ft=rst
