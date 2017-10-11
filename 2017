@@ -512,6 +512,11 @@ glibc: posix_memalign(): crash
 
 .. 2017-10-11
 
+Ark: directory traversal
+ | https://bugs.debian.org/878269
+
+.. 2017-10-11
+
 nomarch: out-of-bounds read
  | https://bugs.debian.org/878260
 
