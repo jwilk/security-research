@@ -510,4 +510,9 @@ e2fsprogs: debugfs(8): out-of-bounds read
 glibc: posix_memalign(): crash
  | https://bugs.debian.org/878159
 
+.. 2017-10-11
+
+nomarch: out-of-bounds read
+ | https://bugs.debian.org/878260
+
 .. vim:ft=rst
