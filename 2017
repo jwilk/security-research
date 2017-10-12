@@ -520,4 +520,9 @@ Ark: directory traversal
 nomarch: out-of-bounds read
  | https://bugs.debian.org/878260
 
+.. 2017-10-12
+
+ncompress: integer overflow
+ | https://github.com/vapier/ncompress/pull/11
+
 .. vim:ft=rst
