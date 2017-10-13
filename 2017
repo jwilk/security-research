@@ -525,4 +525,9 @@ nomarch: out-of-bounds read
 ncompress: integer overflow
  | https://github.com/vapier/ncompress/pull/11
 
+.. 2017-10-13
+
+pev: peres(1): uninitialized memory read
+ | https://github.com/merces/pev/issues/122
+
 .. vim:ft=rst
