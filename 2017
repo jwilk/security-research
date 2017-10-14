@@ -530,4 +530,9 @@ ncompress: integer overflow
 pev: peres(1): uninitialized memory read
  | https://github.com/merces/pev/issues/122
 
+.. 2017-10-14
+
+MirBSD pax: out-of-bounds read
+ | https://bugs.debian.org/878512
+
 .. vim:ft=rst
