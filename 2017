@@ -543,4 +543,9 @@ MirBSD pax: out-of-bounds write
 MirBSD pax: buffer under-read
  | https://bugs.debian.org/878645
 
+.. 2017-10-15
+
+dash: out-of-bounds write
+ | https://bugs.debian.org/878697
+
 .. vim:ft=rst
