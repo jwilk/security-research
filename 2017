@@ -535,4 +535,12 @@ pev: peres(1): uninitialized memory read
 MirBSD pax: out-of-bounds read
  | https://bugs.debian.org/878512
 
+.. 2017-10-15
+
+MirBSD pax: out-of-bounds write
+ | https://bugs.debian.org/878642
+
+MirBSD pax: buffer under-read
+ | https://bugs.debian.org/878645
+
 .. vim:ft=rst
