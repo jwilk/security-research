@@ -548,4 +548,9 @@ MirBSD pax: buffer under-read
 dash: out-of-bounds write
  | https://bugs.debian.org/878697
 
+.. 2017-10-18
+
+mksh: excessive memory use
+ | https://bugs.debian.org/878947
+
 .. vim:ft=rst
