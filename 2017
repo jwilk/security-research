@@ -553,4 +553,9 @@ dash: out-of-bounds write
 mksh: excessive memory use
  | https://bugs.debian.org/878947
 
+.. 2017-10-18
+
+ksh: out-of-bounds read
+ | https://bugs.debian.org/879060
+
 .. vim:ft=rst
