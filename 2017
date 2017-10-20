@@ -558,4 +558,9 @@ mksh: excessive memory use
 ksh: out-of-bounds read
  | https://bugs.debian.org/879060
 
+.. 2017-10-20
+
+e2fsprogs: e2fsck(8): division by 0
+ | https://bugs.debian.org/879220
+
 .. vim:ft=rst
