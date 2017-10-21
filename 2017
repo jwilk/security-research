@@ -563,4 +563,9 @@ ksh: out-of-bounds read
 e2fsprogs: e2fsck(8): division by 0
  | https://bugs.debian.org/879220
 
+.. 2017-10-21
+
+ksh: buffer overflow
+ | https://bugs.debian.org/879464
+
 .. vim:ft=rst
