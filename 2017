@@ -573,4 +573,9 @@ ksh: buffer overflow
 dash -n: code execution (rediscovered)
  | https://bugs.debian.org/858288
 
+.. 2017-10-22
+
+zsh -n: use-after-free
+ | https://bugs.debian.org/879548
+
 .. vim:ft=rst
