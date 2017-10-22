@@ -568,4 +568,9 @@ e2fsprogs: e2fsck(8): division by 0
 ksh: buffer overflow
  | https://bugs.debian.org/879464
 
+.. 2017-10-22
+
+dash -n: code execution (rediscovered)
+ | https://bugs.debian.org/858288
+
 .. vim:ft=rst
