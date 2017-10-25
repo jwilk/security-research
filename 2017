@@ -578,4 +578,9 @@ dash -n: code execution (rediscovered)
 zsh -n: use-after-free
  | https://bugs.debian.org/879548
 
+.. 2017-10-23
+
+zsh -n: excessive use of resources
+ | https://bugs.debian.org/879596
+
 .. vim:ft=rst
