@@ -583,4 +583,9 @@ zsh -n: use-after-free
 zsh -n: excessive use of resources
  | https://bugs.debian.org/879596
 
+.. 2017-10-27
+
+bash -n: out-of-bounds read
+ | https://lists.gnu.org/archive/html/bug-bash/2017-10/msg00102.html
+
 .. vim:ft=rst
