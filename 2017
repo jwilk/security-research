@@ -588,4 +588,9 @@ zsh -n: excessive use of resources
 bash -n: out-of-bounds read
  | https://lists.gnu.org/archive/html/bug-bash/2017-10/msg00102.html
 
+.. 2017-10-28
+
+dpkg-deb(1): directory traversal
+ | https://bugs.debian.org/879982
+
 .. vim:ft=rst
