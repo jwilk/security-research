@@ -598,4 +598,9 @@ dpkg-deb(1): directory traversal
 libmspack: KWAJ decompression: buffer overflow
  | https://github.com/kyz/libmspack/issues/13
 
+.. 2017-10-29
+
+P7ZIP: out-of-bounds read
+ | https://bugs.debian.org/880048
+
 .. vim:ft=rst
