@@ -593,4 +593,9 @@ bash -n: out-of-bounds read
 dpkg-deb(1): directory traversal
  | https://bugs.debian.org/879982
 
+.. 2017-10-28
+
+libmspack: KWAJ decompression: buffer overflow
+ | https://github.com/kyz/libmspack/issues/13
+
 .. vim:ft=rst
