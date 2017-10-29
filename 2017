@@ -603,4 +603,9 @@ libmspack: KWAJ decompression: buffer overflow
 P7ZIP: out-of-bounds read
  | https://bugs.debian.org/880048
 
+.. 2017-10-29
+
+Perl: deep recursion
+ | https://bugs.debian.org/880085
+
 .. vim:ft=rst
