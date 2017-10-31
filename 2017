@@ -608,4 +608,9 @@ P7ZIP: out-of-bounds read
 Perl: deep recursion
  | https://bugs.debian.org/880085
 
+.. 2017-10-31
+
+vim (or vim users): insecure use of /tmp
+ | http://www.openwall.com/lists/oss-security/2017/10/31/5
+
 .. vim:ft=rst
