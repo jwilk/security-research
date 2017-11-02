@@ -613,4 +613,9 @@ Perl: deep recursion
 vim (or vim users): insecure use of /tmp
  | http://www.openwall.com/lists/oss-security/2017/10/31/5
 
+.. 2017-11-02
+
+GNUstep Base Library: use-after-free
+ | https://bugs.debian.org/880575
+
 .. vim:ft=rst
