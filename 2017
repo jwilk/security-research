@@ -618,4 +618,9 @@ vim (or vim users): insecure use of /tmp
 GNUstep Base Library: use-after-free
  | https://bugs.debian.org/880575
 
+.. 2017-11-02
+
+theunarchiver: lsar(1): unbounded VLA
+ | https://bugs.debian.org/880585
+
 .. vim:ft=rst
