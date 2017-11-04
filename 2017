@@ -253,7 +253,7 @@ MuPDF: mutool(1): buffer overflow
 
 .. 2017-07-19
 
-icoutils: wrestool: out-of-bounds read
+icoutils: wrestool(1): out-of-bounds read
  | https://bugs.debian.org/868879
 
 .. 2017-07-20
@@ -625,7 +625,7 @@ theunarchiver: lsar(1): unbounded VLA
 
 .. 2017-11-03
 
-icoutils: wrestool: out-of-bounds read
+icoutils: wrestool(1): out-of-bounds read
  | https://bugs.debian.org/880684
 
 .. vim:ft=rst
