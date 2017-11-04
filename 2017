@@ -623,4 +623,9 @@ GNUstep Base Library: use-after-free
 theunarchiver: lsar(1): unbounded VLA
  | https://bugs.debian.org/880585
 
+.. 2017-11-03
+
+icoutils: wrestool: out-of-bounds read
+ | https://bugs.debian.org/880684
+
 .. vim:ft=rst
