@@ -628,4 +628,12 @@ theunarchiver: lsar(1): unbounded VLA
 icoutils: wrestool(1): out-of-bounds read
  | https://bugs.debian.org/880684
 
+.. 2017-11-04
+
+Debian package nvi: code execution
+ | https://bugs.debian.org/769719
+
+nvi: insecure use of /var/tmp
+ | http://www.openwall.com/lists/oss-security/2017/11/04/2
+
 .. vim:ft=rst
