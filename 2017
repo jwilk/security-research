@@ -641,4 +641,9 @@ nvi: insecure use of /var/tmp
 nomarch: buffer overflow
  | https://bugs.debian.org/880959
 
+.. 2017-11-06
+
+lhasa: integer overflow
+ | https://github.com/fragglet/lhasa/pull/22
+
 .. vim:ft=rst
