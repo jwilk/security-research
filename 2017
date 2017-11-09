@@ -646,4 +646,9 @@ nomarch: buffer overflow
 lhasa: integer overflow
  | https://github.com/fragglet/lhasa/pull/22
 
+.. 2017-11-09
+
+nvi: insecure use of /var/tmp
+ | http://www.openwall.com/lists/oss-security/2017/11/09/3
+
 .. vim:ft=rst
