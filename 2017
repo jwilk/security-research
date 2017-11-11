@@ -651,4 +651,9 @@ lhasa: integer overflow
 nvi: insecure use of /var/tmp
  | http://www.openwall.com/lists/oss-security/2017/11/09/3
 
+.. 2017-11-11
+
+fig2dev: buffer overflow
+ | https://bugs.debian.org/881396
+
 .. vim:ft=rst
