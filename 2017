@@ -656,4 +656,9 @@ nvi: insecure use of /var/tmp
 fig2dev: buffer overflow
  | https://bugs.debian.org/881396
 
+.. 2017-11-16
+
+gcab: out-of-bounds read
+ | https://bugs.debian.org/881922
+
 .. vim:ft=rst
