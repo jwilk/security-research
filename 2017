@@ -423,7 +423,7 @@ gettext: msgunfmt(1): heap corruption
 
 .. 2017-09-23
 
-procmail: formail(1): heap-based buffer overflow
+[CVE-2017-16844] procmail: formail(1): heap-based buffer overflow
  | https://bugs.debian.org/876511
 
 .. 2017-09-23
