@@ -661,4 +661,12 @@ fig2dev: buffer overflow
 gcab: out-of-bounds read
  | https://bugs.debian.org/881922
 
+.. 2017-11-17
+
+fig2dev: buffer overflow
+ | https://bugs.debian.org/882021
+
+fig2dev: buffer underwrite
+ | https://bugs.debian.org/882022
+
 .. vim:ft=rst
