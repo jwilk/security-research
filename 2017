@@ -669,4 +669,9 @@ fig2dev: buffer overflow
 fig2dev: buffer underwrite
  | https://bugs.debian.org/882022
 
+.. 2017-11-18
+
+theunarchiver: lsar(1): buffer overflow
+ | https://bugs.debian.org/882094
+
 .. vim:ft=rst
