@@ -674,4 +674,12 @@ fig2dev: buffer underwrite
 theunarchiver: lsar(1): buffer overflow
  | https://bugs.debian.org/882094
 
+.. 2017-11-19
+
+busybox: ar(1): out-of-bounds read
+ | https://bugs.debian.org/882175
+
+busybox: unzip(1): insecure permissions
+ | https://bugs.debian.org/882177
+
 .. vim:ft=rst
