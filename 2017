@@ -682,4 +682,9 @@ busybox: ar(1): out-of-bounds read
 busybox: unzip(1): insecure permissions
  | https://bugs.debian.org/882177
 
+.. 2017-11-21
+
+zsh -n: null pointer dereference
+ | https://bugs.debian.org/882373
+
 .. vim:ft=rst
