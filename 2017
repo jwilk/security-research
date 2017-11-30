@@ -433,8 +433,9 @@ NeoMutt: buffer overflow
 
 .. 2017-09-24
 
-NeoMutt: null pointer dereference
+Mutt, NeoMutt: null pointer dereference
  | https://github.com/neomutt/neomutt/issues/778
+ | https://bugs.debian.org/883106
 
 NeoMutt: null pointer dereference
  | https://github.com/neomutt/neomutt/issues/780
