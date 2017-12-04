@@ -688,4 +688,9 @@ busybox: unzip(1): insecure permissions
 zsh -n: null pointer dereference
  | https://bugs.debian.org/882373
 
+.. 2017-12-04
+
+fgcov: insecure use of /tmp
+ | https://github.com/Photonios/fgcov/issues/2
+
 .. vim:ft=rst
