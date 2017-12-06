@@ -693,4 +693,9 @@ zsh -n: null pointer dereference
 fgcov: insecure use of /tmp
  | https://github.com/Photonios/fgcov/issues/2
 
+.. 2017-12-06
+
+Travis CI: 32-bit OpenPGP key IDs
+ | https://github.com/travis-ci/travis-build/pull/1269
+
 .. vim:ft=rst
