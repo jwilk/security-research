@@ -698,4 +698,9 @@ fgcov: insecure use of /tmp
 Travis CI: 32-bit OpenPGP key IDs
  | https://github.com/travis-ci/travis-build/pull/1269
 
+.. 2017-12-08
+
+debian-goodies: which-pkg-broke(1): untrusted search path
+ | https://bugs.debian.org/883889
+
 .. vim:ft=rst
