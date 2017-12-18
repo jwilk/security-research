@@ -703,4 +703,12 @@ Travis CI: 32-bit OpenPGP key IDs
 debian-goodies: which-pkg-broke(1): untrusted search path
  | https://bugs.debian.org/883889
 
+.. 2017-12-18
+
+Jakub's travis-toolbox: broken CA pinning
+ | https://github.com/jwilk/travis-toolbox/commit/4002870f55702aac9b29e9018713379791f56642
+
+Jakub's github-toolbox: broken CA pinning
+ | https://github.com/jwilk/github-toolbox/commit/9de12c109418ac85c977d86008e67aa9d77fde38
+
 .. vim:ft=rst
