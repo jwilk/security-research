@@ -1,0 +1,6 @@
+.. 2018-01-04
+
+GNU tar: use-after-free
+ | https://bugs.debian.org/886352
+
+.. vim:ft=rst
