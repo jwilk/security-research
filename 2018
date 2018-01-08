@@ -3,4 +3,9 @@
 GNU tar: use-after-free
  | https://bugs.debian.org/886352
 
+.. 2018-01-08
+
+vmdebootstrap: insecure permissions
+ | https://bugs.debian.org/886691
+
 .. vim:ft=rst
