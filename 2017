@@ -526,6 +526,11 @@ nomarch: out-of-bounds read
 ncompress: integer overflow
  | https://github.com/vapier/ncompress/pull/11
 
+.. 2017-10-12
+
+Travis CI: insecure use of apt-get
+ | https://news.ycombinator.com/item?id=16101118
+
 .. 2017-10-13
 
 pev: peres(1): uninitialized memory read

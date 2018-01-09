@@ -8,4 +8,9 @@ GNU tar: use-after-free
 vmdebootstrap: insecure permissions
  | https://bugs.debian.org/886691
 
+.. 2018-01-09
+
+Travis CI: insecure OpenPGP key retrieval
+ | https://news.ycombinator.com/item?id=16101118
+
 .. vim:ft=rst
