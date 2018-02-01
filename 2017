@@ -508,7 +508,7 @@ e2fsprogs: debugfs(8): out-of-bounds read
 
 .. 2017-10-10
 
-glibc: posix_memalign(): crash
+[CVE-2018-6485] glibc: posix_memalign(): integer overflow
  | https://bugs.debian.org/878159
 
 .. 2017-10-11
