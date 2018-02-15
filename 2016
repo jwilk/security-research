@@ -64,7 +64,7 @@ python.org website: 32-bit OpenPGP key IDs
 
 .. 2016-10-07
 
-webcheckout: missing URL sanitization
+[CVE-2018-7032] webcheckout: missing URL sanitization
  | https://bugs.debian.org/840014
 
 .. 2016-10-12
