@@ -18,4 +18,9 @@ Travis CI: insecure OpenPGP key retrieval
 GNU patch: stack overflow
  | https://bugs.debian.org/890746
 
+.. 2018-02-28
+
+rsstail: 32-bit OpenPGP key ID
+ | https://github.com/flok99/rsstail/pull/27
+
 .. vim:ft=rst
