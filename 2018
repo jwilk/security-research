@@ -23,4 +23,9 @@ GNU patch: stack overflow
 rsstail: 32-bit OpenPGP key ID
  | https://github.com/flok99/rsstail/pull/27
 
+.. 2018-03-04
+
+vim-anywhere: insecure use of /tmp
+ | https://github.com/cknadler/vim-anywhere/issues/81
+
 .. vim:ft=rst
