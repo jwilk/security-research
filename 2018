@@ -28,4 +28,9 @@ rsstail: 32-bit OpenPGP key ID
 vim-anywhere: insecure use of /tmp
  | https://github.com/cknadler/vim-anywhere/issues/81
 
+.. 2018-03-09
+
+`Tina Müller's blog <http://blogs.perl.org/users/tinita/2018/02/safely-load-untrusted-yaml-in-perl.html>`_: insecure YAML deserialization
+ | https://github.com/ingydotnet/yaml-libyaml-pm/issues/45#issuecomment-371786236
+
 .. vim:ft=rst
