@@ -33,4 +33,9 @@ vim-anywhere: insecure use of /tmp
 `Tina Müller's blog <http://blogs.perl.org/users/tinita/2018/02/safely-load-untrusted-yaml-in-perl.html>`_: insecure YAML deserialization
  | https://github.com/ingydotnet/yaml-libyaml-pm/issues/45#issuecomment-371786236
 
+.. 2018-03-30
+
+urxvt plugin confirm-paste: insufficient input validation
+ | https://lwn.net/Articles/750586/
+
 .. vim:ft=rst
