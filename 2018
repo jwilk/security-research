@@ -38,4 +38,9 @@ vim-anywhere: insecure use of /tmp
 urxvt plugin confirm-paste: insufficient input validation
  | https://lwn.net/Articles/750586/
 
+.. 2018-04-05
+
+beep: insecure file open
+ | https://news.ycombinator.com/item?id=16753709
+
 .. vim:ft=rst
