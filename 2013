@@ -51,7 +51,7 @@ security threats of ~/.netrc support
 .. 2013-12-18
 
 [CVE-2013-7325] devscripts: uscan(1): insecure tar extraction
- | https://anonscm.debian.org/cgit/collab-maint/devscripts.git/commit/?id=4b7e58ee6000
+ | https://salsa.debian.org/debian/devscripts/commit/4b7e58ee6000
 
 .. 2013-12-20
 
