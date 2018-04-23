@@ -1,7 +1,7 @@
 .. 2017-01-14
 
 check-all-the-things: code execution via ``python -m``
- | https://anonscm.debian.org/cgit/collab-maint/check-all-the-things.git/commit/?id=0b35c329585c
+ | https://github.com/collab-qa/check-all-the-things/commit/0b35c329585c
 
 .. 2017-02-04
 
@@ -16,7 +16,7 @@ git-spindle: missing data sanitization
 .. 2017-04-27
 
 check-all-the-things: code execution via perlcritic
- | https://anonscm.debian.org/cgit/collab-maint/check-all-the-things.git/commit/?id=96105db05404
+ | https://github.com/collab-qa/check-all-the-things/commit/96105db05404
 
 .. 2017-04-29
 
@@ -37,26 +37,26 @@ check-all-the-things: code execution via perlcritic
  | https://bugs.debian.org/861958
 
 check-all-the-things: code execution via complexity
- | https://anonscm.debian.org/cgit/collab-maint/check-all-the-things.git/commit/?id=c1ffc81cfbbd
+ | https://github.com/collab-qa/check-all-the-things/commit/c1ffc81cfbbd
 
 check-all-the-things: code execution via rpmlint
- | https://anonscm.debian.org/cgit/collab-maint/check-all-the-things.git/commit/?id=aa3fb92382cc
+ | https://github.com/collab-qa/check-all-the-things/commit/aa3fb92382cc
 
 check-all-the-things: code execution via luacheck
- | https://anonscm.debian.org/cgit/collab-maint/check-all-the-things.git/commit/?id=912717f04dcb
+ | https://github.com/collab-qa/check-all-the-things/commit/912717f04dcb
 
 .. 2017-05-07
 
 check-all-the-things: code execution via ocaml-lintian
- | https://anonscm.debian.org/cgit/collab-maint/check-all-the-things.git/commit/?id=1bb455634056
+ | https://github.com/collab-qa/check-all-the-things/commit/1bb455634056
 
 check-all-the-things: code execution via puppet-lint
- | https://anonscm.debian.org/cgit/collab-maint/check-all-the-things.git/commit/?id=519eb9488396
+ | https://github.com/collab-qa/check-all-the-things/commit/519eb9488396
 
 .. 2017-05-10
 
 check-all-the-things: code execution via erl_tidy
- | https://anonscm.debian.org/cgit/collab-maint/check-all-the-things.git/commit/?id=f7726abc8332
+ | https://github.com/collab-qa/check-all-the-things/commit/f7726abc8332
 
 OpenJDK: java(1): untrusted search path
  | http://www.openwall.com/lists/oss-security/2017/06/13/7
