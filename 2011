@@ -25,7 +25,7 @@ libxml2: quadratic complexity
 
 theunarchiver: unar(1): directory traversal
  | https://bugs.debian.org/642028
- | https://code.google.com/p/theunarchiver/issues/detail?id=392
+ | https://code.google.com/archive/p/theunarchiver/issues/392
 
 .. 2011-12-10
 
