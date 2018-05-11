@@ -1,5 +1,6 @@
 export LC_ALL=C
 
+rst2xml = $(shell command -v rst2xml || echo rst2xml.py)
 rst_files = $(wildcard [0-9][0-9][0-9][0-9] README)
 stamp_files = $(addprefix stamp/,$(rst_files))
 
@@ -11,7 +12,7 @@ stamp/.directory:
 	touch $(@)
 
 stamp/%: % stamp/.directory
-	rst2xml --input-encoding=UTF-8 --strict $(<) > /dev/null
+	$(rst2xml) --input-encoding=UTF-8 --strict $(<) > /dev/null
 	grep -E '^[.][.] [0-9]{4}-[0-9]{2}-[0-9]{2}' $(<) \
 	| sort -c
 	touch $(@)
