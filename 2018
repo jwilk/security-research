@@ -48,4 +48,9 @@ beep: insecure file open
 jlint: option injection
  | https://bugs.debian.org/895606
 
+.. 2018-05-27
+
+TeX Live: tlmgr(1): 32-bit OpenPGP key IDs
+ | https://bugs.debian.org/900236
+
 .. vim:ft=rst
