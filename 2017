@@ -470,6 +470,11 @@ maildrop: reformail(1): use-after-free
 gettext: out-of-bounds read
  | https://lists.gnu.org/archive/html/bug-gettext/2017-09/msg00014.html
 
+.. 2017-09-30
+
+Perl: Archive::Tar: directory traversal
+ | https://bugs.debian.org/900834
+
 .. 2017-10-04
 
 NeoMutt: integer overflow
