@@ -472,7 +472,7 @@ gettext: out-of-bounds read
 
 .. 2017-09-30
 
-Perl: Archive::Tar: directory traversal
+[CVE-2018-12015] Perl: Archive::Tar: directory traversal
  | https://bugs.debian.org/900834
 
 .. 2017-10-04
