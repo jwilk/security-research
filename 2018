@@ -53,4 +53,9 @@ jlint: option injection
 TeX Live: tlmgr(1): 32-bit OpenPGP key IDs
  | https://bugs.debian.org/900236
 
+.. 2018-06-08
+
+archiver: directory traversal
+ | https://github.com/mholt/archiver/issues/69
+
 .. vim:ft=rst
