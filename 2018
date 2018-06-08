@@ -58,4 +58,9 @@ TeX Live: tlmgr(1): 32-bit OpenPGP key IDs
 archiver: directory traversal
  | https://github.com/mholt/archiver/issues/69
 
+.. 2018-06-08
+
+github-backup: denial of service
+ | https://lwn.net/Articles/756920/
+
 .. vim:ft=rst
