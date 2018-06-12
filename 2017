@@ -29,7 +29,7 @@ check-all-the-things: code execution via perlcritic
 .. 2017-05-01
 
 [CVE-2017-8418] RuboCop: insecure use of /tmp
- | https://github.com/bbatsov/rubocop/issues/4336
+ | https://github.com/rubocop-hq/rubocop/issues/4336
 
 .. 2017-05-06
 
