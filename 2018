@@ -63,4 +63,9 @@ archiver: directory traversal
 github-backup: denial of service
  | https://lwn.net/Articles/756920/
 
+.. 2018-07-03
+
+termtosvg: insecure use of /tmp
+ | https://github.com/nbedos/termtosvg/issues/12
+
 .. vim:ft=rst
