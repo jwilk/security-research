@@ -68,4 +68,9 @@ github-backup: denial of service
 termtosvg: insecure use of /tmp
  | https://github.com/nbedos/termtosvg/issues/12
 
+.. 2018-07-03
+
+GNU units: units_cur: missing input validation
+ | https://bugs.debian.org/902935
+
 .. vim:ft=rst
