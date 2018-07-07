@@ -73,4 +73,9 @@ termtosvg: insecure use of /tmp
 GNU units: units_cur: missing input validation
  | https://bugs.debian.org/902935
 
+.. 2018-07-07
+
+alpine-chroot-install: insecure use of /tmp
+ | https://github.com/alpinelinux/alpine-chroot-install/issues/9
+
 .. vim:ft=rst
