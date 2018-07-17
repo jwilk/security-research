@@ -78,4 +78,9 @@ GNU units: units_cur: missing input validation
 alpine-chroot-install: insecure use of /tmp
  | https://github.com/alpinelinux/alpine-chroot-install/issues/9
 
+.. 2018-07-17
+
+x1carbon2018s3: insecure use of /tmp
+ | https://github.com/fiji-flo/x1carbon2018s3/issues/5
+
 .. vim:ft=rst
