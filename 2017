@@ -606,7 +606,7 @@ dpkg-deb(1): directory traversal
 
 .. 2017-10-28
 
-libmspack: KWAJ decompression: buffer overflow
+[CVE-2018-14681] libmspack: KWAJ decompression: buffer overflow
  | https://github.com/kyz/libmspack/issues/13
 
 .. 2017-10-29
