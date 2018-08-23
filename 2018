@@ -83,4 +83,9 @@ alpine-chroot-install: insecure use of /tmp
 x1carbon2018s3: insecure use of /tmp
  | https://github.com/fiji-flo/x1carbon2018s3/issues/5
 
+.. 2018-08-23
+
+G'MIC: MITM RCE
+ | https://bugs.debian.org/907056
+
 .. vim:ft=rst
