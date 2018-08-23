@@ -208,7 +208,7 @@ mbank-cli: untrusted search path
 
 .. 2014-07-24
 
-[CVE-2014-0479] reportbug: remote code execution
+[CVE-2014-0479] reportbug: MITM RCE
  | https://www.debian.org/security/2014/dsa-2997
 
 .. 2014-08-07
