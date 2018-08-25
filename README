@@ -6,7 +6,7 @@ Some security-related stuff is hosted separately:
 
 * python-afl_, which enables `American fuzzy lop`_ instrumentation of Python code
 * longutf8_, an overlong UTF-8 sequence generator
-* `directory traversal samples`_
+* `archive file samples for testing against directory traversal`_
 * `fuzzing goodies`_
 * `TIOCSTI ioctl tester`_
 * getenvy_, an LD_PRELOAD library to snoop on ``getenv()`` calls
@@ -21,7 +21,7 @@ Some security-related stuff is hosted separately:
 .. _longutf8:
    https://github.com/jwilk/longutf8
 
-.. _directory traversal samples:
+.. _archive file samples for testing against directory traversal:
    https://github.com/jwilk/path-traversal-samples
 
 .. _fuzzing goodies:
