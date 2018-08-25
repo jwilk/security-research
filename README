@@ -10,6 +10,7 @@ Some security-related stuff is hosted separately:
 * `fuzzing goodies`_
 * `TIOCSTI ioctl tester`_
 * getenvy_, an LD_PRELOAD library to snoop on ``getenv()`` calls
+* stopgp32_, a tool to brute-force 32-bit OpenPGP key IDs
 
 .. _python-afl:
    http://jwilk.net/software/python-afl
@@ -31,5 +32,8 @@ Some security-related stuff is hosted separately:
 
 .. _getenvy:
    https://github.com/jwilk/getenvy
+
+.. _stopgp32:
+   https://github.com/jwilk/stopgp32
 
 .. vim:ts=3 sts=3 sw=3 et ft=rst
