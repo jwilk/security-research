@@ -533,8 +533,8 @@ ncompress: integer overflow
 
 .. 2017-10-12
 
-Travis CI: insecure use of apt-get
- | https://news.ycombinator.com/item?id=16101118
+Travis CI: travis-build: insecure use of apt-get
+ | http://www.openwall.com/lists/oss-security/2018/08/25/3
 
 .. 2017-10-13
 
@@ -705,7 +705,7 @@ fgcov: insecure use of /tmp
 
 .. 2017-12-06
 
-Travis CI: 32-bit OpenPGP key IDs
+Travis CI: travis-build: 32-bit OpenPGP key IDs
  | https://github.com/travis-ci/travis-build/pull/1269
 
 .. 2017-12-08
