@@ -88,4 +88,9 @@ x1carbon2018s3: insecure use of /tmp
 G'MIC: MITM RCE
  | https://bugs.debian.org/907056
 
+.. 2018-08-25
+
+Travis CI: insecure OpenPGP key retrieval
+ | http://www.openwall.com/lists/oss-security/2018/08/25/3
+
 .. vim:ft=rst
