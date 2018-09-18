@@ -98,4 +98,9 @@ Travis CI: insecure OpenPGP key retrieval
 crow: insecure use of pip
  | https://github.com/acopar/crow/pull/40
 
+.. 2018-09-18
+
+YubiKey-Guide: broken signature verification
+ | https://github.com/drduh/YubiKey-Guide/pull/70
+
 .. vim:ft=rst
