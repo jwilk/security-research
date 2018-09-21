@@ -103,4 +103,9 @@ crow: insecure use of pip
 YubiKey-Guide: broken signature verification
  | https://github.com/drduh/YubiKey-Guide/pull/70
 
+.. 2018-09-22
+
+rvm: broken signature verification
+ | https://github.com/rvm/rvm/pull/4458
+
 .. vim:ft=rst
