@@ -108,4 +108,9 @@ YubiKey-Guide: broken signature verification
 rvm: broken signature verification
  | https://github.com/rvm/rvm/pull/4458
 
+.. 2018-09-22
+
+QtWebKit: crash
+ | https://bugs.debian.org/909366
+
 .. vim:ft=rst
