@@ -113,4 +113,9 @@ rvm: broken signature verification
 QtWebKit: crash
  | https://bugs.debian.org/909366
 
+.. 2018-09-27
+
+GnuPG: import screener bypass via crafted subkey
+ | https://bugs.debian.org/909755
+
 .. vim:ft=rst
