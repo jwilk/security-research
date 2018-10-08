@@ -22,7 +22,7 @@ Some security-related stuff is hosted separately:
    https://github.com/jwilk/longutf8
 
 .. _archive file samples for testing against directory traversal:
-   https://github.com/jwilk/path-traversal-samples
+   https://github.com/jwilk/traversal-archives
 
 .. _fuzzing goodies:
    https://github.com/jwilk/fuzzing
