@@ -59,7 +59,7 @@ check-all-the-things: code execution via erl_tidy
  | https://github.com/collab-qa/check-all-the-things/commit/f7726abc8332
 
 OpenJDK: java(1): untrusted search path
- | http://www.openwall.com/lists/oss-security/2017/06/13/7
+ | https://www.openwall.com/lists/oss-security/2017/06/13/7
 
 .. 2017-05-14
 
@@ -80,7 +80,7 @@ Astropy: untrusted file read
 .. 2017-06-11
 
 [CVE-2017-10140] Berkeley DB: untrusted file read
- | http://www.openwall.com/lists/oss-security/2017/06/10/1
+ | https://www.openwall.com/lists/oss-security/2017/06/10/1
 
 .. 2017-06-11
 
@@ -100,7 +100,7 @@ Debian package camo: hardcoded secret key
 .. 2017-06-23
 
 glib: information disclosure via pkexec
- | http://www.openwall.com/lists/oss-security/2017/06/23/8
+ | https://www.openwall.com/lists/oss-security/2017/06/23/8
 
 .. 2017-06-26
 
@@ -115,15 +115,15 @@ UnRAR: out-of-bounds read in Unpack::MakeDecodeTables
 .. 2017-07-04
 
 [CVE-2017-12941] UnRAR: out-of-bounds read in Unpack::Unpack20
- | http://www.openwall.com/lists/oss-security/2017/08/14/3
+ | https://www.openwall.com/lists/oss-security/2017/08/14/3
 
 [CVE-2017-12940] UnRAR: out-of-bounds read in EncodeFileName::Decode (rediscovered)
- | http://www.openwall.com/lists/oss-security/2017/08/14/3
+ | https://www.openwall.com/lists/oss-security/2017/08/14/3
 
 .. 2017-07-06
 
 [CVE-2017-12938] UnRAR: directory traversal
- | http://www.openwall.com/lists/oss-security/2017/08/14/3
+ | https://www.openwall.com/lists/oss-security/2017/08/14/3
 
 .. 2017-07-06
 
@@ -168,7 +168,7 @@ UnRAR: shifting too much in RawRead::GetV
  (TBD)
 
 [CVE-2017-12942] UnRAR: buffer overflow in Unpack::LongLZ
- | http://www.openwall.com/lists/oss-security/2017/08/14/3
+ | https://www.openwall.com/lists/oss-security/2017/08/14/3
 
 .. 2017-07-11
 
@@ -534,7 +534,7 @@ ncompress: integer overflow
 .. 2017-10-12
 
 Travis CI: travis-build: insecure use of apt-get
- | http://www.openwall.com/lists/oss-security/2018/08/25/3
+ | https://www.openwall.com/lists/oss-security/2018/08/25/3
 
 .. 2017-10-13
 
@@ -622,7 +622,7 @@ Perl: deep recursion
 .. 2017-10-31
 
 vim (or vim users): insecure use of /tmp
- | http://www.openwall.com/lists/oss-security/2017/10/31/5
+ | https://www.openwall.com/lists/oss-security/2017/10/31/5
 
 .. 2017-11-02
 
@@ -645,7 +645,7 @@ Debian package nvi: code execution
  | https://bugs.debian.org/769719
 
 nvi: insecure use of /var/tmp
- | http://www.openwall.com/lists/oss-security/2017/11/04/2
+ | https://www.openwall.com/lists/oss-security/2017/11/04/2
 
 .. 2017-11-06
 
@@ -660,7 +660,7 @@ lhasa: integer overflow
 .. 2017-11-09
 
 nvi: insecure use of /var/tmp
- | http://www.openwall.com/lists/oss-security/2017/11/09/3
+ | https://www.openwall.com/lists/oss-security/2017/11/09/3
 
 .. 2017-11-11
 

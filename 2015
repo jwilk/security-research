@@ -57,7 +57,7 @@ theunarchiver: lsar(1): null pointer dereference
 .. 2015-01-09
 
 star: directory traversal
- | http://www.openwall.com/lists/oss-security/2015/01/09/10
+ | https://www.openwall.com/lists/oss-security/2015/01/09/10
 
 .. 2015-01-09
 
