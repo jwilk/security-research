@@ -123,4 +123,33 @@ GnuPG: import screener bypass via crafted subkey
 devscripts: who-uploads(1): insecure use of /tmp
  | https://bugs.debian.org/911720
 
+.. 2018-10-26
+
+devscripts: cvs-debi(1), cvs-debrelease(1): insecure use of /tmp
+ | https://bugs.debian.org/911720
+
+devscripts: deb-reversion(1): insecure use of /tmp
+ | https://bugs.debian.org/911720
+
+devscripts: debsign(1): insecure use of /tmp
+ | https://bugs.debian.org/911720
+
+devscripts: dscextract(1): insecure use of /tmp
+ | https://bugs.debian.org/911720
+
+devscripts: getbuildlog(1): insecure use of /tmp
+ | https://bugs.debian.org/911720
+
+devscripts: mergechanges(1): insecure use of /tmp
+ | https://bugs.debian.org/911720
+
+devscripts: pts-subscribe(1): insecure use of /tmp
+ | https://bugs.debian.org/911720
+
+devscripts: wnpp-alert(1): insecure use of /tmp
+ | https://bugs.debian.org/911720
+
+devscripts: wnpp-check(1): insecure use of /tmp
+ | https://bugs.debian.org/911720
+
 .. vim:ft=rst
