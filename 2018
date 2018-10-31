@@ -115,7 +115,7 @@ QtWebKit: crash
 
 .. 2018-09-27
 
-GnuPG: import screener bypass via crafted subkey
+GnuPG: import screener bypass via crafted subkey (rediscovered)
  | https://bugs.debian.org/909755
 
 .. 2018-10-23
