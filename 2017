@@ -102,6 +102,11 @@ Debian package camo: hardcoded secret key
 glib: information disclosure via pkexec
  | https://www.openwall.com/lists/oss-security/2017/06/23/8
 
+.. 2017-06-25
+
+[CVE-2018-18314] Perl: heap-based buffer overflow
+ | https://rt.perl.org/Ticket/Display.html?id=131649
+
 .. 2017-06-26
 
 Limba: runapp: double free
