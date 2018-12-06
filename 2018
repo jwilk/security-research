@@ -152,4 +152,7 @@ devscripts: wnpp-alert(1): insecure use of /tmp
 devscripts: wnpp-check(1): insecure use of /tmp
  | https://bugs.debian.org/911720
 
+pytest: insecure use of /tmp
+ | https://bugs.debian.org/915803
+
 .. vim:ft=rst
