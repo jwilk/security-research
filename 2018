@@ -157,4 +157,9 @@ devscripts: wnpp-check(1): insecure use of /tmp
 pytest: insecure use of /tmp
  | https://bugs.debian.org/915803
 
+.. 2018-12-17
+
+Perl::Tidy: untrusted file access
+ | https://bugs.debian.org/916681
+
 .. vim:ft=rst
