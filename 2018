@@ -162,4 +162,9 @@ pytest: insecure use of /tmp
 Perl::Tidy: untrusted file access
  | https://bugs.debian.org/916681
 
+.. 2018-12-28
+
+beep (proposed patch): directory traversal
+ | https://github.com/johnath/beep/issues/11#issuecomment-450346961
+
 .. vim:ft=rst
