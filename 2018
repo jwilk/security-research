@@ -167,4 +167,7 @@ Perl::Tidy: untrusted file access
 beep (proposed patch): directory traversal
  | https://github.com/johnath/beep/issues/11#issuecomment-450346961
 
+beep (proposed patch): information disclosure
+ | https://github.com/johnath/beep/issues/11#issuecomment-450436645
+
 .. vim:ft=rst
