@@ -33,7 +33,7 @@ vorbis-tools: null pointer dereference
 
 .. 2015-01-03
 
-ARC: directory traversal
+[CVE-2015-9275] ARC: directory traversal
  | https://bugs.debian.org/774527
 
 .. 2015-01-04
