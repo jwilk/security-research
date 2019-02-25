@@ -3,4 +3,7 @@
 XML::Parser: shell injection
  | https://bugs.debian.org/923223
 
+Pod::POM: shell injection
+ | https://bugs.debian.org/923224
+
 .. vim:ft=rst
