@@ -6,4 +6,9 @@ XML::Parser: shell injection
 Pod::POM: shell injection
  | https://bugs.debian.org/923224
 
+.. 2019-03-01
+
+bubblewrap: insecure use of /tmp
+ | https://bugs.debian.org/923557
+
 .. vim:ft=rst
