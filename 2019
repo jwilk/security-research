@@ -11,4 +11,9 @@ Pod::POM: shell injection
 bubblewrap: insecure use of /tmp
  | https://bugs.debian.org/923557
 
+.. 2019-03-09
+
+tvtime: insecure use of /tmp
+ | https://bugs.debian.org/924076
+
 .. vim:ft=rst
