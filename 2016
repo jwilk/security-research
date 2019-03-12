@@ -8,6 +8,14 @@ Plan9 sha1sum: buffer overflow
 Wine: insecure use of /tmp
  | https://bugs.debian.org/816034
 
+.. 2016-03-03
+
+corekeeper: insecure use of world-writable /var/crash
+ |  https://bugs.debian.org/924397
+
+corekeeper: insecure argument parsing
+ | https://bugs.debian.org/924398
+
 .. 2016-03-20
 
 libdebug: buffer overflow
