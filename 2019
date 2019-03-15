@@ -16,4 +16,12 @@ bubblewrap: insecure use of /tmp
 tvtime: insecure use of /tmp
  | https://bugs.debian.org/924076
 
+.. 2019-03-15
+
+Apport: /var/crash/.lock created insecurely
+ | https://bugs.debian.org/924692
+
+Apport: world-writable /var/crash/.lock
+ | https://bugs.debian.org/924693
+
 .. vim:ft=rst
