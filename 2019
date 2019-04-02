@@ -24,4 +24,9 @@ Apport: /var/crash/.lock created insecurely
 Apport: world-writable /var/crash/.lock
  | https://bugs.debian.org/924693
 
+.. 2019-04-02
+
+Double Commander: insecure use of /tmp
+ | https://bugs.debian.org/926223
+
 .. vim:ft=rst
