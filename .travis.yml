@@ -1,4 +1,4 @@
-dist: trusty
+dist: xenial
 language: generic
 install:
 - python -m pip install --user docutils
