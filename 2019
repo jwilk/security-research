@@ -8,7 +8,7 @@ Pod::POM: shell injection
 
 .. 2019-03-01
 
-bubblewrap: insecure use of /tmp
+[CVE-2019-12439] bubblewrap: insecure use of /tmp
  | https://bugs.debian.org/923557
 
 .. 2019-03-09
