@@ -29,4 +29,9 @@ Apport: world-writable /var/crash/.lock
 Double Commander: insecure use of /tmp
  | https://bugs.debian.org/926223
 
+.. 2019-11-05
+
+Debian msmtp: password disclosure
+ | https://bugs.debian.org/944188
+
 .. vim:ft=rst
