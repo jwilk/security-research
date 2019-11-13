@@ -34,4 +34,9 @@ Double Commander: insecure use of /tmp
 Debian msmtp: password disclosure
  | https://bugs.debian.org/944188
 
+.. 2019-11-13
+
+bubblewrap: insecure file permissions
+ | https://bugs.debian.org/944673
+
 .. vim:ft=rst
