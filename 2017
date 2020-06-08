@@ -97,6 +97,10 @@ Debian package camo: hardcoded secret key
 [CVE-2017-12883] Perl: out-of-bounds read
  | https://rt.perl.org/Ticket/Display.html?id=131598
 
+.. 2017-06-21
+
+[CVE-2020-10543] Perl: out-of-bounds read
+
 .. 2017-06-23
 
 glib: information disclosure via pkexec
