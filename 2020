@@ -1,0 +1,6 @@
+.. 2020-07-06
+
+bashtop: insecure use of /tmp
+ | https://bugs.debian.org/964366
+
+.. vim:ft=rst
