@@ -3,4 +3,7 @@
 bashtop: insecure use of /tmp
  | https://bugs.debian.org/964366
 
+bashtop: untrusted search path
+ | https://bugs.debian.org/964788
+
 .. vim:ft=rst
