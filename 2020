@@ -6,4 +6,9 @@ bashtop: insecure use of /tmp
 bashtop: untrusted search path
  | https://bugs.debian.org/964788
 
+.. 2020-07-23
+
+dash: stack overflow
+ | https://bugs.debian.org/966156
+
 .. vim:ft=rst
