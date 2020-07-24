@@ -11,4 +11,9 @@ bashtop: untrusted search path
 dash: stack overflow
  | https://bugs.debian.org/966156
 
+.. 2020-07-24
+
+Azure CLI: insecure creation of ssh directory
+ | https://github.com/Azure/azure-cli/issues/14517
+
 .. vim:ft=rst
