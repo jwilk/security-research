@@ -16,4 +16,9 @@ dash: stack overflow
 Azure CLI: insecure creation of ssh directory
  | https://github.com/Azure/azure-cli/issues/14517
 
+.. 2020-08-03
+
+bash: stack overflow
+ | https://lists.gnu.org/archive/html/bug-bash/2020-08/msg00015.html
+
 .. vim:ft=rst
