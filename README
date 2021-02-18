@@ -8,7 +8,7 @@ Some security-related stuff is hosted separately:
 * longutf8_, an overlong UTF-8 sequence generator
 * `archive file samples for testing against directory traversal`_
 * `fuzzing goodies`_
-* `TIOCSTI ioctl tester`_
+* ttyjack_, proof-of-concept tty hijacking
 * getenvy_, an LD_PRELOAD library to snoop on ``getenv()`` calls
 * stopgp32_, a tool to brute-force 32-bit OpenPGP key IDs
 * `DocBook XSL MitM proxy`_
@@ -28,8 +28,8 @@ Some security-related stuff is hosted separately:
 .. _fuzzing goodies:
    https://github.com/jwilk/fuzzing
 
-.. _TIOCSTI ioctl tester:
-   https://github.com/jwilk/tiocsti-test
+.. _ttyjack:
+   https://github.com/jwilk/ttyjack
 
 .. _getenvy:
    https://github.com/jwilk/getenvy
