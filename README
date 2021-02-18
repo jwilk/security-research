@@ -5,12 +5,12 @@ Here, threshold for what is considered a security issue is intentionally very lo
 Some security-related stuff is hosted separately:
 
 * python-afl_, which enables `American fuzzy lop`_ instrumentation of Python code
-* longutf8_, an overlong UTF-8 sequence generator
+* longutf8_ — overlong UTF-8 sequence generator
 * `archive file samples for testing against directory traversal`_
 * `fuzzing goodies`_
-* ttyjack_, proof-of-concept tty hijacking
-* getenvy_, an LD_PRELOAD library to snoop on ``getenv()`` calls
-* stopgp32_, a tool to brute-force 32-bit OpenPGP key IDs
+* ttyjack_ — proof-of-concept tty hijacking
+* getenvy_ — LD_PRELOAD library to snoop on ``getenv()`` calls
+* stopgp32_ — tool to brute-force 32-bit OpenPGP key IDs
 * `DocBook XSL MitM proxy`_
 
 .. _python-afl:
