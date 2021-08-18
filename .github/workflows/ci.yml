@@ -1,0 +1,15 @@
+name: CI
+on:
+- push
+- pull_request
+jobs:
+  main:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v2
+    - run: |
+        pip install --user docutils
+    - run: |
+        make
+
+# vim:ts=2 sts=2 sw=2 et
