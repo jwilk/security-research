@@ -12,6 +12,7 @@ Some security-related stuff is hosted separately:
 * getenvy_ — LD_PRELOAD library to snoop on ``getenv()`` calls
 * stopgp32_ — tool to brute-force 32-bit OpenPGP key IDs
 * `DocBook XSL MitM proxy`_
+* git-landmine_ — tool to create local malicious git repos
 
 .. _python-afl:
    http://jwilk.net/software/python-afl
@@ -39,5 +40,8 @@ Some security-related stuff is hosted separately:
 
 .. _DocBook XSL MitM proxy:
    https://github.com/jwilk/docbook-xsl-mitm
+
+.. _git-landmine:
+   https://github.com/jwilk/git-landmine
 
 .. vim:ts=3 sts=3 sw=3 et ft=rst
