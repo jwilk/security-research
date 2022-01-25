@@ -126,31 +126,31 @@ devscripts: who-uploads(1): insecure use of /tmp
 .. 2018-10-26
 
 devscripts: cvs-debi(1), cvs-debrelease(1): insecure use of /tmp
- | https://bugs.debian.org/911720
+ | https://bugs.debian.org/911969
 
 devscripts: deb-reversion(1): insecure use of /tmp
- | https://bugs.debian.org/911720
+ | https://bugs.debian.org/911969
 
 devscripts: debsign(1): insecure use of /tmp
- | https://bugs.debian.org/911720
+ | https://bugs.debian.org/911969
 
 devscripts: dscextract(1): insecure use of /tmp
- | https://bugs.debian.org/911720
+ | https://bugs.debian.org/911969
 
 devscripts: getbuildlog(1): insecure use of /tmp
- | https://bugs.debian.org/911720
+ | https://bugs.debian.org/911969
 
 devscripts: mergechanges(1): insecure use of /tmp
- | https://bugs.debian.org/911720
+ | https://bugs.debian.org/911969
 
 devscripts: pts-subscribe(1): insecure use of /tmp
- | https://bugs.debian.org/911720
+ | https://bugs.debian.org/911969
 
 devscripts: wnpp-alert(1): insecure use of /tmp
- | https://bugs.debian.org/911720
+ | https://bugs.debian.org/911969
 
 devscripts: wnpp-check(1): insecure use of /tmp
- | https://bugs.debian.org/911720
+ | https://bugs.debian.org/911969
 
 .. 2018-12-06
 
