@@ -1,7 +1,7 @@
 export LC_ALL=C
 
 rst2xml = $(notdir $(shell command -v rst2xml || echo rst2xml.py))
-rst_files = $(wildcard [0-9][0-9][0-9][0-9] README)
+rst_files = $(wildcard [0-9][0-9][0-9][0-9] README todo)
 stamp_files = $(addprefix stamp/,$(rst_files))
 
 .PHONY: check
