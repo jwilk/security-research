@@ -1,0 +1,6 @@
+.. 2022-02-09
+
+Azure CLI: untrusted search path
+ | https://bugs.debian.org/1005251
+
+.. vim:ft=rst
