@@ -9,7 +9,7 @@ Suspicious code to investigate:
 * https://sourceware.org/git/?p=elfutils.git;a=blob;f=src/make-debug-archive.in;hb=elfutils-0.186#l125
 * https://github.com/git/git/blob/master/contrib/git-jump/git-jump#L73
 
-Software editing files in directly in /tmp:
+Software editing files directly in /tmp:
 
 * https://git.joeyh.name/index.cgi/moreutils.git/tree/vidir?h=0.67#n118
 * https://git.joeyh.name/index.cgi/moreutils.git/tree/vipe?h=0.67#n65
