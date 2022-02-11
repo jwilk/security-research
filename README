@@ -15,7 +15,7 @@ Some security-related stuff is hosted separately:
 * git-landmine_ — tool to create local malicious git repos
 
 .. _python-afl:
-   http://jwilk.net/software/python-afl
+   https://jwilk.net/software/python-afl
 
 .. _American fuzzy lop:
    http://lcamtuf.coredump.cx/afl/

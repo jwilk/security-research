@@ -31,7 +31,7 @@ PyICU: use-after-free
 .. 2013-11-04
 
 security threats of ~/.netrc support
- | http://jwilk.net/blog/20131104-netrc-security
+ | https://jwilk.net/blog/20131104-netrc-security
 
 .. 2013-11-28
 
