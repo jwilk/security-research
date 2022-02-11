@@ -16,4 +16,12 @@ Software editing files directly in /tmp:
 * https://sources.debian.org/src/mailcap/3.69/run-mailcap/
 * https://sources.debian.org/src/vorbis-tools/1.4.0-11/debian/extra/vorbistagedit/#L85
 
+TLS clients with netrc support:
+
+* wget
+* curl
+* fetchmail
+* https://python-requests.org/
+* https://www.python-httpx.org/
+
 .. vim:ts=3 sts=3 sw=3 et ft=rst
