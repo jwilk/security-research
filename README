@@ -13,6 +13,7 @@ Some security-related stuff is hosted separately:
 * stopgp32_ — tool to brute-force 32-bit OpenPGP key IDs
 * `DocBook XSL MitM proxy`_
 * git-landmine_ — tool to create local malicious git repos
+* `demonstration that less(1) is not a helpful pager`_
 
 .. _python-afl:
    https://jwilk.net/software/python-afl
@@ -43,5 +44,8 @@ Some security-related stuff is hosted separately:
 
 .. _git-landmine:
    https://github.com/jwilk/git-landmine
+
+.. _demonstration that less(1) is not a helpful pager:
+   https://github.com/jwilk/unfaithful-less
 
 .. vim:ts=3 sts=3 sw=3 et ft=rst
