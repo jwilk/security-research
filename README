@@ -14,6 +14,7 @@ Some security-related stuff is hosted separately:
 * `DocBook XSL MitM proxy`_
 * git-landmine_ — tool to create local malicious git repos
 * `demonstration that less(1) is not a helpful pager`_
+* `URL/shell-script hybrid`_
 
 .. _python-afl:
    https://jwilk.net/software/python-afl
@@ -47,5 +48,8 @@ Some security-related stuff is hosted separately:
 
 .. _demonstration that less(1) is not a helpful pager:
    https://github.com/jwilk/unfaithful-less
+
+.. _URL/shell-script hybrid:
+   https://github.com/jwilk/url.sh
 
 .. vim:ts=3 sts=3 sw=3 et ft=rst
