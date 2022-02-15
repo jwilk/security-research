@@ -20,7 +20,7 @@ Some security-related stuff is hosted separately:
    https://jwilk.net/software/python-afl
 
 .. _American fuzzy lop:
-   http://lcamtuf.coredump.cx/afl/
+   https://lcamtuf.coredump.cx/afl/
 
 .. _longutf8:
    https://github.com/jwilk/longutf8
