@@ -8,7 +8,7 @@ jobs:
     steps:
     - uses: actions/checkout@v2
     - run: |
-        pip install --user docutils
+        pip install docutils
     - run: |
         make
 
