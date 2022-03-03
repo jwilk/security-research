@@ -152,6 +152,11 @@ devscripts: wnpp-alert(1): insecure use of /tmp
 devscripts: wnpp-check(1): insecure use of /tmp
  | https://bugs.debian.org/911969
 
+.. 2018-11-26
+
+hungrycat: insecure use of /tmp
+ | https://github.com/jwilk/hungrycat/commit/f0a4bca711fc899b
+
 .. 2018-12-06
 
 pytest: insecure use of /tmp
