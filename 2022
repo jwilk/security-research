@@ -3,7 +3,6 @@
 Azure CLI: untrusted search path
  | https://bugs.debian.org/1005251
 
-
 .. 2022-02-21
 
 Jakub's wget-changes: directory traversal
