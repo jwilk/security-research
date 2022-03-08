@@ -15,6 +15,7 @@ Software editing files directly in /tmp:
 * https://git.joeyh.name/index.cgi/moreutils.git/tree/vipe?h=0.67#n65
 * https://sources.debian.org/src/mailcap/3.69/run-mailcap/
 * https://sources.debian.org/src/vorbis-tools/1.4.0-11/debian/extra/vorbistagedit/#L85
+* https://sources.debian.org/src/devscripts/2.21.3%2Bdeb11u1/scripts/bts.pl/#L4191
 
 TLS clients with netrc support:
 
