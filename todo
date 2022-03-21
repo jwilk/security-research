@@ -8,6 +8,7 @@ Suspicious code to investigate:
 * https://sourceware.org/git/?p=elfutils.git;a=blob;f=src/make-debug-archive.in;hb=elfutils-0.186#l25
 * https://sourceware.org/git/?p=elfutils.git;a=blob;f=src/make-debug-archive.in;hb=elfutils-0.186#l125
 * https://github.com/git/git/blob/master/contrib/git-jump/git-jump#L73
+* https://github.com/util-linux/util-linux/blob/v2.37.4/misc-utils/look.1.adoc#examples
 
 Software editing files directly in /tmp:
 
