@@ -10,13 +10,14 @@ Suspicious code to investigate:
 * https://github.com/git/git/blob/master/contrib/git-jump/git-jump#L73
 * https://github.com/util-linux/util-linux/blob/v2.37.4/misc-utils/look.1.adoc#examples
 
-Software editing files directly in /tmp:
+Software editing files directly in (/var)/tmp :
 
 * https://git.joeyh.name/index.cgi/moreutils.git/tree/vidir?h=0.67#n118
 * https://git.joeyh.name/index.cgi/moreutils.git/tree/vipe?h=0.67#n65
 * https://sources.debian.org/src/mailcap/3.69/run-mailcap/
 * https://sources.debian.org/src/vorbis-tools/1.4.0-11/debian/extra/vorbistagedit/#L85
 * https://sources.debian.org/src/devscripts/2.21.3%2Bdeb11u1/scripts/bts.pl/#L4191
+* sudoedit(8)
 
 TLS clients with netrc support:
 
