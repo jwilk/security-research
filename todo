@@ -17,6 +17,7 @@ Software editing files directly in (/var)/tmp :
 * https://sources.debian.org/src/mailcap/3.69/run-mailcap/
 * https://sources.debian.org/src/vorbis-tools/1.4.0-11/debian/extra/vorbistagedit/#L85
 * https://sources.debian.org/src/devscripts/2.21.3%2Bdeb11u1/scripts/bts.pl/#L4191
+* https://github.com/quodlibet/quodlibet/blob/release-4.5.0/quodlibet/operon/commands.py#L227
 * sudoedit(8)
 
 TLS clients with netrc support:
