@@ -8,4 +8,9 @@ Azure CLI: untrusted search path
 Jakub's wget-changes: directory traversal
  | https://github.com/jwilk/deb-toolbox/commit/60a7fb55f8f41462
 
+.. 2022-04-19
+
+Jakub's gitardiff: insecure use of git
+ | https://github.com/jwilk/gitardiff/commit/94e8a4ab70ddb13a
+
 .. vim:ft=rst
