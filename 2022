@@ -13,4 +13,9 @@ Jakub's wget-changes: directory traversal
 Jakub's gitardiff: insecure use of git
  | https://github.com/jwilk/gitardiff/commit/94e8a4ab70ddb13a
 
+.. 2022-05-06
+
+[CVE-2022-30688] needrestart: local privilege escalation
+ | https://github.com/liske/needrestart/commit/e6e58136e1e3c922
+
 .. vim:ft=rst
