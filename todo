@@ -28,5 +28,6 @@ TLS clients with netrc support:
 * fetchmail
 * https://python-requests.org/
 * https://www.python-httpx.org/
+* https://github.com/cli/cli/issues/288
 
 .. vim:ts=3 sts=3 sw=3 et ft=rst
