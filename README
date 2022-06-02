@@ -15,6 +15,7 @@ Some security-related stuff is hosted separately:
 * git-landmine_ — tool to create local malicious git repos
 * `demonstration that less(1) is not a helpful pager`_
 * `URL/shell-script hybrid`_
+* abmagick_ — demonstration of how to abuse ImageMagick to create arbitrary files
 
 .. _python-afl:
    https://jwilk.net/software/python-afl
@@ -51,5 +52,8 @@ Some security-related stuff is hosted separately:
 
 .. _URL/shell-script hybrid:
    https://github.com/jwilk/url.sh
+
+.. _abmagick:
+   https://github.com/jwilk/abmagick
 
 .. vim:ts=3 sts=3 sw=3 et ft=rst
