@@ -15,7 +15,7 @@ Some security-related stuff is hosted separately:
 * git-landmine_ — tool to create local malicious git repos
 * `demonstration that less(1) is not a helpful pager`_
 * `URL/shell-script hybrid`_
-* abmagick_ — demonstration of how to abuse ImageMagick to create arbitrary files
+* abmagick_ — demonstration that ImageMagick can be abused to create arbitrary files
 
 .. _python-afl:
    https://jwilk.net/software/python-afl
