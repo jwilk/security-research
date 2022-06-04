@@ -10,6 +10,7 @@ Suspicious code to investigate:
 * https://github.com/git/git/blob/master/contrib/git-jump/git-jump#L73
 * https://github.com/util-linux/util-linux/blob/v2.37.4/misc-utils/look.1.adoc#examples
 * https://sources.debian.org/src/tracker-miners/2.3.5-2.1/src/tracker-extract/tracker-extract-persistence.c/?hl=49#L41
+* https://rr-project.org/ (``cd tmp``)
 
 Software editing files directly in (/var)/tmp:
 
