@@ -27,7 +27,7 @@ TLS clients with netrc support:
 * wget
 * curl
 * fetchmail
-* https://python-requests.org/
+* https://github.com/psf/requests
 * https://www.python-httpx.org/
 * https://github.com/cli/cli/issues/288
 
