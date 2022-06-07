@@ -1,4 +1,5 @@
-Suspicious code to investigate:
+Misc suspicious code
+====================
 
 * https://git.savannah.gnu.org/cgit/bash.git/tree/support/bashbug.sh.in?h=bash-5.1#n44
 * https://cgit.freedesktop.org/xdg/xdg-utils/tree/scripts/xdg-screensaver.in?h=v1.1.3#n34
@@ -12,7 +13,10 @@ Suspicious code to investigate:
 * https://sources.debian.org/src/tracker-miners/2.3.5-2.1/src/tracker-extract/tracker-extract-persistence.c/?hl=49#L41
 * https://rr-project.org/ (``cd tmp``)
 
-Software editing files directly in (/var)/tmp:
+Editing files directly in (/var)/tmp
+====================================
+
+(See https://www.openwall.com/lists/oss-security/2017/10/31/5 for background.)
 
 * https://git.joeyh.name/index.cgi/moreutils.git/tree/vidir?h=0.67#n118
 * https://git.joeyh.name/index.cgi/moreutils.git/tree/vipe?h=0.67#n65
@@ -22,6 +26,11 @@ Software editing files directly in (/var)/tmp:
 * https://github.com/quodlibet/quodlibet/blob/release-4.5.0/quodlibet/operon/commands.py#L227
 * sudoedit(8)
 * mutt(1), neomutt(1)
+
+netrc security
+==============
+
+(See https://jwilk.net/blog/20131104-netrc-security for background.)
 
 TLS clients with netrc support:
 
