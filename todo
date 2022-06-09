@@ -13,6 +13,7 @@ Misc suspicious code
 * https://sources.debian.org/src/tracker-miners/2.3.5-2.1/src/tracker-extract/tracker-extract-persistence.c/?hl=49#L41
 * https://rr-project.org/ (``cd tmp``)
 * https://salsa.debian.org/reproducible-builds/diffoscope/-/blob/215/diffoscope/comparators/python.py#L79
+* https://github.com/gperftools/gperftools/blob/gperftools-2.10/docs/heap_checker.html#L329
 
 Editing files directly in (/var)/tmp
 ====================================
