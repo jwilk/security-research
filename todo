@@ -15,6 +15,8 @@ Misc suspicious code
 * https://salsa.debian.org/reproducible-builds/diffoscope/-/blob/215/diffoscope/comparators/python.py#L79
 * https://github.com/gperftools/gperftools/blob/gperftools-2.10/docs/heap_checker.html#L329
 * https://github.com/orjail/orjail/blob/v1.1/usr/sbin/orjail#L115
+* https://hg.mozilla.org/releases/mozilla-release/file/FIREFOX_101_0_1_RELEASE/toolkit/content/aboutNetworking.js#l306
+* https://hg.mozilla.org/releases/mozilla-release/file/FIREFOX_101_0_1_RELEASE/toolkit/content/aboutUrlClassifier.js#l631
 
 Editing files directly in (/var)/tmp
 ====================================
