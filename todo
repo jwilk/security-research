@@ -31,6 +31,7 @@ Editing files directly in (/var)/tmp
 * https://github.com/quodlibet/quodlibet/blob/release-4.5.0/quodlibet/operon/commands.py#L227
 * sudoedit(8)
 * mutt(1), neomutt(1)
+* https://github.com/AlecAivazis/survey/blob/v2.3.5/editor.go#L148
 
 netrc security
 ==============
