@@ -18,6 +18,7 @@ Misc suspicious code
 * https://hg.mozilla.org/releases/mozilla-release/file/FIREFOX_101_0_1_RELEASE/toolkit/content/aboutNetworking.js#l306
 * https://hg.mozilla.org/releases/mozilla-release/file/FIREFOX_101_0_1_RELEASE/toolkit/content/aboutUrlClassifier.js#l631
 * https://github.com/micahflee/torbrowser-launcher/blob/v0.3.5/torbrowser_launcher/common.py#L153
+* https://github.com/brendangregg/perf-tools/blob/v1.0/opensnoop#L50
 
 Editing files directly in (/var)/tmp
 ====================================
