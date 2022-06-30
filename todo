@@ -17,6 +17,7 @@ Misc suspicious code
 * https://github.com/orjail/orjail/blob/v1.1/usr/sbin/orjail#L115
 * https://hg.mozilla.org/releases/mozilla-release/file/FIREFOX_101_0_1_RELEASE/toolkit/content/aboutNetworking.js#l306
 * https://hg.mozilla.org/releases/mozilla-release/file/FIREFOX_101_0_1_RELEASE/toolkit/content/aboutUrlClassifier.js#l631
+* https://github.com/micahflee/torbrowser-launcher/blob/v0.3.5/torbrowser_launcher/common.py#L153
 
 Editing files directly in (/var)/tmp
 ====================================
