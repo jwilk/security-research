@@ -19,6 +19,7 @@ Misc suspicious code
 * https://hg.mozilla.org/releases/mozilla-release/file/FIREFOX_101_0_1_RELEASE/toolkit/content/aboutUrlClassifier.js#l631
 * https://github.com/micahflee/torbrowser-launcher/blob/v0.3.5/torbrowser_launcher/common.py#L153
 * https://github.com/brendangregg/perf-tools/blob/v1.0/opensnoop#L50
+* https://github.com/openjdk/jdk/blob/jdk-18-ga/src/hotspot/share/utilities/vmError.cpp#L1383 (``/tmp/hs_err_pid*.log``)
 
 Editing files directly in (/var)/tmp
 ====================================
