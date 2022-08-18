@@ -36,6 +36,12 @@ Editing files directly in (/var)/tmp
 * mutt(1), neomutt(1)
 * https://github.com/AlecAivazis/survey/blob/v2.3.5/editor.go#L148
 
+System bootstraping into a direct subdirectory of (/var)/tmp
+============================================================
+
+* vmdebootstrap
+* https://manpages.debian.org/bullseye/sbuild/sbuild-createchroot.8.en.html#EXAMPLES
+
 netrc security
 ==============
 
