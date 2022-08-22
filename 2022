@@ -18,4 +18,10 @@ Jakub's gitardiff: insecure use of git
 [CVE-2022-30688] needrestart: local privilege escalation
  | https://github.com/liske/needrestart/commit/e6e58136e1e3c922
 
+.. 2022-08-22
+
+notmuch-web: XSS
+
+ | https://nmbug.notmuchmail.org/nmweb/show/20220822064717.qftn4tr7cs4r2ian%40jwilk.net
+
 .. vim:ft=rst
