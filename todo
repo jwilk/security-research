@@ -82,4 +82,9 @@ See also:
 
 * `[openssl.org #1425] Request: make X509_NAME_oneline() use same formatter as X509_NAME_print_ex() <https://marc.info/?l=openssl-dev&m=116301442815719>`_
 
+TTY hijacking
+=============
+
+Bring up the topic of TTY hijacking via TIOCLINUX to oss-security.
+
 .. vim:ts=3 sts=3 sw=3 et ft=rst
