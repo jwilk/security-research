@@ -22,6 +22,7 @@ Misc suspicious code
 * https://github.com/openjdk/jdk/blob/jdk-18-ga/src/hotspot/share/utilities/vmError.cpp#L1383 (``/tmp/hs_err_pid*.log``)
 * https://gitlab.gnome.org/GNOME/gimp/-/blob/GIMP_2_99_12/app/gegl/gimp-gegl.c#L117
 * https://gitlab.gnome.org/GNOME/gimp/-/blob/GIMP_2_99_12/app/core/gimp.c#L1225
+* https://gitlab.gnome.org/GNOME/gimp/-/blob/GIMP_2_99_12/libgimpbase/gimputils.c#L1278-1295 (pid may be misinterpreted as core)
 
 Editing files directly in (/var)/tmp
 ====================================
