@@ -9,6 +9,7 @@ Some security-related stuff is hosted separately:
 * `archive file samples for testing against directory traversal`_
 * `fuzzing goodies`_
 * ttyjack_ — proof-of-concept tty hijacking
+* vcsnoop_ — Linux virtual console snooping via TIOCLINUX
 * getenvy_ — LD_PRELOAD library to snoop on ``getenv()`` calls
 * stopgp32_ — tool to brute-force 32-bit OpenPGP key IDs
 * `DocBook XSL MitM proxy`_
@@ -34,6 +35,9 @@ Some security-related stuff is hosted separately:
 
 .. _ttyjack:
    https://github.com/jwilk/ttyjack
+
+.. _vcsnoop:
+   https://github.com/jwilk/vcsnoop
 
 .. _getenvy:
    https://github.com/jwilk/getenvy
