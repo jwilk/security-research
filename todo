@@ -90,4 +90,21 @@ TTY hijacking
 
 Bring up the topic of TTY hijacking via TIOCLINUX to oss-security.
 
+GitHub
+======
+
+* What's going on with ``gpg_keys`` expiration dates?
+
+  .. code:: console
+
+     $ curl -s https://api.github.com/users/jwilk/gpg_keys | jq -r '.[0].expires_at'
+     2022-12-09T02:49:23.000Z
+
+  This looks unrelated the actual key expiration date.
+
+* It used to be possible to associate unverified secondary e-mail addresses with commits:
+  https://news.ycombinator.com/item?id=26621223
+
+  Is this still the case?
+
 .. vim:ts=3 sts=3 sw=3 et ft=rst
