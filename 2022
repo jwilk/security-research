@@ -21,7 +21,6 @@ Jakub's gitardiff: insecure use of git
 .. 2022-08-22
 
 notmuch-web: XSS
-
  | https://nmbug.notmuchmail.org/nmweb/show/20220822064717.qftn4tr7cs4r2ian%40jwilk.net
 
 .. vim:ft=rst
