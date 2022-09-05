@@ -23,6 +23,8 @@ Misc suspicious code
 * https://gitlab.gnome.org/GNOME/gimp/-/blob/GIMP_2_99_12/app/gegl/gimp-gegl.c#L117
 * https://gitlab.gnome.org/GNOME/gimp/-/blob/GIMP_2_99_12/app/core/gimp.c#L1225
 * https://gitlab.gnome.org/GNOME/gimp/-/blob/GIMP_2_99_12/libgimpbase/gimputils.c#L1278-1295 (pid may be misinterpreted as core)
+* https://github.com/util-linux/util-linux/blob/v2.38.1/login-utils/login.c#L475 (chown/chmod race?)
+* https://github.com/shadow-maint/shadow/blob/4.12.3/libmisc/chowntty.c#L30 (chown/chmod race?)
 
 Editing files directly in (/var)/tmp
 ====================================
