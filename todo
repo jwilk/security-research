@@ -110,6 +110,9 @@ GitHub
 
   Is this still the case?
 
+* GitHub Actions runner images have world-writable ``/usr``.
+  Huh?!
+
 APT
 ===
 
