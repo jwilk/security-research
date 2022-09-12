@@ -40,6 +40,7 @@ Editing files directly in (/var)/tmp
 * sudoedit(8)
 * mutt(1), neomutt(1)
 * https://github.com/AlecAivazis/survey/blob/v2.3.5/editor.go#L148
+* https://www.cons.org/cracauer/sigint.html (``emacs /tmp/foo``)
 
 System bootstraping into a direct subdirectory of (/var)/tmp
 ============================================================
