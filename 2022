@@ -23,4 +23,9 @@ Jakub's gitardiff: insecure use of git
 notmuch-web: XSS
  | https://nmbug.notmuchmail.org/nmweb/show/20220822064717.qftn4tr7cs4r2ian%40jwilk.net
 
+.. 2022-09-15
+
+MuPDF: insecure use of /var/tmp
+ | https://bugs.debian.org/1019848
+
 .. vim:ft=rst
