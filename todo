@@ -61,6 +61,8 @@ TLS clients with netrc support:
 * https://github.com/psf/requests
 * https://www.python-httpx.org/
 * https://github.com/cli/cli/issues/288
+* https://github.com/ytdl-org/youtube-dl
+* https://github.com/yt-dlp/yt-dlp
 
 CGI security
 ============
