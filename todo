@@ -118,6 +118,9 @@ GitHub
 * GitHub Actions runner images have world-writable ``/usr``.
   Huh?!
 
+* Are newly-generated TOTP shared keys sufficiently long?
+  https://news.ycombinator.com/item?id=31282917
+
 APT
 ===
 
