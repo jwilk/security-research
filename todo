@@ -29,6 +29,7 @@ Misc suspicious code
 * https://github.com/JaGoLi/ytdl-gui/blob/3.0/src/mainactions.cpp#L236
 * https://repo.or.cz/socat.git/blob/tag-1.7.4.3:/doc/socat.yo#l3427
 * https://www.gnu.org/software/emacs/manual/html_node/elisp/File-Locks.html#index-lock_002dfile_002dname_002dtransforms
+* https://github.com/abiyani/automate-save-page-as/blob/master/README.md (``--destination "/tmp"``)
 
 Editing files directly in (/var)/tmp
 ====================================
