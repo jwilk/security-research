@@ -30,6 +30,7 @@ Misc suspicious code
 * https://repo.or.cz/socat.git/blob/tag-1.7.4.3:/doc/socat.yo#l3427
 * https://www.gnu.org/software/emacs/manual/html_node/elisp/File-Locks.html#index-lock_002dfile_002dname_002dtransforms
 * https://github.com/abiyani/automate-save-page-as/blob/master/README.md (``--destination "/tmp"``)
+* https://bugs.debian.org/725434#45
 
 Editing files directly in (/var)/tmp
 ====================================
