@@ -28,4 +28,9 @@ notmuch-web: XSS
 MuPDF: insecure use of /var/tmp
  | https://bugs.debian.org/1019848
 
+.. 2022-10-10
+
+util-linux: MAC address leak
+ | https://github.com/util-linux/util-linux/issues/1837
+
 .. vim:ft=rst
