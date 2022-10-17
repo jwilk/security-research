@@ -33,4 +33,9 @@ MuPDF: insecure use of /var/tmp
 util-linux: MAC address leak
  | https://github.com/util-linux/util-linux/issues/1837
 
+.. 2022-10-17
+
+man-db: less(1) option injection
+ | https://bugs.debian.org/1021951
+
 .. vim:ft=rst
