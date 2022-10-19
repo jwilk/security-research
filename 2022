@@ -38,4 +38,9 @@ util-linux: MAC address leak
 man-db: less(1) option injection
  | https://bugs.debian.org/1021951
 
+.. 2022-10-19
+
+jhead: shell injection
+ | https://github.com/Matthias-Wandel/jhead/issues/60
+
 .. vim:ft=rst
