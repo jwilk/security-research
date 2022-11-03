@@ -33,6 +33,7 @@ Misc suspicious code
 * https://bugs.debian.org/725434#45
 * https://github.com/mariusae/trickle/blob/a2aeb9f30aa3c651/trickled.c#L177
 * https://github.com/Matthias-Wandel/jhead/blob/3.06.0.1/jhead.c#L321 (is this secure with ``LC_ALL=zh_CN.GBK``?)
+* https://github.com/zealdocs/zeal/blob/6fee23700f26ea80/src/libs/core/httpserver.cpp
 
 Editing files directly in (/var)/tmp
 ====================================
