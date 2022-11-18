@@ -35,6 +35,7 @@ Misc suspicious code
 * https://github.com/Matthias-Wandel/jhead/blob/3.06.0.1/jhead.c#L321 (is this secure with ``LC_ALL=zh_CN.GBK``?)
 * https://github.com/zealdocs/zeal/blob/6fee23700f26ea80/src/libs/core/httpserver.cpp
 * https://github.com/crigler/dtach/blob/v0.9/dtach.1#L182
+* https://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git/tree/Documentation/admin-guide/README.rst?h=v6.0#n216
 
 Editing files directly in (/var)/tmp
 ====================================
