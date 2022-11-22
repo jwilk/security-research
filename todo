@@ -37,6 +37,7 @@ Misc suspicious code
 * https://github.com/crigler/dtach/blob/v0.9/dtach.1#L182
 * https://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git/tree/Documentation/admin-guide/README.rst?h=v6.0#n216
 * https://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git/tree/Documentation/firmware-guide/acpi/method-customizing.rst#n40
+* https://github.com/rubyzip/rubyzip/blob/v2.3.2/test/path_traversal_test.rb#L43
 
 Editing files directly in (/var)/tmp
 ====================================
