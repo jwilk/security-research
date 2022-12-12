@@ -48,4 +48,9 @@ jhead: shell injection
 Linux: weak ASLR
  | https://bugs.debian.org/1024149
 
+.. 2022-12-12
+
+info: buffer overflow
+ | https://bugs.debian.org/1025940
+
 .. vim:ft=rst
