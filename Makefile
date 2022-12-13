@@ -10,8 +10,7 @@ check: $(stamp_files)
 stamp/%: %
 	$(if $(wildcard $(dir $@)),,mkdir -p $(dir $@))
 	$(rst2xml) --input-encoding=UTF-8 --strict $(<) > /dev/null
-	grep -E '^[.][.] [0-9]{4}-[0-9]{2}-[0-9]{2}' $(<) \
-	| sort -c
+	grep -E '^[.][.] [0-9]{4}-[0-9]{2}-[0-9]{2}' $(<) | sort -c
 	touch $(@)
 
 .PHONY: clean
