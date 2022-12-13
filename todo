@@ -132,7 +132,7 @@ GitHub
   .. code:: console
 
      $ curl -s https://api.github.com/users/jwilk/gpg_keys | jq -r '.[0].expires_at'
-     2022-12-09T02:49:23.000Z
+     2034-12-09T02:49:23.000Z
 
   This looks unrelated the actual key expiration date.
 
