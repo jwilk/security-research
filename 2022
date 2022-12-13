@@ -53,4 +53,9 @@ Linux: weak ASLR
 info: buffer overflow
  | https://bugs.debian.org/1025940
 
+.. 2022-12-13
+
+python-debianbts: missing certificate verfication
+ | https://bugs.debian.org/1026030
+
 .. vim:ft=rst
