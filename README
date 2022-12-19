@@ -14,7 +14,7 @@ Some security-related stuff is hosted separately:
 * stopgp32_ — tool to brute-force 32-bit OpenPGP key IDs
 * `DocBook XSL MitM proxy`_
 * git-landmine_ — tool to create local malicious git repos
-* `demonstration that less(1) is not a helpful pager`_
+* `demonstration that less(1) is not a faithful pager`_
 * `URL/shell-script hybrid`_
 * abmagick_ — demonstration that ImageMagick can be abused to create arbitrary files
 
@@ -51,7 +51,7 @@ Some security-related stuff is hosted separately:
 .. _git-landmine:
    https://github.com/jwilk/git-landmine
 
-.. _demonstration that less(1) is not a helpful pager:
+.. _demonstration that less(1) is not a faithful pager:
    https://github.com/jwilk/unfaithful-less
 
 .. _URL/shell-script hybrid:
