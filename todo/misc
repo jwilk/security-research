@@ -1,40 +1,8 @@
-* https://git.savannah.gnu.org/cgit/bash.git/tree/support/bashbug.sh.in?h=bash-5.1#n44
-* https://cgit.freedesktop.org/xdg/xdg-utils/tree/scripts/xdg-screensaver.in?h=v1.1.3#n34
-* https://gitlab.com/dogtail/dogtail/-/blob/DOGTAIL_0_9_11/dogtail/config.py#L14
-* https://github.com/Cisco-Talos/clamav/blob/main/clamsubmit/clamsubmit.c#L660
-* https://sources.debian.org/src/vorbis-tools/1.4.0-11/debian/extra/vorbistagedit/#L86
-* https://sourceware.org/git/?p=elfutils.git;a=blob;f=src/make-debug-archive.in;hb=elfutils-0.186#l25
-* https://sourceware.org/git/?p=elfutils.git;a=blob;f=src/make-debug-archive.in;hb=elfutils-0.186#l125
-* https://github.com/git/git/blob/v2.39.0/contrib/git-jump/git-jump#L73
-* https://github.com/util-linux/util-linux/blob/v2.37.4/misc-utils/look.1.adoc#examples
-* https://github.com/util-linux/util-linux/blob/v2.38.1/misc-utils/uuidd.8.adoc#example
-* https://sources.debian.org/src/tracker-miners/2.3.5-2.1/src/tracker-extract/tracker-extract-persistence.c/?hl=49#L41
-* https://rr-project.org/ (``cd tmp``)
 * https://salsa.debian.org/reproducible-builds/diffoscope/-/blob/215/diffoscope/comparators/python.py#L79
-* https://github.com/gperftools/gperftools/blob/gperftools-2.10/docs/heap_checker.html#L329
-* https://github.com/orjail/orjail/blob/v1.1/usr/sbin/orjail#L115
-* https://hg.mozilla.org/releases/mozilla-release/file/FIREFOX_101_0_1_RELEASE/toolkit/content/aboutNetworking.js#l306
-* https://hg.mozilla.org/releases/mozilla-release/file/FIREFOX_101_0_1_RELEASE/toolkit/content/aboutUrlClassifier.js#l631
-* https://github.com/micahflee/torbrowser-launcher/blob/v0.3.5/torbrowser_launcher/common.py#L153
-* https://github.com/brendangregg/perf-tools/blob/v1.0/opensnoop#L50
-* https://github.com/openjdk/jdk/blob/jdk-18-ga/src/hotspot/share/utilities/vmError.cpp#L1383 (``/tmp/hs_err_pid*.log``)
-* https://gitlab.gnome.org/GNOME/gimp/-/blob/GIMP_2_99_12/app/gegl/gimp-gegl.c#L117
-* https://gitlab.gnome.org/GNOME/gimp/-/blob/GIMP_2_99_12/app/core/gimp.c#L1225
 * https://gitlab.gnome.org/GNOME/gimp/-/blob/GIMP_2_99_12/libgimpbase/gimputils.c#L1278-1295 (pid may be misinterpreted as core)
 * https://github.com/util-linux/util-linux/blob/v2.38.1/login-utils/login.c#L475 (chown/chmod race?)
 * https://github.com/shadow-maint/shadow/blob/4.12.3/libmisc/chowntty.c#L30 (chown/chmod race?)
-* https://github.com/JaGoLi/ytdl-gui/blob/3.0/src/mainactions.cpp#L236
-* https://repo.or.cz/socat.git/blob/tag-1.7.4.3:/doc/socat.yo#l3427
-* https://www.gnu.org/software/emacs/manual/html_node/elisp/File-Locks.html#index-lock_002dfile_002dname_002dtransforms
-* https://github.com/abiyani/automate-save-page-as/blob/master/README.md (``--destination "/tmp"``)
-* https://bugs.debian.org/725434#45
-* https://github.com/mariusae/trickle/blob/a2aeb9f30aa3c651/trickled.c#L177
 * https://github.com/Matthias-Wandel/jhead/blob/3.06.0.1/jhead.c#L321 (is this secure with ``LC_ALL=zh_CN.GBK``?)
 * https://github.com/zealdocs/zeal/blob/6fee23700f26ea80/src/libs/core/httpserver.cpp
-* https://github.com/crigler/dtach/blob/v0.9/dtach.1#L182
-* https://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git/tree/Documentation/admin-guide/README.rst?h=v6.0#n216
-* https://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git/tree/Documentation/firmware-guide/acpi/method-customizing.rst#n40
-* https://github.com/rubyzip/rubyzip/blob/v2.3.2/test/path_traversal_test.rb#L43
-* https://github.com/KDE/krita/blob/5.1.3/libs/ui/opengl/kis_opengl.cpp#L298
 
 .. vim:ts=3 sts=3 sw=3 et ft=rst

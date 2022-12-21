@@ -1,0 +1,5 @@
+* https://sources.debian.org/src/vorbis-tools/1.4.0-11/debian/extra/vorbistagedit/#L86
+* https://sourceware.org/git/?p=elfutils.git;a=blob;f=src/make-debug-archive.in;hb=elfutils-0.186#l125
+* https://github.com/git/git/blob/v2.39.0/contrib/git-jump/git-jump#L73
+
+.. vim:ts=3 sts=3 sw=3 et ft=rst
