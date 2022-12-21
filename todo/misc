@@ -5,7 +5,7 @@
 * https://sources.debian.org/src/vorbis-tools/1.4.0-11/debian/extra/vorbistagedit/#L86
 * https://sourceware.org/git/?p=elfutils.git;a=blob;f=src/make-debug-archive.in;hb=elfutils-0.186#l25
 * https://sourceware.org/git/?p=elfutils.git;a=blob;f=src/make-debug-archive.in;hb=elfutils-0.186#l125
-* https://github.com/git/git/blob/master/contrib/git-jump/git-jump#L73
+* https://github.com/git/git/blob/v2.39.0/contrib/git-jump/git-jump#L73
 * https://github.com/util-linux/util-linux/blob/v2.37.4/misc-utils/look.1.adoc#examples
 * https://github.com/util-linux/util-linux/blob/v2.38.1/misc-utils/uuidd.8.adoc#example
 * https://sources.debian.org/src/tracker-miners/2.3.5-2.1/src/tracker-extract/tracker-extract-persistence.c/?hl=49#L41
