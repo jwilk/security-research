@@ -1,0 +1,12 @@
+The `git-check-ref-format` man page says:
+
+    4\. [Refnames] cannot have ASCII control characters
+    (i.e. bytes whose values are lower than \\040, or \\177 DEL),
+    space, tilde ~, caret ^, or colon : anywhere.
+
+But on some terminals (at least Linux console, maybe others)
+``CSI`` (U+009B) is equivalent to ``ESC [``.
+
+Maybe related to: https://bugs.debian.org/889680
+
+.. vim:ts=3 sts=3 sw=3 et ft=rst
