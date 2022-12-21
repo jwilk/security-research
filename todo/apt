@@ -1,0 +1,11 @@
+The `sources.list(5)`_ man page says:
+
+   The file scheme […] is useful for NFS mounts and local mirrors or archives.
+
+Is ``file://`` with NFS (or another networking fs) secure?
+
+.. _sources.list(5):
+   https://manpages.debian.org/bullseye/apt/sources.list.5.en.html#URI_SPECIFICATION
+
+.. vim:ts=3 sts=3 sw=3 et ft=rst
+

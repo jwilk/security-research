@@ -1,0 +1,22 @@
+* What's going on with ``gpg_keys`` expiration dates?
+
+  .. code:: console
+
+     $ curl -s https://api.github.com/users/jwilk/gpg_keys | jq -r '.[0].expires_at'
+     2034-12-09T02:49:23.000Z
+
+  This looks unrelated the actual key expiration date.
+
+* It used to be possible to associate unverified secondary e-mail addresses with commits:
+  https://news.ycombinator.com/item?id=26621223
+
+  Is this still the case?
+
+* GitHub Actions runner images have world-writable ``/usr``.
+  Huh?!
+
+* Are newly-generated TOTP shared keys sufficiently long?
+  https://news.ycombinator.com/item?id=31282917
+
+.. vim:ts=3 sts=3 sw=3 et ft=rst
+

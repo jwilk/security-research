@@ -1,0 +1,14 @@
+Perl TLS security
+=================
+
+Does any software still use the ``Crypt::SSLeay`` module?
+
+Does any software rely on the ``If-SSL-Cert-Subject`` header?
+
+See also:
+
+* https://github.com/libwww-perl/lwp-protocol-https/issues/13
+
+* `[openssl.org #1425] Request: make X509_NAME_oneline() use same formatter as X509_NAME_print_ex() <https://marc.info/?l=openssl-dev&m=116301442815719>`_
+
+.. vim:ts=3 sts=3 sw=3 et ft=rst

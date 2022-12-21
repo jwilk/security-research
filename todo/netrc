@@ -1,0 +1,19 @@
+netrc security
+==============
+
+(See https://jwilk.net/blog/20131104-netrc-security for background.)
+
+TLS clients with netrc support:
+
+* wget
+* curl
+* fetchmail
+* https://github.com/psf/requests
+* https://www.python-httpx.org/
+* https://github.com/cli/cli/issues/288
+* https://github.com/ytdl-org/youtube-dl
+* https://github.com/yt-dlp/yt-dlp
+* https://github.com/aio-libs/aiohttp
+
+.. vim:ts=3 sts=3 sw=3 et ft=rst
+

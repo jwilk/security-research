@@ -1,0 +1,25 @@
+QUERY_STRING
+------------
+
+RFC 3875 §4.1.7 says:
+
+   The QUERY_STRING variable contains a URL-encoded search or parameter
+   string
+
+Do HTTP servers ensure that the query string is actually URL-encoded?
+
+(Failing to do so would facilitate exploiting argument injection vulnerabilities
+in CGI shell scripts.)
+
+HTTP_PROXY
+----------
+
+Software supporting the ``HTTP_PROXY`` environment variable:
+
+* https://github.com/thp/urlwatch
+* https://github.com/aio-libs/aiohttp
+* https://www.python-httpx.org/
+
+(See https://httpoxy.org/ for background.)
+
+.. vim:ts=3 sts=3 sw=3 et ft=rst
