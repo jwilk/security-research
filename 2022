@@ -58,4 +58,9 @@ info: buffer overflow
 python-debianbts: missing certificate verfication
  | https://bugs.debian.org/1026030
 
+.. 2022-12-23
+
+Poppler: pdfdetach(1): directory traversal
+ | https://bugs.debian.org/1026908
+
 .. vim:ft=rst
