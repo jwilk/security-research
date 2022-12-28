@@ -63,4 +63,9 @@ python-debianbts: missing certificate verfication
 Poppler: pdfdetach(1): directory traversal
  | https://bugs.debian.org/1026908
 
+.. 2022-12-28
+
+pa: insecure use of /dev/shm
+ | https://github.com/biox/pa/issues/7
+
 .. vim:ft=rst
