@@ -8,4 +8,3 @@ Is ``file://`` with NFS (or another networking fs) secure?
    https://manpages.debian.org/bullseye/apt/sources.list.5.en.html#URI_SPECIFICATION
 
 .. vim:ts=3 sts=3 sw=3 et ft=rst
-
