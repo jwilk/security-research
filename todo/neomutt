@@ -1,0 +1,6 @@
+NeoMutt (20201127) can delete temporary files it still uses
+when you sent SIGQUIT in an inopportune moment.
+
+It's not clear how to reproduce this.
+
+.. vim:ts=3 sts=3 sw=3 et ft=rst
