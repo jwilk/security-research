@@ -4,60 +4,33 @@ Here, threshold for what is considered a security issue is intentionally very lo
 
 Some security-related stuff is hosted separately:
 
-* python-afl_, which enables `American fuzzy lop`_ instrumentation of Python code
-* longutf8_ — overlong UTF-8 sequence generator
-* `archive file samples for testing against directory traversal`_
-* `fuzzing goodies`_
-* ttyjack_ — proof-of-concept tty hijacking
-* vcsnoop_ — Linux virtual console snooping via TIOCLINUX
-* getenvy_ — LD_PRELOAD library to snoop on ``getenv()`` calls
-* stopgp32_ — tool to brute-force 32-bit OpenPGP key IDs
-* `DocBook XSL MitM proxy`_
-* git-landmine_ — tool to create local malicious git repos
-* `demonstration that less(1) is not a faithful pager`_
-* `URL/shell-script hybrid`_
-* abmagick_ — demonstration that ImageMagick can be abused to create arbitrary files
-
-.. _python-afl:
-   https://jwilk.net/software/python-afl
+* `python-afl <https://github.com/jwilk/python-afl>`_,
+  which enables `American fuzzy lop`_ instrumentation of Python code
+* `longutf8 <https://github.com/jwilk/longutf8>`_ —
+  overlong UTF-8 sequence generator
+* `traversal-archives <https://github.com/jwilk/traversal-archives>`_ —
+  archive file samples for testing against directory traversal
+* `fuzzing <https://github.com/jwilk/fuzzing>`_ goodies
+* `ttyjack <https://github.com/jwilk/ttyjack>`_ —
+  proof-of-concept tty hijacking
+* `vcsnoop <https://github.com/jwilk/vcsnoop>`_ —
+  Linux virtual console snooping via TIOCLINUX
+* `getenvy <https://github.com/jwilk/getenvy>`_ —
+  LD_PRELOAD library to snoop on ``getenv()`` calls
+* `stopgp32 <https://github.com/jwilk/stopgp32>`_ —
+  tool to brute-force 32-bit OpenPGP key IDs
+* `docbook-xsl-mitm <https://github.com/jwilk/docbook-xsl-mitm>`_ —
+  DocBook XSL MitM proxy
+* `git-landmine <https://github.com/jwilk/git-landmine>`_ —
+  tool to create local malicious git repos
+* `unfaithful-less <https://github.com/jwilk/unfaithful-less>`_ —
+  demonstration that less(1) is not a faithful pager
+* `url.sh <https://github.com/jwilk/url.sh>`_ —
+  URL/shell-script hybrid
+* `abmagick <https://github.com/jwilk/abmagick>`_ —
+  demonstration that ImageMagick can be abused to create arbitrary files
 
 .. _American fuzzy lop:
    https://lcamtuf.coredump.cx/afl/
-
-.. _longutf8:
-   https://github.com/jwilk/longutf8
-
-.. _archive file samples for testing against directory traversal:
-   https://github.com/jwilk/traversal-archives
-
-.. _fuzzing goodies:
-   https://github.com/jwilk/fuzzing
-
-.. _ttyjack:
-   https://github.com/jwilk/ttyjack
-
-.. _vcsnoop:
-   https://github.com/jwilk/vcsnoop
-
-.. _getenvy:
-   https://github.com/jwilk/getenvy
-
-.. _stopgp32:
-   https://github.com/jwilk/stopgp32
-
-.. _DocBook XSL MitM proxy:
-   https://github.com/jwilk/docbook-xsl-mitm
-
-.. _git-landmine:
-   https://github.com/jwilk/git-landmine
-
-.. _demonstration that less(1) is not a faithful pager:
-   https://github.com/jwilk/unfaithful-less
-
-.. _URL/shell-script hybrid:
-   https://github.com/jwilk/url.sh
-
-.. _abmagick:
-   https://github.com/jwilk/abmagick
 
 .. vim:ts=3 sts=3 sw=3 et ft=rst
