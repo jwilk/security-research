@@ -31,6 +31,8 @@ Some security-related stuff is hosted separately:
   URL/shell-script hybrid
 * `abmagick <https://github.com/jwilk/abmagick>`_ —
   demonstration that ImageMagick can be abused to create arbitrary files
+* `cdhttpd <https://github.com/jwilk/cdhttpd>`_ —
+  HTTP server for testing Content-Disposition
 
 .. _American fuzzy lop:
    https://lcamtuf.coredump.cx/afl/
