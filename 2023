@@ -1,0 +1,6 @@
+.. 2023-01-03
+
+pixie: buggy /proc/*pid*/stat parser
+ | https://github.com/pixie-io/pixie/issues/678
+
+.. vim:ft=rst
