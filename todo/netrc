@@ -15,5 +15,6 @@ TLS clients with netrc support:
 * https://github.com/yt-dlp/yt-dlp
 * https://github.com/aio-libs/aiohttp
 * https://aria2.github.io/
+* https://marlam.de/msmtp/
 
 .. vim:ts=3 sts=3 sw=3 et ft=rst
