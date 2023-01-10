@@ -1,12 +1,3 @@
-* What's going on with ``gpg_keys`` expiration dates?
-
-  .. code:: console
-
-     $ curl -s https://api.github.com/users/jwilk/gpg_keys | jq -r '.[0].expires_at'
-     2034-12-09T02:49:23.000Z
-
-  This looks unrelated the actual key expiration date.
-
 * It used to be possible to associate unverified secondary e-mail addresses with commits:
   https://news.ycombinator.com/item?id=26621223
 
