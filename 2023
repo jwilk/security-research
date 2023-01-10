@@ -18,4 +18,9 @@ rhertzog/message-id-url: shell injection
 NeoMutt: insecure use of /tmp
  | https://github.com/neomutt/neomutt/issues/3591
 
+.. 2023-01-10
+
+Vim: insecure use of /var/tmp
+ | https://bugs.debian.org/1028409
+
 .. vim:ft=rst
