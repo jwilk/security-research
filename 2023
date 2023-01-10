@@ -13,4 +13,9 @@ user-mode-linux: hostfs directory traversal
 rhertzog/message-id-url: shell injection
  | https://github.com/rhertzog/message-id-url/issues/1
 
+.. 2023-01-10
+
+NeoMutt: insecure use of /tmp
+ | https://github.com/neomutt/neomutt/issues/3591
+
 .. vim:ft=rst
