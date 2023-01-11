@@ -23,4 +23,9 @@ NeoMutt: insecure use of /tmp
 Vim: insecure use of /var/tmp
  | https://bugs.debian.org/1028409
 
+.. 2023-01-11
+
+BPF Compiler Collection: insecure use of /tmp
+ | https://bugs.debian.org/1028479
+
 .. vim:ft=rst
