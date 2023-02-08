@@ -1,3 +1,5 @@
+https://bugs.debian.org/990381
+
 The `sources.list(5)`_ man page says:
 
    The file scheme […] is useful for NFS mounts and local mirrors or archives.
