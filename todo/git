@@ -11,7 +11,7 @@ Maybe related to: https://bugs.debian.org/889680
 
 ----
 
-``git remote add`` enabled tag fetching,
+``git remote add`` enables tag fetching,
 which is a disaster waiting to happen.
 
 .. vim:ts=3 sts=3 sw=3 et ft=rst
