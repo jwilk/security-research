@@ -33,6 +33,8 @@ Some security-related stuff is hosted separately:
   demonstration that ImageMagick can be abused to create arbitrary files
 * `cdhttpd <https://github.com/jwilk/cdhttpd>`_ —
   HTTP server for testing Content-Disposition
+* `crafted.deb <https://github.com/jwilk/crafted.deb>`_ —
+  various generators of crafted \*.deb packages
 
 .. _American fuzzy lop:
    https://lcamtuf.coredump.cx/afl/
