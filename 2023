@@ -33,4 +33,9 @@ BPF Compiler Collection: insecure use of /tmp
 waybackpack: directory traversal
  | https://github.com/jsvine/waybackpack/issues/63
 
+.. 2023-02-14
+
+debian-goodies: debmany(1): shell injection
+ | https://bugs.debian.org/1031267
+
 .. vim:ft=rst
