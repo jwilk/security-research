@@ -38,4 +38,9 @@ waybackpack: directory traversal
 debian-goodies: debmany(1): shell injection
  | https://bugs.debian.org/1031267
 
+.. 2023-02-25
+
+debian-goodies: debmany(1): option injection
+ | https://bugs.debian.org/1031938
+
 .. vim:ft=rst
