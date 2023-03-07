@@ -35,7 +35,7 @@ waybackpack: directory traversal
 
 .. 2023-02-14
 
-debian-goodies: debmany(1): shell injection
+[CVE-2023-27635] debian-goodies: debmany(1): shell injection
  | https://bugs.debian.org/1031267
 
 .. 2023-02-25
