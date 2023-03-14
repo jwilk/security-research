@@ -1,5 +1,3 @@
-Bring up the topic of TTY hijacking via TIOCLINUX to oss-security.
-
 https://lore.kernel.org/all/37ebc366-2d1f-4939-db58-da72fd179418@nmatt.com/
 
 .. vim:ts=3 sts=3 sw=3 et ft=rst
