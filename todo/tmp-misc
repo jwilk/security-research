@@ -30,5 +30,6 @@
 * https://github.com/evilsocket/opensnitch/blob/v1.5.3/daemon/default-config.json#L4
 * https://github.com/queer/boxxy/blob/v0.2.5/src/enclosure/fs.rs#L18
 * https://github.com/rootless-containers/slirp4netns/tree/v1.2.0#usage
+* https://github.com/seccomp/libseccomp/blob/v2.5.4/doc/man/man3/seccomp_export_bpf.3#L85
 
 .. vim:ts=3 sts=3 sw=3 et ft=rst
