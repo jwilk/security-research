@@ -43,4 +43,9 @@ waybackpack: directory traversal
 debian-goodies: debmany(1): option injection
  | https://bugs.debian.org/1031938
 
+.. 2023-03-16
+
+mmdebstrap: world-writable ``apt.conf``
+ | https://gitlab.mister-muffin.de/josch/mmdebstrap/commit/a719ffd20a70fa27
+
 .. vim:ft=rst
