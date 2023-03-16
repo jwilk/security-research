@@ -3,5 +3,6 @@ System bootstraping into a direct subdirectory of (/var)/tmp
 
 * vmdebootstrap
 * https://manpages.debian.org/bullseye/sbuild/sbuild-createchroot.8.en.html#EXAMPLES
+* https://sources.debian.org/src/mmdebstrap/0.7.5-2.2/mmdebstrap/?hl=5188#L5186
 
 .. vim:ts=3 sts=3 sw=3 et ft=rst
