@@ -10,5 +10,6 @@
 * https://sources.debian.org/src/devscripts/2.23.2/scripts/debootsnap/?hl=580#L566
 * https://sources.debian.org/src/mmdebstrap/1.3.3-6/gpgvnoexpkeysig/
 * https://sources.debian.org/src/debvm/0.2.9/bin/debvm-create/?hl=352#L349
+* https://hackerone.com/reports/1283871 (is disabling ``/dev/tty`` access sufficient on macOS?)
 
 .. vim:ts=3 sts=3 sw=3 et ft=rst
