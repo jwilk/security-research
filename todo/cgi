@@ -20,6 +20,7 @@ Software supporting the ``HTTP_PROXY`` environment variable:
 * https://github.com/aio-libs/aiohttp
 * https://www.python-httpx.org/
 * https://github.com/david-dick/firefox-marionette
+* elinks
 
 (See https://httpoxy.org/ for background.)
 
