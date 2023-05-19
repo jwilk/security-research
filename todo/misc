@@ -12,5 +12,6 @@
 * https://sources.debian.org/src/debvm/0.2.9/bin/debvm-create/?hl=352#L349
 * https://hackerone.com/reports/1283871 (is disabling ``/dev/tty`` access sufficient on macOS?)
 * https://github.com/mkalinowski/python-mythes/blob/master/README.md (``LD_LIBRARY_PATH``)
+* https://github.com/pypa/pip/blob/6.0/CHANGES.txt#L35
 
 .. vim:ts=3 sts=3 sw=3 et ft=rst
