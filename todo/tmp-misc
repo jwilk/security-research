@@ -33,5 +33,6 @@
 * https://github.com/seccomp/libseccomp/blob/v2.5.4/doc/man/man3/seccomp_export_bpf.3#L85
 * https://git.launchpad.net/cloud-init/tree/cloudinit/temp_utils.py?h=23.2#n15
 * https://github.com/LibreOffice/core/blob/libreoffice-7.5.4.2/desktop/source/app/cmdlinehelp.cxx#L180
+* https://www.cyberciti.biz/faq/linux-unix-reuse-openssh-connection/
 
 .. vim:ts=3 sts=3 sw=3 et ft=rst
