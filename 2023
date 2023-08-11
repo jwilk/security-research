@@ -48,4 +48,9 @@ debian-goodies: debmany(1): option injection
 mmdebstrap: world-writable ``apt.conf``
  | https://gitlab.mister-muffin.de/josch/mmdebstrap/commit/a719ffd20a70fa27
 
+.. 2023-08-11
+
+fnt: directory traversal
+ | https://bugs.debian.org/1043469
+
 .. vim:ft=rst
