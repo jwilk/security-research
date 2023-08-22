@@ -34,5 +34,6 @@
 * https://git.launchpad.net/cloud-init/tree/cloudinit/temp_utils.py?h=23.2#n15
 * https://github.com/LibreOffice/core/blob/libreoffice-7.5.4.2/desktop/source/app/cmdlinehelp.cxx#L180
 * https://www.cyberciti.biz/faq/linux-unix-reuse-openssh-connection/
+* https://github.com/hanoglu/TermiC/blob/main/TermiC.sh
 
 .. vim:ts=3 sts=3 sw=3 et ft=rst
