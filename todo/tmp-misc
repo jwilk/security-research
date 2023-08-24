@@ -36,5 +36,6 @@
 * https://www.cyberciti.biz/faq/linux-unix-reuse-openssh-connection/
 * https://github.com/hanoglu/TermiC/blob/main/TermiC.sh
 * https://sources.debian.org/src/apt/2.6.1/cmdline/apt-dump-solver.cc/?hl=79#L75
+* https://sources.debian.org/src/apt/2.6.1/doc/offline.dbk/?hl=131#L122
 
 .. vim:ts=3 sts=3 sw=3 et ft=rst
