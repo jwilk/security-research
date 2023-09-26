@@ -39,5 +39,6 @@
 * https://sources.debian.org/src/apt/2.6.1/doc/offline.dbk/?hl=131#L122
 * https://wiki.debian.org/MeetBot#Installing_MeetBot_on_OS_X
 * https://github.com/jstrieb/paperify
+* https://sources.debian.org/src/sane-backends/1.2.1-5/doc/scanimage.man/#L470
 
 .. vim:ts=3 sts=3 sw=3 et ft=rst
