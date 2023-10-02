@@ -53,4 +53,9 @@ mmdebstrap: world-writable ``apt.conf``
 fnt: directory traversal
  | https://bugs.debian.org/1043469
 
+.. 2023-10-02
+
+WinFF: shell injection
+ | https://bugs.debian.org/1053373
+
 .. vim:ft=rst
