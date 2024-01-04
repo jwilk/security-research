@@ -43,6 +43,12 @@ waybackpack: directory traversal
 debian-goodies: debmany(1): option injection
  | https://bugs.debian.org/1031938
 
+.. 2023-03-14
+
+Linux: tty hijacking via TIOCLINUX
+ | https://www.openwall.com/lists/oss-security/2023/03/14/3
+ | see also CVE-2023-28100
+
 .. 2023-03-16
 
 mmdebstrap: world-writable ``apt.conf``
