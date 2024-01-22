@@ -1,0 +1,6 @@
+.. 2024-01-20
+
+debian-goodies: debmany(1) man page: shell injection
+ | https://bugs.debian.org/1031267#33
+
+.. vim:ft=rst
