@@ -9,4 +9,8 @@ Is ``file://`` with NFS (or another networking fs) secure?
 .. _sources.list(5):
    https://manpages.debian.org/bullseye/apt/sources.list.5.en.html#URI_SPECIFICATION
 
+----
+
+Is APT vulnerable to tty hijacking?
+
 .. vim:ts=3 sts=3 sw=3 et ft=rst
