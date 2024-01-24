@@ -1,0 +1,6 @@
+U+0085 is considered a line seperator in Python,
+at least as far as `str.splitlines()` is concerned.
+
+Could this be exploited for smuggling?
+
+.. vim:ts=3 sts=3 sw=3 et ft=rst
