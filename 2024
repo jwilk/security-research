@@ -8,4 +8,9 @@ debian-goodies: debmany(1) man page: shell injection
 waybackpack: insecure use of assert (leading to directory traversal)
  | https://github.com/jsvine/waybackpack/pull/75
 
+.. 2024-01-25
+
+waybackpack: directory traversal
+ | https://github.com/jsvine/waybackpack/pull/76
+
 .. vim:ft=rst
