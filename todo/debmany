@@ -1,0 +1,7 @@
+Can we abuse symlinks for DoS (or worse)?
+
+Can we abuse ``.so`` requests for DoS (or worse)?
+
+What does ``kfmclient exec`` do exactly?
+
+.. vim:ts=3 sts=3 sw=3 et ft=rst
