@@ -13,4 +13,9 @@ waybackpack: insecure use of assert (leading to directory traversal)
 waybackpack: directory traversal
  | https://github.com/jsvine/waybackpack/pull/76
 
+.. 2024-01-26
+
+WinFF: shell injection (redux)
+ | https://bugs.debian.org/1053373#17
+
 .. vim:ft=rst
