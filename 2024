@@ -18,4 +18,9 @@ waybackpack: directory traversal
 WinFF: shell injection (redux)
  | https://bugs.debian.org/1053373#17
 
+.. 2024-01-26
+
+WinFF: insecure permissions (re-researched)
+ | https://bugs.debian.org/1061586
+
 .. vim:ft=rst
