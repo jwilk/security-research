@@ -23,4 +23,9 @@ WinFF: shell injection (redux)
 WinFF: insecure permissions (re-researched)
  | https://bugs.debian.org/1061586
 
+.. 2024-02-01
+
+`halfdog's tty hijacking write-up <https://www.halfdog.net/Security/2012/TtyPushbackPrivilegeEscalation/>`_: incomplete fix for tty hijacking
+ | https://www.openwall.com/lists/oss-security/2024/01/31/7
+
 .. vim:ft=rst
