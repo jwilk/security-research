@@ -1,0 +1,5 @@
+.. code:: console
+
+   $ printf '\33]50;%s\007' xft:mono-9999
+
+.. vim:ts=3 sts=3 sw=3 et ft=rst
