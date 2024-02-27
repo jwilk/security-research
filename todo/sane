@@ -1,0 +1,11 @@
+SANE tries to reads config from cwd:
+
+.. code:: console
+
+   $ strace -o '| grep -F /test.conf' scanimage -d test:0 --format pnm -n
+   openat(AT_FDCWD, "./test.conf", O_RDONLY) = -1 ENOENT (No such file or directory)
+   openat(AT_FDCWD, "/etc/sane.d/test.conf", O_RDONLY) = 3
+
+Could this be expolited beyond DoS?
+
+.. vim:ts=3 sts=3 sw=3 et ft=rst
