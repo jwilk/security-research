@@ -15,7 +15,7 @@ waybackpack: directory traversal
 
 .. 2024-01-26
 
-WinFF: shell injection (redux)
+WinFF: shell injection (2nd)
  | https://bugs.debian.org/1053373#17
 
 .. 2024-01-26
@@ -32,5 +32,10 @@ WinFF: insecure permissions (re-researched)
 
 util-linux: wall(1)/write(1) C1 injection
  | https://www.openwall.com/lists/oss-security/2024/03/27/7
+
+.. 2024-04-05
+
+WinFF: shell injection (3rd)
+ | https://bugs.debian.org/1068471
 
 .. vim:ft=rst
