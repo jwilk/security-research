@@ -38,4 +38,9 @@ util-linux: wall(1)/write(1) C1 injection
 WinFF: shell injection (3rd)
  | https://bugs.debian.org/1068471
 
+.. 2024-04-12
+
+less: shell injection
+ | https://www.openwall.com/lists/oss-security/2024/04/12/5
+
 .. vim:ft=rst
