@@ -55,7 +55,7 @@ info: buffer overflow
 
 .. 2022-12-13
 
-python-debianbts: missing certificate verfication
+python-debianbts: missing certificate verification
  | https://bugs.debian.org/1026030
 
 .. 2022-12-23
