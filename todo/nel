@@ -1,4 +1,4 @@
-U+0085 is considered a line seperator in Python,
+U+0085 is considered a line separator in Python,
 at least as far as `str.splitlines()` is concerned.
 
 Could this be exploited for smuggling?
