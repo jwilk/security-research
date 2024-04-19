@@ -51,5 +51,6 @@
 * https://virtio-fs.gitlab.io/howto-qemu.html
 * https://sources.debian.org/src/presentty/0.2.1-1.1/README.rst/?hl=75#L66
 * https://sources.debian.org/src/mono/6.8.0.105+dfsg-3.6/mono/metadata/attach.c/?hl=205#L190
+* https://sources.debian.org/src/snapd/2.62-1/cmd/snap-confine/mount-support.c/#L53
 
 .. vim:ts=3 sts=3 sw=3 et ft=rst
