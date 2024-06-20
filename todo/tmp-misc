@@ -54,5 +54,6 @@
 * https://sources.debian.org/src/snapd/2.62-1/cmd/snap-confine/mount-support.c/#L53
 * https://sources.debian.org/src/python-boto3/1.34.46+dfsg-1/boto3/s3/transfer.py/?hl=103#L79
 * https://sources.debian.org/src/systemd/255.5-1/test/units/testsuite-54.sh/?hl=20#L18
+* https://manpages.debian.org/bookworm/devscripts/dcmd.1.en.html#EXAMPLES
 
 .. vim:ts=3 sts=3 sw=3 et ft=rst
