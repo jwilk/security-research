@@ -45,7 +45,7 @@ jhead: shell injection
 
 .. 2022-11-15
 
-Linux: weak ASLR
+[CVE-2024-26621] Linux: weak ASLR
  | https://bugs.debian.org/1024149
 
 .. 2022-12-12
