@@ -57,5 +57,6 @@
 * https://manpages.debian.org/bookworm/devscripts/dcmd.1.en.html#EXAMPLES
 * https://vimdoc.sourceforge.net/htmldoc/spell.html#:mkspell
 * https://github.com/h4l/json.bash
+* https://github.com/josegonzalez/python-github-backup#github-backup-examples
 
 .. vim:ts=3 sts=3 sw=3 et ft=rst
