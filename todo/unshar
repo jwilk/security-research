@@ -1,0 +1,15 @@
+.. code:: console
+
+   $ printf '#!/bin/sh\ncowsay pwned\n' > test.shar
+   $ unshar test.shar 
+   test.shar:
+    _______
+   < pwned >
+    -------
+           \   ^__^
+            \  (oo)\_______
+               (__)\       )\/\
+                   ||----w |
+                   ||     ||
+
+.. vim:ts=3 sts=3 sw=3 et ft=rst
