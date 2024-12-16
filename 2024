@@ -43,4 +43,9 @@ WinFF: shell injection (3rd)
 [CVE-2024-32487] less: shell injection
  | https://www.openwall.com/lists/oss-security/2024/04/12/5
 
+.. 2024-12-16
+
+Python: tarfile directory traversal
+ | https://github.com/python/cpython/issues/127987
+
 .. vim:ft=rst
