@@ -1,7 +1,7 @@
 .. code:: console
 
    $ printf '#!/bin/sh\ncowsay pwned\n' > test.shar
-   $ unshar test.shar 
+   $ unshar test.shar
    test.shar:
     _______
    < pwned >
