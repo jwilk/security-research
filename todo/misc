@@ -13,5 +13,6 @@
 * https://hackerone.com/reports/1283871 (is disabling ``/dev/tty`` access sufficient on macOS?)
 * https://github.com/mkalinowski/python-mythes/blob/master/README.md (``LD_LIBRARY_PATH``)
 * https://github.com/pypa/pip/blob/6.0/CHANGES.txt#L35
+* https://git.savannah.gnu.org/cgit/gettext.git/commit/?id=2406f51927025aec5df668b40096f965a8ec069c ("xgettext: Implement a "reproducible" POT-Creation-Date value.")
 
 .. vim:ts=3 sts=3 sw=3 et ft=rst
