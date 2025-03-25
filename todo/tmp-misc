@@ -61,5 +61,6 @@
 * https://manpages.debian.org/bookworm/qemu-utils/qemu-nbd.8.en.html#EXAMPLES
 * https://github.com/vimpostor/copycat#copycat
 * https://sources.debian.org/src/podman/5.4.1+ds1-1/libpod/define/config.go/?hl=12#L10 (``/dev/shm/libpod_lock``)
+* https://github.com/naelstrof/slop#practical-applications
 
 .. vim:ts=3 sts=3 sw=3 et ft=rst
