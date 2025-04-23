@@ -1,0 +1,6 @@
+.. 2025-04-23
+
+busybox patch: incomplete fix for directory traversal
+ | https://www.openwall.com/lists/oss-security/2025/04/23/3
+
+.. vim:ft=rst
