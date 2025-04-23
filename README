@@ -35,6 +35,8 @@ Some security-related stuff is hosted separately:
   HTTP server for testing Content-Disposition
 * `crafted.deb <https://github.com/jwilk/crafted.deb>`_ —
   various generators of crafted \*.deb packages
+* `surrealpath <https://codeberg.org/jwilk/surrealpath>`_ —
+  demonstration of ``realpath()`` spoofing
 
 .. _American fuzzy lop:
    https://lcamtuf.coredump.cx/afl/
