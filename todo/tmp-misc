@@ -63,5 +63,6 @@
 * https://sources.debian.org/src/podman/5.4.1+ds1-1/libpod/define/config.go/?hl=12#L10 (``/dev/shm/libpod_lock``)
 * https://github.com/naelstrof/slop#practical-applications
 * https://github.com/BLAKE3-team/BLAKE3#the-b3sum-utility
+* https://github.com/stef/klutshnik#testing
 
 .. vim:ts=3 sts=3 sw=3 et ft=rst
