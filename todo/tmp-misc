@@ -64,5 +64,7 @@
 * https://github.com/naelstrof/slop#practical-applications
 * https://github.com/BLAKE3-team/BLAKE3#the-b3sum-utility
 * https://github.com/stef/klutshnik#testing
+* https://sources.debian.org/src/virtme-ng/1.35-1/virtme/commands/run.py/#L950
+* https://github.com/arighi/virtme-ng#examples
 
 .. vim:ts=3 sts=3 sw=3 et ft=rst
