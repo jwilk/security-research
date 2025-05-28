@@ -3,4 +3,9 @@
 busybox patch: incomplete fix for directory traversal
  | https://www.openwall.com/lists/oss-security/2025/04/23/3
 
+.. 2025-05-28
+
+Debian package isc-kea: Apparmor profile bypass
+ | https://www.openwall.com/lists/oss-security/2025/05/28/11
+
 .. vim:ft=rst
