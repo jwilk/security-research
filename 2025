@@ -13,4 +13,9 @@ Debian package isc-kea: Apparmor profile bypass
 cve-bin-tool: path traversal
  | https://www.openwall.com/lists/oss-security/2025/06/20/1
 
+.. 2025-07-24
+
+vet: use of unfaithful pager
+ | https://news.ycombinator.com/item?id=44671221
+
 .. vim:ft=rst
