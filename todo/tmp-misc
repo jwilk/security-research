@@ -66,5 +66,6 @@
 * https://github.com/stef/klutshnik#testing
 * https://sources.debian.org/src/virtme-ng/1.35-1/virtme/commands/run.py/#L950
 * https://github.com/arighi/virtme-ng#examples
+* https://manpages.debian.org/trixie/fish-common/fish.1.en.html#DEBUGGING
 
 .. vim:ts=3 sts=3 sw=3 et ft=rst
