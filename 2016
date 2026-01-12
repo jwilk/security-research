@@ -42,7 +42,7 @@ check-all-the-things: code execution via pylint
 .. 2016-06-26
 
 pylint: untrusted search path
- | https://github.com/PyCQA/pylint/issues/959
+ | https://github.com/pylint-dev/pylint/issues/959
 
 .. 2016-06-27
 
