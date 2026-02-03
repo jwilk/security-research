@@ -37,6 +37,8 @@ Some security-related stuff is hosted separately:
   various generators of crafted \*.deb packages
 * `surrealpath <https://codeberg.org/jwilk/surrealpath>`_ —
   demonstration of ``realpath()`` spoofing
+* `naughty-pickle <https://codeberg.org/jwilk/naughty-pickle>`_
+  to create Python pickles that execute arbitrary code when deserialized
 
 .. _American fuzzy lop:
    https://lcamtuf.coredump.cx/afl/
