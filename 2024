@@ -45,7 +45,7 @@ WinFF: shell injection (3rd)
 
 .. 2024-12-16
 
-Python: tarfile directory traversal
+[CVE-2024-12718] Python: tarfile directory traversal
  | https://github.com/python/cpython/issues/127987
 
 .. vim:ft=rst
