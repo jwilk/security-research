@@ -68,5 +68,6 @@
 * https://github.com/arighi/virtme-ng#examples
 * https://manpages.debian.org/trixie/fish-common/fish.1.en.html#DEBUGGING
 * https://manpages.debian.org/trixie/taskwarrior/taskrc.5.en.html#DESCRIPTION
+* https://sources.debian.org/src/torbrowser-launcher/0.3.7-3/torbrowser_launcher/common.py?hl=75#L73
 
 .. vim:ts=3 sts=3 sw=3 et ft=rst
