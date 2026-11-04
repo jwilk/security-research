@@ -1,0 +1,3 @@
+* https://sources.debian.org/src/kcoreaddons/5.116.0-1/src/lib/text/kmacroexpander_unix.cpp#L43 https://bugs.kde.org/show_bug.cgi?id=527863
+
+.. vim:ts=3 sts=3 sw=3 et ft=rst
